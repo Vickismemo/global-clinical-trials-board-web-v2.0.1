@@ -1,0 +1,111 @@
+name: Sync clinical research sources and deploy
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 03:25 UTC = 11:25 China Standard Time. GitHub cron may start with delay.
+    - cron: '25 3 * * *'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  sync-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install sync dependencies
+        run: pip install -r scripts/requirements-sync.txt
+
+      - name: Synchronize configured sources
+        env:
+          WHO_ICTRP_FEED_URL: ${{ secrets.WHO_ICTRP_FEED_URL }}
+          NMRR_FEED_URL: ${{ secrets.NMRR_FEED_URL }}
+          NMPA_SEEDS: ${{ secrets.NMPA_SEEDS }}
+          CRG_USER_AGENT: GlobalClinicalResearchGraph/2.4 (+${{ github.server_url }}/${{ github.repository }})
+          CRG_PUBLIC_BENEFIT_MODE: 'true'
+          CRG_BACKFILL_PAGES_PER_RUN: '6'
+          NMPA_PREFIX_YEARS: '4'
+        run: python scripts/sync_sources.py
+
+      - name: Generate browser runtime configuration
+        env:
+          AMAP_WEB_KEY: ${{ vars.AMAP_WEB_KEY }}
+          AMAP_SECURITY_JSCODE: ${{ vars.AMAP_SECURITY_JSCODE }}
+          AMAP_ENGLISH_LABELS: ${{ vars.AMAP_ENGLISH_LABELS }}
+        run: |
+          python - <<'PY'
+          import json, os, pathlib
+          payload = {
+              "map": {
+                  "amapKey": os.getenv("AMAP_WEB_KEY", "").strip(),
+                  "amapSecurityJsCode": os.getenv("AMAP_SECURITY_JSCODE", "").strip(),
+                  "enableEnglishMapLabels": os.getenv("AMAP_ENGLISH_LABELS", "").strip().lower() in {"1","true","yes","on"},
+              }
+          }
+          pathlib.Path("runtime-config.js").write_text(
+              "window.__CRG_RUNTIME_CONFIG__ = " + json.dumps(payload, ensure_ascii=False) + ";\n",
+              encoding="utf-8",
+          )
+          print("runtime-config.js generated; AMap key configured:", bool(payload["map"]["amapKey"]))
+          PY
+
+      - name: Validate generated snapshots
+        run: |
+          python - <<'PY'
+          import json, pathlib
+          for p in pathlib.Path('data').glob('*.json'):
+              json.loads(p.read_text(encoding='utf-8'))
+              print('OK', p)
+          PY
+          npm run check
+
+      - name: Commit source data changes
+        run: |
+          if git diff --quiet -- data; then
+            echo "No source data changes."
+          else
+            git config user.name "clinical-research-graph-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data
+            git commit -m "chore(data): scheduled source sync"
+            git push
+          fi
+
+      # Important: a commit pushed with GITHUB_TOKEN does not trigger a Pages
+      # build. Deploy the synchronized working tree directly in this workflow.
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload synchronized site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+
+      - name: Deploy synchronized site
+        id: deployment
+        uses: actions/deploy-pages@v4
