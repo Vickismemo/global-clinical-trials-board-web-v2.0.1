@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-29T00:00:00Z",
-  "sourceProcessedAt": "2026-08-29",
+  "generatedAt": "2026-08-31T09:57:17Z",
+  "sourceProcessedAt": "2026-08-31T09:57:17Z",
+  "note": "自动同步公开检索页的最新登记记录并累积保存；不绕过登录、验证码或访问控制。历史全量回填需单独的官方导出/授权方案。",
   "sourceName": "ChiCTR",
   "recordCount": 10,
-  "note": "随 v2.3.0 提供的官方公开页面引导样本；部署后由 GitHub Actions 每日尝试增量刷新。",
   "records": [
     {
       "id": "ChiCTR2600131182",

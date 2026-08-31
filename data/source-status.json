@@ -1,40 +1,47 @@
 {
-  "generatedAt": null,
+  "generatedAt": "2026-08-31T09:57:17Z",
   "clinicaltrials": {
     "status": "live",
     "mode": "browser-live-api",
+    "lastAttempt": "2026-08-31T09:57:17Z",
     "recordCount": null,
     "coverage": "full-query",
-    "note": "浏览器访问时直接调用 ClinicalTrials.gov API v2。"
+    "note": "前端访问时直接调用 ClinicalTrials.gov API v2；该源不依赖本定时任务。"
+  },
+  "chictr": {
+    "status": "ready",
+    "mode": "scheduled-public-html",
+    "lastAttempt": "2026-08-31T09:57:17Z",
+    "lastSuccess": "2026-08-31T09:57:17Z",
+    "recordCount": 10,
+    "coverage": "incremental-latest",
+    "note": "每日读取公开登记页并尝试跟随公开分页，从启用日期起持续增量/回填；单次最多 6 页。 分页警告：['page 1: 405 Client Error: Not Allowed for url: https://www.chictr.org.cn/searchprojEN.html']"
+  },
+  "nmpa": {
+    "status": "degraded",
+    "mode": "scheduled-public-query-backfill",
+    "lastAttempt": "2026-08-31T09:57:17Z",
+    "lastSuccess": "2026-08-29T00:00:00Z",
+    "recordCount": 7,
+    "coverage": "incremental-backfill",
+    "note": "本轮未解析到公开 CTR 记录；保留上次成功快照。"
   },
   "who": {
     "status": "authorization-required",
-    "mode": "official-export-auto-ingest",
+    "mode": "authorized-feed",
+    "lastAttempt": "2026-08-31T09:57:17Z",
+    "lastSuccess": null,
     "recordCount": 0,
-    "coverage": "configured-official-export",
-    "note": "公益非商业展示可按 WHO ICTRP 条款使用公开下载数据；需一次性配置官方 CSV/XML/SharePoint/Web Service 地址，之后 GitHub Actions 自动同步。"
-  },
-  "chictr": {
-    "status": "seeded",
-    "mode": "scheduled-public-html-backfill",
-    "recordCount": 10,
-    "coverage": "incremental-backfill",
-    "note": "已包含公开样本；GitHub Actions 每日同步公开登记页并尝试跟随公开分页，逐步增量/回填。",
-    "lastSuccess": "2026-08-29T00:00:00Z"
+    "coverage": "configured-feed",
+    "note": "WHO ICTRP 数据可免费从 Search Portal 下载，且官方数据库按周更新；批量自动化仍需要配置官方导出/SharePoint/Web Service 地址。公益、非商业展示仍须遵守 WHO 的署名、更新与非营销使用条款。"
   },
   "nmrr": {
     "status": "portal-online-feed-required",
-    "mode": "public-portal-health+official-export-auto-ingest",
-    "recordCount": 0,
-    "coverage": "portal+configured-feed",
-    "note": "官网公开可访问；当前未确认稳定匿名批量项目接口。取得公开/授权导出地址后设置 NMRR_FEED_URL，GitHub Actions 自动同步。"
-  },
-  "nmpa": {
-    "status": "seeded-partial",
-    "mode": "scheduled-public-query-backfill",
-    "recordCount": 7,
-    "coverage": "incremental-backfill",
-    "note": "已包含官方公开查询样本；GitHub Actions 每日通过公开列表、年度 CTR 前缀和交叉注册种子逐步增量/回填。",
-    "lastSuccess": "2026-08-29T00:00:00Z"
+    "mode": "public-portal-health",
+    "lastAttempt": "2026-08-31T09:57:17Z",
+    "lastSuccess": "2026-08-31T09:57:17Z",
+    "recordCount": null,
+    "coverage": "portal-only",
+    "note": "国家医学研究登记备案信息系统 官网可访问，但当前没有确认到稳定、无需登录的批量项目数据接口；平台不会绕过账户、验证码或访问控制。 如取得公开/授权导出地址，设置 NMRR_FEED_URL 后 GitHub Actions 将自动持续同步。"
   }
 }
