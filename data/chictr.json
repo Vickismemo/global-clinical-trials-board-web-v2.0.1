@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-14T09:07:58Z",
-  "sourceProcessedAt": "2026-09-14T09:07:58Z",
+  "generatedAt": "2026-09-15T08:50:24Z",
+  "sourceProcessedAt": "2026-09-15T08:50:24Z",
   "note": "自动同步公开检索页的最新登记记录并累积保存；不绕过登录、验证码或访问控制。历史全量回填需单独的官方导出/授权方案。",
   "sourceName": "ChiCTR",
   "recordCount": 10,
