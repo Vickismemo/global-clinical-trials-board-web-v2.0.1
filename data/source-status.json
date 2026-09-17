@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T08:44:16Z",
+  "generatedAt": "2026-09-17T08:47:51Z",
   "clinicaltrials": {
     "status": "live",
     "mode": "browser-live-api",
-    "lastAttempt": "2026-09-16T08:44:16Z",
+    "lastAttempt": "2026-09-17T08:47:51Z",
     "recordCount": null,
     "coverage": "full-query",
     "note": "前端访问时直接调用 ClinicalTrials.gov API v2；该源不依赖本定时任务。"
@@ -11,8 +11,8 @@
   "chictr": {
     "status": "ready",
     "mode": "scheduled-public-html",
-    "lastAttempt": "2026-09-16T08:44:16Z",
-    "lastSuccess": "2026-09-16T08:44:16Z",
+    "lastAttempt": "2026-09-17T08:47:51Z",
+    "lastSuccess": "2026-09-17T08:47:51Z",
     "recordCount": 10,
     "coverage": "incremental-latest",
     "note": "每日读取公开登记页并尝试跟随公开分页，从启用日期起持续增量/回填；单次最多 6 页。 分页警告：['page 1: 405 Client Error: Not Allowed for url: https://www.chictr.org.cn/searchprojEN.html']"
@@ -20,7 +20,7 @@
   "nmpa": {
     "status": "degraded",
     "mode": "scheduled-public-query-backfill",
-    "lastAttempt": "2026-09-16T08:44:16Z",
+    "lastAttempt": "2026-09-17T08:47:51Z",
     "lastSuccess": "2026-09-06T08:00:46Z",
     "recordCount": 87,
     "coverage": "incremental-backfill",
@@ -29,7 +29,7 @@
   "who": {
     "status": "authorization-required",
     "mode": "authorized-feed",
-    "lastAttempt": "2026-09-16T08:44:16Z",
+    "lastAttempt": "2026-09-17T08:47:51Z",
     "lastSuccess": null,
     "recordCount": 0,
     "coverage": "configured-feed",
@@ -38,8 +38,8 @@
   "nmrr": {
     "status": "portal-online-feed-required",
     "mode": "public-portal-health",
-    "lastAttempt": "2026-09-16T08:44:16Z",
-    "lastSuccess": "2026-09-16T08:44:16Z",
+    "lastAttempt": "2026-09-17T08:47:51Z",
+    "lastSuccess": "2026-09-17T08:47:51Z",
     "recordCount": null,
     "coverage": "portal-only",
     "note": "国家医学研究登记备案信息系统 官网可访问，但当前没有确认到稳定、无需登录的批量项目数据接口；平台不会绕过账户、验证码或访问控制。 如取得公开/授权导出地址，设置 NMRR_FEED_URL 后 GitHub Actions 将自动持续同步。"
