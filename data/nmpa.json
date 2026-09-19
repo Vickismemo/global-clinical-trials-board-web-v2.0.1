@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-06T08:00:46Z",
-  "sourceProcessedAt": "2026-09-06T08:00:46Z",
+  "generatedAt": "2026-09-19T08:11:26Z",
+  "sourceProcessedAt": "2026-09-19T08:11:26Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 87,
+  "recordCount": 107,
   "records": [
     {
       "id": "CTR20260083",
@@ -984,8 +984,8 @@
       },
       "briefTitle": "SYH9061在健康男性参与者中的Ⅰ期临床试验",
       "officialTitle": "SYH9061在健康男性参与者中的Ⅰ期临床试验",
-      "statusCode": "RECRUITING",
-      "statusLabel": "招募中",
+      "statusCode": "COMPLETED",
+      "statusLabel": "已完成",
       "conditions": [
         "治疗肺纤维化"
       ],
@@ -3132,6 +3132,726 @@
       "developmentStageLabel": "PK 药代动力学试验",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20234315",
       "plainSummary": "NMPA 公开登记：司美格鲁肽注射液；适应症：2型糖尿病。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263621",
+      "identifiers": {
+        "nmpa": "CTR20263621"
+      },
+      "briefTitle": "SCTB35联合SCTB41与化疗不联用或联用在非霍奇金淋巴瘤的Ib/Ⅱ期临床研究",
+      "officialTitle": "SCTB35联合SCTB41与化疗不联用或联用在非霍奇金淋巴瘤的Ib/Ⅱ期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "非霍奇金淋巴瘤"
+      ],
+      "keywords": [
+        "SCTB41注射液"
+      ],
+      "interventions": [
+        {
+          "name": "SCTB41注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "SCTB35联合SCTB41与化疗不联用或联用在非霍奇金淋巴瘤的Ib/Ⅱ期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263621",
+      "plainSummary": "NMPA 公开登记：SCTB41注射液；适应症：非霍奇金淋巴瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263618",
+      "identifiers": {
+        "nmpa": "CTR20263618"
+      },
+      "briefTitle": "SCTB35联合SCTB41与化疗不联用或联用在非霍奇金淋巴瘤的Ib/Ⅱ期临床研究",
+      "officialTitle": "SCTB35联合SCTB41与化疗不联用或联用在非霍奇金淋巴瘤的Ib/Ⅱ期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "非霍奇金淋巴瘤"
+      ],
+      "keywords": [
+        "SCTB35注射液"
+      ],
+      "interventions": [
+        {
+          "name": "SCTB35注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "SCTB35联合SCTB41与化疗不联用或联用在非霍奇金淋巴瘤的Ib/Ⅱ期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263618",
+      "plainSummary": "NMPA 公开登记：SCTB35注射液；适应症：非霍奇金淋巴瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263614",
+      "identifiers": {
+        "nmpa": "CTR20263614"
+      },
+      "briefTitle": "羧基麦芽糖铁注射液的生物等效性预试验",
+      "officialTitle": "羧基麦芽糖铁注射液的生物等效性预试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品适用于在以下情况下治疗成人患者的缺铁：口服铁剂治疗无效时；无法口服补铁时；临床上需要快速补充铁时。"
+      ],
+      "keywords": [
+        "羧基麦芽糖铁注射液"
+      ],
+      "interventions": [
+        {
+          "name": "羧基麦芽糖铁注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "羧基麦芽糖铁注射液的生物等效性预试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263614",
+      "plainSummary": "NMPA 公开登记：羧基麦芽糖铁注射液；适应症：本品适用于在以下情况下治疗成人患者的缺铁：口服铁剂治疗无效时；无法口服补铁时；临床上需要快速补充铁时。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263612",
+      "identifiers": {
+        "nmpa": "CTR20263612"
+      },
+      "briefTitle": "ICP-B381治疗晚期实体瘤的I/II期研究",
+      "officialTitle": "ICP-B381治疗晚期实体瘤的I/II期研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "晚期实体瘤"
+      ],
+      "keywords": [
+        "ICP-B381"
+      ],
+      "interventions": [
+        {
+          "name": "ICP-B381",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "ICP-B381治疗晚期实体瘤的I/II期研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE1_PHASE2",
+      "developmentStageLabel": "Ⅰ/Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263612",
+      "plainSummary": "NMPA 公开登记：ICP-B381；适应症：晚期实体瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263611",
+      "identifiers": {
+        "nmpa": "CTR20263611"
+      },
+      "briefTitle": "评价口服炔丙基半胱氨酸胶囊在中国健康受试者中多次给药和食物影响的I期临床研究",
+      "officialTitle": "评价口服炔丙基半胱氨酸胶囊在中国健康受试者中多次给药和食物影响的I期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "类风湿性关节炎"
+      ],
+      "keywords": [
+        "炔丙基半胱氨酸胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "炔丙基半胱氨酸胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价口服炔丙基半胱氨酸胶囊在中国健康受试者中多次给药和食物影响的I期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263611",
+      "plainSummary": "NMPA 公开登记：炔丙基半胱氨酸胶囊；适应症：类风湿性关节炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263610",
+      "identifiers": {
+        "nmpa": "CTR20263610"
+      },
+      "briefTitle": "苯磺酸美洛加巴林片生物等效性预试验",
+      "officialTitle": "苯磺酸美洛加巴林片生物等效性预试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于治疗成人糖尿病性周围神经病理性疼痛"
+      ],
+      "keywords": [
+        "苯磺酸美洛加巴林片"
+      ],
+      "interventions": [
+        {
+          "name": "苯磺酸美洛加巴林片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "苯磺酸美洛加巴林片生物等效性预试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263610",
+      "plainSummary": "NMPA 公开登记：苯磺酸美洛加巴林片；适应症：用于治疗成人糖尿病性周围神经病理性疼痛。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263609",
+      "identifiers": {
+        "nmpa": "CTR20263609"
+      },
+      "briefTitle": "乌帕替尼缓释片空腹和餐后条件下的人体生物等效性试验",
+      "officialTitle": "乌帕替尼缓释片空腹和餐后条件下的人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "特应性皮炎、类风湿关节炎、银屑病关节炎、溃疡性结肠炎、克罗恩病、放射学阴性中轴型脊柱关节炎（nr-axSpA）、强直性脊柱炎（AS，放射学阳性中轴型脊柱关节炎）、巨细胞动脉炎"
+      ],
+      "keywords": [
+        "乌帕替尼缓释片"
+      ],
+      "interventions": [
+        {
+          "name": "乌帕替尼缓释片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "乌帕替尼缓释片空腹和餐后条件下的人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263609",
+      "plainSummary": "NMPA 公开登记：乌帕替尼缓释片；适应症：特应性皮炎、类风湿关节炎、银屑病关节炎、溃疡性结肠炎、克罗恩病、放射学阴性中轴型脊柱关节炎（nr-axSpA）、强直性脊柱炎（AS，放射学阳性中轴型脊柱关节炎）、巨细胞动脉炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263596",
+      "identifiers": {
+        "nmpa": "CTR20263596"
+      },
+      "briefTitle": "在中国青少年超重或肥胖参与者中评估埃诺格鲁肽注射液有效性和安全性的Ⅲ期临床研究（SLIMMER-YOUNG）",
+      "officialTitle": "在中国青少年超重或肥胖参与者中评估埃诺格鲁肽注射液有效性和安全性的Ⅲ期临床研究（SLIMMER-YOUNG）",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "青少年超重或肥胖患者体重管理"
+      ],
+      "keywords": [
+        "XW003注射液"
+      ],
+      "interventions": [
+        {
+          "name": "XW003注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "在中国青少年超重或肥胖参与者中评估埃诺格鲁肽注射液有效性和安全性的Ⅲ期临床研究（SLIMMER-YOUNG）"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE3",
+      "developmentStageLabel": "Ⅲ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263596",
+      "plainSummary": "NMPA 公开登记：XW003注射液；适应症：青少年超重或肥胖患者体重管理。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263594",
+      "identifiers": {
+        "nmpa": "CTR20263594"
+      },
+      "briefTitle": "奥美拉唑肠溶胶囊空腹生物等效性试验",
+      "officialTitle": "奥美拉唑肠溶胶囊空腹生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "适用于胃溃疡、十二指肠溃疡、胃食管反流病和卓-艾氏综合征（胃泌素瘤）。"
+      ],
+      "keywords": [
+        "奥美拉唑肠溶胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "奥美拉唑肠溶胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "奥美拉唑肠溶胶囊空腹生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263594",
+      "plainSummary": "NMPA 公开登记：奥美拉唑肠溶胶囊；适应症：适用于胃溃疡、十二指肠溃疡、胃食管反流病和卓-艾氏综合征（胃泌素瘤）。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263593",
+      "identifiers": {
+        "nmpa": "CTR20263593"
+      },
+      "briefTitle": "QY201片人体生物等效性研究",
+      "officialTitle": "QY201片人体生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "特应性皮炎"
+      ],
+      "keywords": [
+        "QY201片"
+      ],
+      "interventions": [
+        {
+          "name": "QY201片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "QY201片人体生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263593",
+      "plainSummary": "NMPA 公开登记：QY201片；适应症：特应性皮炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263592",
+      "identifiers": {
+        "nmpa": "CTR20263592"
+      },
+      "briefTitle": "颅痛宁丸（浓缩丸）治疗三叉神经痛（气滞血瘀证）的Ⅱ期临床试验",
+      "officialTitle": "颅痛宁丸（浓缩丸）治疗三叉神经痛（气滞血瘀证）的Ⅱ期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "三叉神经痛"
+      ],
+      "keywords": [
+        "颅痛宁丸（浓缩丸）"
+      ],
+      "interventions": [
+        {
+          "name": "颅痛宁丸（浓缩丸）",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "颅痛宁丸（浓缩丸）治疗三叉神经痛（气滞血瘀证）的Ⅱ期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263592",
+      "plainSummary": "NMPA 公开登记：颅痛宁丸（浓缩丸）；适应症：三叉神经痛。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263590",
+      "identifiers": {
+        "nmpa": "CTR20263590"
+      },
+      "briefTitle": "盐酸安罗替尼胶囊（12 mg）人体高脂餐后生物等效性预试验",
+      "officialTitle": "盐酸安罗替尼胶囊（12 mg）人体高脂餐后生物等效性预试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "非小细胞肺癌、小细胞肺癌、软组织肉瘤、甲状腺癌（甲状腺髓样癌、分化型甲状腺癌）、子宫内膜癌、肾细胞癌、肝细胞癌"
+      ],
+      "keywords": [
+        "盐酸安罗替尼胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "盐酸安罗替尼胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "盐酸安罗替尼胶囊（12 mg）人体高脂餐后生物等效性预试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263590",
+      "plainSummary": "NMPA 公开登记：盐酸安罗替尼胶囊；适应症：非小细胞肺癌、小细胞肺癌、软组织肉瘤、甲状腺癌（甲状腺髓样癌、分化型甲状腺癌）、子宫内膜癌、肾细胞癌、肝细胞癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263585",
+      "identifiers": {
+        "nmpa": "CTR20263585"
+      },
+      "briefTitle": "盐酸沙丙蝶呤片生物等效性试验",
+      "officialTitle": "盐酸沙丙蝶呤片生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "适用于对本品治疗有反应的四氢生物蝶呤（BH4）缺乏症所导致的高苯丙氨酸血症（HPA），可用于成人及4岁以上儿童。"
+      ],
+      "keywords": [
+        "盐酸沙丙蝶呤片"
+      ],
+      "interventions": [
+        {
+          "name": "盐酸沙丙蝶呤片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "盐酸沙丙蝶呤片生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263585",
+      "plainSummary": "NMPA 公开登记：盐酸沙丙蝶呤片；适应症：适用于对本品治疗有反应的四氢生物蝶呤（BH4）缺乏症所导致的高苯丙氨酸血症（HPA），可用于成人及4岁以上儿童。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263579",
+      "identifiers": {
+        "nmpa": "CTR20263579"
+      },
+      "briefTitle": "注射用SHR-4595治疗晚期实体瘤的I期研究",
+      "officialTitle": "注射用SHR-4595治疗晚期实体瘤的I期研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "实体瘤"
+      ],
+      "keywords": [
+        "注射用SHR-4595"
+      ],
+      "interventions": [
+        {
+          "name": "注射用SHR-4595",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "注射用SHR-4595治疗晚期实体瘤的I期研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263579",
+      "plainSummary": "NMPA 公开登记：注射用SHR-4595；适应症：实体瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263578",
+      "identifiers": {
+        "nmpa": "CTR20263578"
+      },
+      "briefTitle": "维立西呱片在健康试验参与者中餐后状态下的单剂量、随机、开放、两周期、两序列、双交叉设计的生物等效性试验",
+      "officialTitle": "维立西呱片在健康试验参与者中餐后状态下的单剂量、随机、开放、两周期、两序列、双交叉设计的生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "适用于近期心力衰竭失代偿经静脉治疗后病情稳定的射血分数降低（射血分数<45%）的症状性慢性心力衰竭成人患者，以降低发生心力衰竭住院或需要急诊静脉利尿剂治疗的风险。"
+      ],
+      "keywords": [
+        "维立西呱片"
+      ],
+      "interventions": [
+        {
+          "name": "维立西呱片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "维立西呱片在健康试验参与者中餐后状态下的单剂量、随机、开放、两周期、两序列、双交叉设计的生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263578",
+      "plainSummary": "NMPA 公开登记：维立西呱片；适应症：适用于近期心力衰竭失代偿经静脉治疗后病情稳定的射血分数降低（射血分数<45%）的症状性慢性心力衰竭成人患者，以降低发生心力衰竭住院或需要急诊静脉利尿剂治疗的风险。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263575",
+      "identifiers": {
+        "nmpa": "CTR20263575"
+      },
+      "briefTitle": "间苯三酚口崩片在健康人群中餐后状态下人体生物等效性试验",
+      "officialTitle": "间苯三酚口崩片在健康人群中餐后状态下人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "消化系统和胆道功能障碍引起的急性痉挛性疼痛； 急性痉挛性尿道、膀胱、肾绞痛； 妇科痉挛性疼痛。"
+      ],
+      "keywords": [
+        "间苯三酚口崩片"
+      ],
+      "interventions": [
+        {
+          "name": "间苯三酚口崩片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "间苯三酚口崩片在健康人群中餐后状态下人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263575",
+      "plainSummary": "NMPA 公开登记：间苯三酚口崩片；适应症：消化系统和胆道功能障碍引起的急性痉挛性疼痛； 急性痉挛性尿道、膀胱、肾绞痛； 妇科痉挛性疼痛。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263572",
+      "identifiers": {
+        "nmpa": "CTR20263572"
+      },
+      "briefTitle": "华卟啉钠光动力疗法治疗HSIL患者的I期研究",
+      "officialTitle": "华卟啉钠光动力疗法治疗HSIL患者的I期研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "宫颈高级别鳞状上皮内病变（HSIL）"
+      ],
+      "keywords": [
+        "注射用华卟啉钠"
+      ],
+      "interventions": [
+        {
+          "name": "注射用华卟啉钠",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "华卟啉钠光动力疗法治疗HSIL患者的I期研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263572",
+      "plainSummary": "NMPA 公开登记：注射用华卟啉钠；适应症：宫颈高级别鳞状上皮内病变（HSIL）。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263571",
+      "identifiers": {
+        "nmpa": "CTR20263571"
+      },
+      "briefTitle": "左氧氟沙星片空腹人体生物等效性试验",
+      "officialTitle": "左氧氟沙星片空腹人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于治疗或预防已证明或高度怀疑由敏感细菌所引起的下列轻、中度感染：呼吸系统感染，泌尿系统感染，生殖系统感染，皮肤软组织感染，肠道感染，其它感染等。"
+      ],
+      "keywords": [
+        "左氧氟沙星片"
+      ],
+      "interventions": [
+        {
+          "name": "左氧氟沙星片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "左氧氟沙星片空腹人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263571",
+      "plainSummary": "NMPA 公开登记：左氧氟沙星片；适应症：用于治疗或预防已证明或高度怀疑由敏感细菌所引起的下列轻、中度感染：呼吸系统感染，泌尿系统感染，生殖系统感染，皮肤软组织感染，肠道感染，其它感染等。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263570",
+      "identifiers": {
+        "nmpa": "CTR20263570"
+      },
+      "briefTitle": "伊布替尼胶囊人体生物等效性试验",
+      "officialTitle": "伊布替尼胶囊人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品单药适用于既往至少接受过一种治疗的套细胞淋巴瘤患者的治疗。 本品单药适用于慢性淋巴细胞白血病/小淋巴细胞淋巴瘤患者的治疗。 本品单药适用于既往至少接受过一种治疗的华氏巨球蛋白血症患者的治疗，或者不适合接受化学免疫治疗的华氏巨球蛋白血症患者的一线治疗。 本品联用利妥昔单抗，适用于华氏巨球蛋白血症患者的治疗。"
+      ],
+      "keywords": [
+        "伊布替尼胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "伊布替尼胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "伊布替尼胶囊人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263570",
+      "plainSummary": "NMPA 公开登记：伊布替尼胶囊；适应症：本品单药适用于既往至少接受过一种治疗的套细胞淋巴瘤患者的治疗。 本品单药适用于慢性淋巴细胞白血病/小淋巴细胞淋巴瘤患者的治疗。 本品单药适用于既往至少接受过一种治疗的华氏巨球蛋白血症患者的治疗，或者不适合接受化学免疫治疗的华氏巨球蛋白血症患者的一线治疗。 本品联用利妥昔单抗，适用于华氏巨球蛋白血症患者的治疗。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263568",
+      "identifiers": {
+        "nmpa": "CTR20263568"
+      },
+      "briefTitle": "评估受试制剂非奈利酮片（规格：10mg）与参比制剂非奈利酮片（Kerendia®，规格：10 mg）在健康成年试验参与者空腹状态下的单中心、开放、随机、单剂量、两周期、两序列、交叉生物等效性试验",
+      "officialTitle": "评估受试制剂非奈利酮片（规格：10mg）与参比制剂非奈利酮片（Kerendia®，规格：10 mg）在健康成年试验参与者空腹状态下的单中心、开放、随机、单剂量、两周期、两序列、交叉生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品用于与2型糖尿病相关的慢性肾脏病成人患者（伴白蛋白尿），以降低肾小球滤过率估计值（eGFR）持续下降、终末期肾病、心血管死亡和因心力衰竭住院的风险。"
+      ],
+      "keywords": [
+        "非奈利酮片"
+      ],
+      "interventions": [
+        {
+          "name": "非奈利酮片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评估受试制剂非奈利酮片（规格：10mg）与参比制剂非奈利酮片（Kerendia®，规格：10 mg）在健康成年试验参与者空腹状态下的单中心、开放、随机、单剂量、两周期、两序列、交叉生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263568",
+      "plainSummary": "NMPA 公开登记：非奈利酮片；适应症：本品用于与2型糖尿病相关的慢性肾脏病成人患者（伴白蛋白尿），以降低肾小球滤过率估计值（eGFR）持续下降、终末期肾病、心血管死亡和因心力衰竭住院的风险。。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
