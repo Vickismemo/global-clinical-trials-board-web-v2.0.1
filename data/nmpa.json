@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T08:11:26Z",
-  "sourceProcessedAt": "2026-09-19T08:11:26Z",
+  "generatedAt": "2026-09-25T08:58:34Z",
+  "sourceProcessedAt": "2026-09-25T08:58:34Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 107,
+  "recordCount": 127,
   "records": [
     {
       "id": "CTR20260083",
@@ -3852,6 +3852,726 @@
       "developmentStageLabel": "BE 生物等效性试验",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263568",
       "plainSummary": "NMPA 公开登记：非奈利酮片；适应症：本品用于与2型糖尿病相关的慢性肾脏病成人患者（伴白蛋白尿），以降低肾小球滤过率估计值（eGFR）持续下降、终末期肾病、心血管死亡和因心力衰竭住院的风险。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263723",
+      "identifiers": {
+        "nmpa": "CTR20263723"
+      },
+      "briefTitle": "SPGL008联合SSGJ-706±化疗治疗晚期非小细胞肺癌的II期临床研究",
+      "officialTitle": "SPGL008联合SSGJ-706±化疗治疗晚期非小细胞肺癌的II期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "晚期非小细胞肺癌"
+      ],
+      "keywords": [
+        "SPGL008注射液"
+      ],
+      "interventions": [
+        {
+          "name": "SPGL008注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "SPGL008联合SSGJ-706±化疗治疗晚期非小细胞肺癌的II期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263723",
+      "plainSummary": "NMPA 公开登记：SPGL008注射液；适应症：晚期非小细胞肺癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263720",
+      "identifiers": {
+        "nmpa": "CTR20263720"
+      },
+      "briefTitle": "克立硼罗软膏在健康试验参与者中的生物等效性研究",
+      "officialTitle": "克立硼罗软膏在健康试验参与者中的生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "3月龄及以上轻度至中度特应性皮炎患者的局部外用治疗"
+      ],
+      "keywords": [
+        "克立硼罗软膏"
+      ],
+      "interventions": [
+        {
+          "name": "克立硼罗软膏",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "克立硼罗软膏在健康试验参与者中的生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263720",
+      "plainSummary": "NMPA 公开登记：克立硼罗软膏；适应症：3月龄及以上轻度至中度特应性皮炎患者的局部外用治疗。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263719",
+      "identifiers": {
+        "nmpa": "CTR20263719"
+      },
+      "briefTitle": "观察人凝血因子Ⅷ单次用药治疗重型血友病A的安全性和药物在体内的变化过程",
+      "officialTitle": "观察人凝血因子Ⅷ单次用药治疗重型血友病A的安全性和药物在体内的变化过程",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品对缺乏人凝血因子Ⅷ所致的凝血机能障碍具有纠正作用，主要用于防治血友病A和获得性凝血因子Ⅷ缺乏而致的出血症状及这类病人的手术出血治疗。"
+      ],
+      "keywords": [
+        "人凝血因子Ⅷ"
+      ],
+      "interventions": [
+        {
+          "name": "人凝血因子Ⅷ",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "观察人凝血因子Ⅷ单次用药治疗重型血友病A的安全性和药物在体内的变化过程"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263719",
+      "plainSummary": "NMPA 公开登记：人凝血因子Ⅷ；适应症：本品对缺乏人凝血因子Ⅷ所致的凝血机能障碍具有纠正作用，主要用于防治血友病A和获得性凝血因子Ⅷ缺乏而致的出血症状及这类病人的手术出血治疗。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263718",
+      "identifiers": {
+        "nmpa": "CTR20263718"
+      },
+      "briefTitle": "评估恩曲替尼胶囊受试制剂与参比制剂（罗圣全®）在空腹合用抑酸剂作用下的生物等效性研究",
+      "officialTitle": "评估恩曲替尼胶囊受试制剂与参比制剂（罗圣全®）在空腹合用抑酸剂作用下的生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "实体瘤：本品适用于符合下列条件的成人和1月龄以上儿童实体瘤患者：经充分验证的检测方法诊断为携带神经营养酪氨酸受体激酶（NTRK）融合基因且不包括已知获得性耐药突变，患有局部晚期、转移性疾病或手术切除可能导致严重并发症的患者，以及 无满意替代治疗或既往治疗失败的患者。非小细胞肺癌（NSCLC） ：本品适用于ROS1阳性的局部晚期或转移性非小细胞肺癌（NSCLC）成人患者。"
+      ],
+      "keywords": [
+        "恩曲替尼胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "恩曲替尼胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评估恩曲替尼胶囊受试制剂与参比制剂（罗圣全®）在空腹合用抑酸剂作用下的生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263718",
+      "plainSummary": "NMPA 公开登记：恩曲替尼胶囊；适应症：实体瘤：本品适用于符合下列条件的成人和1月龄以上儿童实体瘤患者：经充分验证的检测方法诊断为携带神经营养酪氨酸受体激酶（NTRK）融合基因且不包括已知获得性耐药突变，患有局部晚期、转移性疾病或手术切除可能导致严重并发症的患者，以及 无满意替代治疗或既往治疗失败的患者。非小细胞肺癌（NSCLC） ：本品适用于ROS1阳性的局部晚期或转移性非小细胞肺癌（NSCLC）成人患者。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263717",
+      "identifiers": {
+        "nmpa": "CTR20263717"
+      },
+      "briefTitle": "布地奈德迟释片D23A-食物影响研究",
+      "officialTitle": "布地奈德迟释片D23A-食物影响研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "原发性免疫球蛋白A肾病（IgAN）"
+      ],
+      "keywords": [
+        "布地奈德迟释片"
+      ],
+      "interventions": [
+        {
+          "name": "布地奈德迟释片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "布地奈德迟释片D23A-食物影响研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263717",
+      "plainSummary": "NMPA 公开登记：布地奈德迟释片；适应症：原发性免疫球蛋白A肾病（IgAN）。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263714",
+      "identifiers": {
+        "nmpa": "CTR20263714"
+      },
+      "briefTitle": "莫立司他钠片（5mg）空腹和餐后条件下的人体生物等效性试验",
+      "officialTitle": "莫立司他钠片（5mg）空腹和餐后条件下的人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "肾性贫血"
+      ],
+      "keywords": [
+        "莫立司他钠片"
+      ],
+      "interventions": [
+        {
+          "name": "莫立司他钠片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "莫立司他钠片（5mg）空腹和餐后条件下的人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263714",
+      "plainSummary": "NMPA 公开登记：莫立司他钠片；适应症：肾性贫血。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263712",
+      "identifiers": {
+        "nmpa": "CTR20263712"
+      },
+      "briefTitle": "评价JKN2306片用于骨科术后镇痛有效性和安全性研究的多中心、随机、双盲、安慰剂对照II期临床试验",
+      "officialTitle": "评价JKN2306片用于骨科术后镇痛有效性和安全性研究的多中心、随机、双盲、安慰剂对照II期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "急性疼痛"
+      ],
+      "keywords": [
+        "JKN2306片"
+      ],
+      "interventions": [
+        {
+          "name": "JKN2306片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价JKN2306片用于骨科术后镇痛有效性和安全性研究的多中心、随机、双盲、安慰剂对照II期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263712",
+      "plainSummary": "NMPA 公开登记：JKN2306片；适应症：急性疼痛。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263711",
+      "identifiers": {
+        "nmpa": "CTR20263711"
+      },
+      "briefTitle": "艾托格列净片在健康试验参与者中的生物等效性试验",
+      "officialTitle": "艾托格列净片在健康试验参与者中的生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "在单独使用盐酸二甲双胍血糖控制不佳时,本品可与盐酸二甲双胍联合使用，配合饮食和运动改善成人2型糖尿病患者的血糖控制。"
+      ],
+      "keywords": [
+        "艾托格列净片"
+      ],
+      "interventions": [
+        {
+          "name": "艾托格列净片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "艾托格列净片在健康试验参与者中的生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263711",
+      "plainSummary": "NMPA 公开登记：艾托格列净片；适应症：在单独使用盐酸二甲双胍血糖控制不佳时,本品可与盐酸二甲双胍联合使用，配合饮食和运动改善成人2型糖尿病患者的血糖控制。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263707",
+      "identifiers": {
+        "nmpa": "CTR20263707"
+      },
+      "briefTitle": "阿托伐他汀钙口服混悬液生物等效性研究",
+      "officialTitle": "阿托伐他汀钙口服混悬液生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "降低风险：心肌梗死(MI)、中风、血管重建术和心绞痛等成人多重危险因素的冠心病(CHD)，但临床上没有明显症状的冠心病；伴有多种冠心病危险因素但临床无明显冠心病症状的成人2型糖尿病患者的心肌梗死和脑卒中；非致死性心肌梗死、致死性和非致死性卒中、血运重建术、因充血性心力衰竭(CHF)住院和心绞痛的成人并临床症状明显的冠心病患者。 作为降低原发性高脂蛋白血症成人低密度脂蛋白(LDL-C)患者饮食的辅助手段：原发性高脂蛋白血症的成人；10岁及以上的成人和儿童杂合子家族性高胆固醇血症(HeFH)患者。 作为其他降低LDL-C治疗的辅助手段，用于降低10岁及以上纯合子家族性高胆固醇血症的成人和儿童患者的LDL-C。 作为治疗成人饮食的辅助手段：原发性高脂蛋白血症：高甘油三酯血症。"
+      ],
+      "keywords": [
+        "阿托伐他汀钙口服混悬液"
+      ],
+      "interventions": [
+        {
+          "name": "阿托伐他汀钙口服混悬液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "阿托伐他汀钙口服混悬液生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263707",
+      "plainSummary": "NMPA 公开登记：阿托伐他汀钙口服混悬液；适应症：降低风险：心肌梗死(MI)、中风、血管重建术和心绞痛等成人多重危险因素的冠心病(CHD)，但临床上没有明显症状的冠心病；伴有多种冠心病危险因素但临床无明显冠心病症状的成人2型糖尿病患者的心肌梗死和脑卒中；非致死性心肌梗死、致死性和非致死性卒中、血运重建术、因充血性心力衰竭(CHF)住院和心绞痛的成人并临床症状明显的冠心病患者。 作为降低原发性高脂蛋白血症成人低密度脂蛋白(LDL-C)患者饮食的辅助手段：原发性高脂蛋白血症的成人；10岁及以上的成人和儿童杂合子家族性高胆固醇血症(HeFH)患者。 作为其他降低LDL-C治疗的辅助手段，用于降低10岁及以上纯合子家族性高胆固醇血症的成人和儿童患者的LDL-C。 作为治疗成人饮食的辅助手段：原发性高脂蛋白血症：高甘油三酯血症。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263706",
+      "identifiers": {
+        "nmpa": "CTR20263706"
+      },
+      "briefTitle": "一项在青少年和成人中评估药物利特昔替尼用于治疗斑状脱发（医学术语称为“中度斑秃”）的研究",
+      "officialTitle": "一项在青少年和成人中评估药物利特昔替尼用于治疗斑状脱发（医学术语称为“中度斑秃”）的研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "斑秃"
+      ],
+      "keywords": [
+        "利特昔替尼"
+      ],
+      "interventions": [
+        {
+          "name": "利特昔替尼",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在青少年和成人中评估药物利特昔替尼用于治疗斑状脱发（医学术语称为“中度斑秃”）的研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263706",
+      "plainSummary": "NMPA 公开登记：利特昔替尼；适应症：斑秃。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263705",
+      "identifiers": {
+        "nmpa": "CTR20263705"
+      },
+      "briefTitle": "卡左双多巴缓释片人体生物等效性研究",
+      "officialTitle": "卡左双多巴缓释片人体生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "原发性帕金森氏病。脑炎后帕金森氏综合征。症状性帕金森氏综合征(一氧化碳或锰中毒)。"
+      ],
+      "keywords": [
+        "卡左双多巴缓释片"
+      ],
+      "interventions": [
+        {
+          "name": "卡左双多巴缓释片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "卡左双多巴缓释片人体生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263705",
+      "plainSummary": "NMPA 公开登记：卡左双多巴缓释片；适应症：原发性帕金森氏病。脑炎后帕金森氏综合征。症状性帕金森氏综合征(一氧化碳或锰中毒)。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263704",
+      "identifiers": {
+        "nmpa": "CTR20263704"
+      },
+      "briefTitle": "LM-364在晚期实体瘤试验参与者中的I/II期临床研究（联合用药暂不开展）",
+      "officialTitle": "LM-364在晚期实体瘤试验参与者中的I/II期临床研究（联合用药暂不开展）",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "晚期恶性实体瘤"
+      ],
+      "keywords": [
+        "注射用LM-364"
+      ],
+      "interventions": [
+        {
+          "name": "注射用LM-364",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "LM-364在晚期实体瘤试验参与者中的I/II期临床研究（联合用药暂不开展）"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE1_PHASE2",
+      "developmentStageLabel": "Ⅰ/Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263704",
+      "plainSummary": "NMPA 公开登记：注射用LM-364；适应症：晚期恶性实体瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263703",
+      "identifiers": {
+        "nmpa": "CTR20263703"
+      },
+      "briefTitle": "RS-C1001片剂在混合型高脂血症患者中的疗效和安全性的Ⅱa期临床试验",
+      "officialTitle": "RS-C1001片剂在混合型高脂血症患者中的疗效和安全性的Ⅱa期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "混合型高脂血症"
+      ],
+      "keywords": [
+        "RS-C1001片"
+      ],
+      "interventions": [
+        {
+          "name": "RS-C1001片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "RS-C1001片剂在混合型高脂血症患者中的疗效和安全性的Ⅱa期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263703",
+      "plainSummary": "NMPA 公开登记：RS-C1001片；适应症：混合型高脂血症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263702",
+      "identifiers": {
+        "nmpa": "CTR20263702"
+      },
+      "briefTitle": "盐酸奥扎莫德胶囊生物等效性试验",
+      "officialTitle": "盐酸奥扎莫德胶囊生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品用于治疗成人复发型多发性硬化，包括临床孤立综合征、复发-缓解型多发性硬化和活动性继发进展型多发性硬化。"
+      ],
+      "keywords": [
+        "盐酸奥扎莫德胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "盐酸奥扎莫德胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "盐酸奥扎莫德胶囊生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263702",
+      "plainSummary": "NMPA 公开登记：盐酸奥扎莫德胶囊；适应症：本品用于治疗成人复发型多发性硬化，包括临床孤立综合征、复发-缓解型多发性硬化和活动性继发进展型多发性硬化。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263701",
+      "identifiers": {
+        "nmpa": "CTR20263701"
+      },
+      "briefTitle": "一项在健康试验参与者中评价NH302注射液单次静脉给药的安全性、耐受性和药代动力学的随机、双盲、安慰剂对照、剂量递增的I期临床研究",
+      "officialTitle": "一项在健康试验参与者中评价NH302注射液单次静脉给药的安全性、耐受性和药代动力学的随机、双盲、安慰剂对照、剂量递增的I期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "术后镇痛"
+      ],
+      "keywords": [
+        "NH302注射液"
+      ],
+      "interventions": [
+        {
+          "name": "NH302注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在健康试验参与者中评价NH302注射液单次静脉给药的安全性、耐受性和药代动力学的随机、双盲、安慰剂对照、剂量递增的I期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263701",
+      "plainSummary": "NMPA 公开登记：NH302注射液；适应症：术后镇痛。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263700",
+      "identifiers": {
+        "nmpa": "CTR20263700"
+      },
+      "briefTitle": "盐酸哌罗匹隆片人体生物等效性试验",
+      "officialTitle": "盐酸哌罗匹隆片人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于治疗精神分裂症"
+      ],
+      "keywords": [
+        "盐酸哌罗匹隆片"
+      ],
+      "interventions": [
+        {
+          "name": "盐酸哌罗匹隆片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "盐酸哌罗匹隆片人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263700",
+      "plainSummary": "NMPA 公开登记：盐酸哌罗匹隆片；适应症：用于治疗精神分裂症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263693",
+      "identifiers": {
+        "nmpa": "CTR20263693"
+      },
+      "briefTitle": "多西环素干混悬剂人体生物等效性试验",
+      "officialTitle": "多西环素干混悬剂人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "1.由立克次体引起的洛基山斑疹热、伤寒和斑疹伤寒、Q热、立克次体痘和蜱热；2.由肺炎支原体引起的呼吸道感染；3.由沙眼衣原体引起的淋巴肉芽肿性梅毒；4.由沙门氏菌引起的鹦鹉热（鸟结核病）；5.由沙眼衣原体引起的沙眼；6.治疗沙眼衣原体引起的结膜炎；7.由沙眼衣原体引起的成人无并发症性尿道、宫颈或直肠感染；8.由解脲支原体引起的非淋菌性尿道炎；9.由伯瑞二巴氏螺旋体引起的复发性热；10.由梅毒螺旋体引起的性病淋巴肉芽肿；11.由耶尔森鼠疫杆菌引起的鼠疫；12.由福氏泰乐菌引起的土拉菌病；13.由霍乱弧菌引起的霍乱；14.由弯曲杆菌引起的胎儿弯曲杆菌感染；15.由布鲁氏菌属引起的布鲁氏菌病（与链霉素合用）；16.由巴通氏菌棒状杆菌引起的巴通体病；17.由克雷伯氏菌引起的腹股沟肉芽肿；18.由流感嗜血杆菌引起的呼吸道感染；19.由炭疽杆菌引起的炭疽病（包括吸入性炭疽）。多西环素还可用于肠杆菌属、志贺菌属、不动杆菌属引起的疾病，同时当青霉素禁用时，多西环素可用于由奈瑟菌引起的单纯性淋病、由梅毒螺旋体引起的梅毒、由梅毒螺旋体特尔罗姆特伦纽亚种引起的麻风病、由单核细胞增生李斯特菌引起的李斯特菌病、由梭杆菌属引起的文森特感染、由卡他莫拉菌引起的放线菌病等感染的替代药物。"
+      ],
+      "keywords": [
+        "多西环素干混悬剂"
+      ],
+      "interventions": [
+        {
+          "name": "多西环素干混悬剂",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "多西环素干混悬剂人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263693",
+      "plainSummary": "NMPA 公开登记：多西环素干混悬剂；适应症：1.由立克次体引起的洛基山斑疹热、伤寒和斑疹伤寒、Q热、立克次体痘和蜱热；2.由肺炎支原体引起的呼吸道感染；3.由沙眼衣原体引起的淋巴肉芽肿性梅毒；4.由沙门氏菌引起的鹦鹉热（鸟结核病）；5.由沙眼衣原体引起的沙眼；6.治疗沙眼衣原体引起的结膜炎；7.由沙眼衣原体引起的成人无并发症性尿道、宫颈或直肠感染；8.由解脲支原体引起的非淋菌性尿道炎；9.由伯瑞二巴氏螺旋体引起的复发性热；10.由梅毒螺旋体引起的性病淋巴肉芽肿；11.由耶尔森鼠疫杆菌引起的鼠疫；12.由福氏泰乐菌引起的土拉菌病；13.由霍乱弧菌引起的霍乱；14.由弯曲杆菌引起的胎儿弯曲杆菌感染；15.由布鲁氏菌属引起的布鲁氏菌病（与链霉素合用）；16.由巴通氏菌棒状杆菌引起的巴通体病；17.由克雷伯氏菌引起的腹股沟肉芽肿；18.由流感嗜血杆菌引起的呼吸道感染；19.由炭疽杆菌引起的炭疽病（包括吸入性炭疽）。多西环素还可用于肠杆菌属、志贺菌属、不动杆菌属引起的疾病，同时当青霉素禁用时，多西环素可用于由奈瑟菌引起的单纯性淋病、由梅毒螺旋体引起的梅毒、由梅毒螺旋体特尔罗姆特伦纽亚种引起的麻风病、由单核细胞增生李斯特菌引起的李斯特菌病、由梭杆菌属引起的文森特感染、由卡他莫拉菌引起的放线菌病等感染的替代药物。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263691",
+      "identifiers": {
+        "nmpa": "CTR20263691"
+      },
+      "briefTitle": "Mesutoclax联合阿扎胞苷比较维奈克拉联合阿扎胞苷治疗急性髓系白血病的III期研究",
+      "officialTitle": "Mesutoclax联合阿扎胞苷比较维奈克拉联合阿扎胞苷治疗急性髓系白血病的III期研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "急性髓系白血病"
+      ],
+      "keywords": [
+        "ICP-248片"
+      ],
+      "interventions": [
+        {
+          "name": "ICP-248片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "Mesutoclax联合阿扎胞苷比较维奈克拉联合阿扎胞苷治疗急性髓系白血病的III期研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE3",
+      "developmentStageLabel": "Ⅲ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263691",
+      "plainSummary": "NMPA 公开登记：ICP-248片；适应症：急性髓系白血病。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263690",
+      "identifiers": {
+        "nmpa": "CTR20263690"
+      },
+      "briefTitle": "雌二醇片（2mg）在中国健康试验参与者中空腹和餐后给药条件下随机、开放、单剂量、两序列、两周期、双交叉生物等效性试验临床研究方案",
+      "officialTitle": "雌二醇片（2mg）在中国健康试验参与者中空腹和餐后给药条件下随机、开放、单剂量、两序列、两周期、双交叉生物等效性试验临床研究方案",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于治疗自然或术后绝经所致的围绝经期综合征。"
+      ],
+      "keywords": [
+        "雌二醇片"
+      ],
+      "interventions": [
+        {
+          "name": "雌二醇片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "雌二醇片（2mg）在中国健康试验参与者中空腹和餐后给药条件下随机、开放、单剂量、两序列、两周期、双交叉生物等效性试验临床研究方案"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263690",
+      "plainSummary": "NMPA 公开登记：雌二醇片；适应症：用于治疗自然或术后绝经所致的围绝经期综合征。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263688",
+      "identifiers": {
+        "nmpa": "CTR20263688"
+      },
+      "briefTitle": "苯磺酸美洛加巴林片人体生物等效性研究",
+      "officialTitle": "苯磺酸美洛加巴林片人体生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品用于治疗成人糖尿病性周围神经病理性疼痛。"
+      ],
+      "keywords": [
+        "苯磺酸美洛加巴林片"
+      ],
+      "interventions": [
+        {
+          "name": "苯磺酸美洛加巴林片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "苯磺酸美洛加巴林片人体生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263688",
+      "plainSummary": "NMPA 公开登记：苯磺酸美洛加巴林片；适应症：本品用于治疗成人糖尿病性周围神经病理性疼痛。。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
