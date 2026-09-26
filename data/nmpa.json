@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-25T08:58:34Z",
-  "sourceProcessedAt": "2026-09-25T08:58:34Z",
+  "generatedAt": "2026-09-26T08:44:24Z",
+  "sourceProcessedAt": "2026-09-26T08:44:24Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
   "recordCount": 127,
