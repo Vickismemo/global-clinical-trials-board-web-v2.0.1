@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-27T09:24:57Z",
-  "sourceProcessedAt": "2026-09-27T09:24:57Z",
+  "generatedAt": "2026-09-29T10:00:24Z",
+  "sourceProcessedAt": "2026-09-29T10:00:24Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 127,
+  "recordCount": 140,
   "records": [
     {
       "id": "CTR20260083",
@@ -4572,6 +4572,474 @@
       "developmentStageLabel": "BE 生物等效性试验",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263688",
       "plainSummary": "NMPA 公开登记：苯磺酸美洛加巴林片；适应症：本品用于治疗成人糖尿病性周围神经病理性疼痛。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263755",
+      "identifiers": {
+        "nmpa": "CTR20263755"
+      },
+      "briefTitle": "多替诺雷片生物等效性试验",
+      "officialTitle": "多替诺雷片生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "痛风、高尿酸血症。"
+      ],
+      "keywords": [
+        "多替诺雷片"
+      ],
+      "interventions": [
+        {
+          "name": "多替诺雷片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "多替诺雷片生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263755",
+      "plainSummary": "NMPA 公开登记：多替诺雷片；适应症：痛风、高尿酸血症。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263754",
+      "identifiers": {
+        "nmpa": "CTR20263754"
+      },
+      "briefTitle": "苯磺酸左氨氯地平片人体生物等效性试验",
+      "officialTitle": "苯磺酸左氨氯地平片人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "1、高血压；2、心绞痛（慢性稳定性心绞痛、血管痉挛性心绞痛（Prinzmetal's或变异型心绞痛）。"
+      ],
+      "keywords": [
+        "苯磺酸左氨氯地平片"
+      ],
+      "interventions": [
+        {
+          "name": "苯磺酸左氨氯地平片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "苯磺酸左氨氯地平片人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263754",
+      "plainSummary": "NMPA 公开登记：苯磺酸左氨氯地平片；适应症：1、高血压；2、心绞痛（慢性稳定性心绞痛、血管痉挛性心绞痛（Prinzmetal's或变异型心绞痛）。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263749",
+      "identifiers": {
+        "nmpa": "CTR20263749"
+      },
+      "briefTitle": "醋酸锌颗粒的人体生物等效性试验",
+      "officialTitle": "醋酸锌颗粒的人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "肝豆状核变性（威尔逊病）；低锌血症"
+      ],
+      "keywords": [
+        "醋酸锌颗粒"
+      ],
+      "interventions": [
+        {
+          "name": "醋酸锌颗粒",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "醋酸锌颗粒的人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263749",
+      "plainSummary": "NMPA 公开登记：醋酸锌颗粒；适应症：肝豆状核变性（威尔逊病）；低锌血症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263747",
+      "identifiers": {
+        "nmpa": "CTR20263747"
+      },
+      "briefTitle": "一项在健康参与者中评价BBT001经皮下给药后的安全性的随机、双盲、安慰剂对照、单次给药研究",
+      "officialTitle": "一项在健康参与者中评价BBT001经皮下给药后的安全性的随机、双盲、安慰剂对照、单次给药研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "特异性皮炎"
+      ],
+      "keywords": [
+        "BBT001皮下注射液"
+      ],
+      "interventions": [
+        {
+          "name": "BBT001皮下注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在健康参与者中评价BBT001经皮下给药后的安全性的随机、双盲、安慰剂对照、单次给药研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263747",
+      "plainSummary": "NMPA 公开登记：BBT001皮下注射液；适应症：特异性皮炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263744",
+      "identifiers": {
+        "nmpa": "CTR20263744"
+      },
+      "briefTitle": "多替诺雷片生物等效性试验",
+      "officialTitle": "多替诺雷片生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "适用于痛风伴高尿酸血症患者"
+      ],
+      "keywords": [
+        "多替诺雷片"
+      ],
+      "interventions": [
+        {
+          "name": "多替诺雷片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "多替诺雷片生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263744",
+      "plainSummary": "NMPA 公开登记：多替诺雷片；适应症：适用于痛风伴高尿酸血症患者。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263741",
+      "identifiers": {
+        "nmpa": "CTR20263741"
+      },
+      "briefTitle": "盐酸米多君片在健康试验参与者中空腹状态下的生物等效性研究",
+      "officialTitle": "盐酸米多君片在健康试验参与者中空腹状态下的生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于治疗体位性低血压。仅用于在临床护理后其生活仍受到严重干扰者，包括非 药物治疗（如医用辅助袜）、扩容和改变生活方式等。 女性压力性尿失禁。"
+      ],
+      "keywords": [
+        "盐酸米多君片"
+      ],
+      "interventions": [
+        {
+          "name": "盐酸米多君片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "盐酸米多君片在健康试验参与者中空腹状态下的生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263741",
+      "plainSummary": "NMPA 公开登记：盐酸米多君片；适应症：用于治疗体位性低血压。仅用于在临床护理后其生活仍受到严重干扰者，包括非 药物治疗（如医用辅助袜）、扩容和改变生活方式等。 女性压力性尿失禁。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263740",
+      "identifiers": {
+        "nmpa": "CTR20263740"
+      },
+      "briefTitle": "苯磺酸左氨氯地平片在健康试验参与者中空腹与餐后条件下开放、随机、单次给药、两制剂、两序列、两周期交叉设计生物等效性试验",
+      "officialTitle": "苯磺酸左氨氯地平片在健康试验参与者中空腹与餐后条件下开放、随机、单次给药、两制剂、两序列、两周期交叉设计生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "1.高血压 2. 心绞痛"
+      ],
+      "keywords": [
+        "苯磺酸左氨氯地平片"
+      ],
+      "interventions": [
+        {
+          "name": "苯磺酸左氨氯地平片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "苯磺酸左氨氯地平片在健康试验参与者中空腹与餐后条件下开放、随机、单次给药、两制剂、两序列、两周期交叉设计生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263740",
+      "plainSummary": "NMPA 公开登记：苯磺酸左氨氯地平片；适应症：1.高血压 2. 心绞痛。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263735",
+      "identifiers": {
+        "nmpa": "CTR20263735"
+      },
+      "briefTitle": "一项旨在评估偏头痛成人患者服用一剂追加剂量瑞美吉泮后安全性的研究。",
+      "officialTitle": "一项旨在评估偏头痛成人患者服用一剂追加剂量瑞美吉泮后安全性的研究。",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "18 岁及以上偏头痛"
+      ],
+      "keywords": [
+        "硫酸瑞美吉泮口崩片"
+      ],
+      "interventions": [
+        {
+          "name": "硫酸瑞美吉泮口崩片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项旨在评估偏头痛成人患者服用一剂追加剂量瑞美吉泮后安全性的研究。"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263735",
+      "plainSummary": "NMPA 公开登记：硫酸瑞美吉泮口崩片；适应症：18 岁及以上偏头痛。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263732",
+      "identifiers": {
+        "nmpa": "CTR20263732"
+      },
+      "briefTitle": "HRN01片对产后抑郁症患者的有效性和安全性的II期临床研究",
+      "officialTitle": "HRN01片对产后抑郁症患者的有效性和安全性的II期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "产后抑郁症"
+      ],
+      "keywords": [
+        "HRN01片"
+      ],
+      "interventions": [
+        {
+          "name": "HRN01片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "HRN01片对产后抑郁症患者的有效性和安全性的II期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263732",
+      "plainSummary": "NMPA 公开登记：HRN01片；适应症：产后抑郁症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263731",
+      "identifiers": {
+        "nmpa": "CTR20263731"
+      },
+      "briefTitle": "DZD8586在健康受试者中的药物-药物相互作用临床试验",
+      "officialTitle": "DZD8586在健康受试者中的药物-药物相互作用临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "B细胞非霍奇金淋巴瘤"
+      ],
+      "keywords": [
+        "DZD8586片"
+      ],
+      "interventions": [
+        {
+          "name": "DZD8586片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "DZD8586在健康受试者中的药物-药物相互作用临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263731",
+      "plainSummary": "NMPA 公开登记：DZD8586片；适应症：B细胞非霍奇金淋巴瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263729",
+      "identifiers": {
+        "nmpa": "CTR20263729"
+      },
+      "briefTitle": "TQB2922注射液（皮下注射）联合化疗治疗一线结直肠癌的Ib/II期临床试验",
+      "officialTitle": "TQB2922注射液（皮下注射）联合化疗治疗一线结直肠癌的Ib/II期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "结直肠癌"
+      ],
+      "keywords": [
+        "TQB2922注射液（皮下注射）"
+      ],
+      "interventions": [
+        {
+          "name": "TQB2922注射液（皮下注射）",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "TQB2922注射液（皮下注射）联合化疗治疗一线结直肠癌的Ib/II期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263729",
+      "plainSummary": "NMPA 公开登记：TQB2922注射液（皮下注射）；适应症：结直肠癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263728",
+      "identifiers": {
+        "nmpa": "CTR20263728"
+      },
+      "briefTitle": "GPN01020胶囊预防性治疗偏头痛（瘀血阻滞证）Ⅱ期临床试验",
+      "officialTitle": "GPN01020胶囊预防性治疗偏头痛（瘀血阻滞证）Ⅱ期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "偏头痛（瘀血阻滞证）"
+      ],
+      "keywords": [
+        "GPN01020胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "GPN01020胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "GPN01020胶囊预防性治疗偏头痛（瘀血阻滞证）Ⅱ期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263728",
+      "plainSummary": "NMPA 公开登记：GPN01020胶囊；适应症：偏头痛（瘀血阻滞证）。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263715",
+      "identifiers": {
+        "nmpa": "CTR20263715"
+      },
+      "briefTitle": "Nemolizumab治疗成人系统性硬化症的研究",
+      "officialTitle": "Nemolizumab治疗成人系统性硬化症的研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "系统性硬化症"
+      ],
+      "keywords": [
+        "Nemolizumab注射液"
+      ],
+      "interventions": [
+        {
+          "name": "Nemolizumab注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "Nemolizumab治疗成人系统性硬化症的研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263715",
+      "plainSummary": "NMPA 公开登记：Nemolizumab注射液；适应症：系统性硬化症。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
