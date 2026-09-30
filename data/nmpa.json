@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T10:00:24Z",
-  "sourceProcessedAt": "2026-09-29T10:00:24Z",
+  "generatedAt": "2026-09-30T09:52:49Z",
+  "sourceProcessedAt": "2026-09-30T09:52:49Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 140,
+  "recordCount": 142,
   "records": [
     {
       "id": "CTR20260083",
@@ -5040,6 +5040,78 @@
       "developmentStageLabel": "阶段未公开",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263715",
       "plainSummary": "NMPA 公开登记：Nemolizumab注射液；适应症：系统性硬化症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263756",
+      "identifiers": {
+        "nmpa": "CTR20263756"
+      },
+      "briefTitle": "ADC119片相对生物利用度及食物影响临床试验",
+      "officialTitle": "ADC119片相对生物利用度及食物影响临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品适用于作为完整方案治疗成人HIV-1感染初治患者。"
+      ],
+      "keywords": [
+        "ADC119片"
+      ],
+      "interventions": [
+        {
+          "name": "ADC119片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "ADC119片相对生物利用度及食物影响临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263756",
+      "plainSummary": "NMPA 公开登记：ADC119片；适应症：本品适用于作为完整方案治疗成人HIV-1感染初治患者。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263748",
+      "identifiers": {
+        "nmpa": "CTR20263748"
+      },
+      "briefTitle": "一项在轻中度特应性皮炎成人试验参与者中评价AD101软膏的有效性、安全耐受性和药代动力学特征的II期临床研究",
+      "officialTitle": "一项在轻中度特应性皮炎成人试验参与者中评价AD101软膏的有效性、安全耐受性和药代动力学特征的II期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "轻度至中度特应性皮炎"
+      ],
+      "keywords": [
+        "AD101软膏"
+      ],
+      "interventions": [
+        {
+          "name": "AD101软膏",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在轻中度特应性皮炎成人试验参与者中评价AD101软膏的有效性、安全耐受性和药代动力学特征的II期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263748",
+      "plainSummary": "NMPA 公开登记：AD101软膏；适应症：轻度至中度特应性皮炎。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
