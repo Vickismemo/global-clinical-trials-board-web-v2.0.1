@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-07T10:27:12Z",
-  "sourceProcessedAt": "2026-10-07T10:27:12Z",
+  "generatedAt": "2026-10-08T10:47:34Z",
+  "sourceProcessedAt": "2026-10-08T10:47:34Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 142,
+  "recordCount": 154,
   "records": [
     {
       "id": "CTR20260083",
@@ -120,8 +120,8 @@
       },
       "briefTitle": "环孢素软胶囊人体生物等效性试验",
       "officialTitle": "环孢素软胶囊人体生物等效性试验",
-      "statusCode": "RECRUITING",
-      "statusLabel": "招募中",
+      "statusCode": "COMPLETED",
+      "statusLabel": "已完成",
       "conditions": [
         "1) 移植 a) 器官移植 - 预防异体移植物的排斥反应，包括肾、肝、心、肺、心肺联合和胰移植。 - 治疗曾接受其他免疫抑制剂的患者所发生的移植物排斥反应。 b) 骨髓移植 - 预防骨髓移植排斥反应。 - 预防和治疗移植物抗宿主病（GVHD）。 2)非移植性适应症 a)内源性葡萄膜炎 -活动性有致盲危险的中部或后部非感染性葡萄膜炎，而常规疗法无效或产生不可接受的不良反应者。——7~70岁肾功能正常的伴复发性视网膜炎的贝切特氏（Behcet’s）葡萄膜炎患者。 b)银屑病 -交替疗法无效或不适用的严重病例。 c)异位性皮炎 -传统疗法无效或不适用的严重病例。 d)类风湿性关节炎 e)肾病综合征"
       ],
@@ -5112,6 +5112,438 @@
       "developmentStageLabel": "PK 药代动力学试验",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263748",
       "plainSummary": "NMPA 公开登记：AD101软膏；适应症：轻度至中度特应性皮炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263805",
+      "identifiers": {
+        "nmpa": "CTR20263805"
+      },
+      "briefTitle": "OV329胶囊治疗成人耐药性局灶性癫痫患者的临床研究",
+      "officialTitle": "OV329胶囊治疗成人耐药性局灶性癫痫患者的临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "局灶性癫痫"
+      ],
+      "keywords": [
+        "OV329胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "OV329胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "OV329胶囊治疗成人耐药性局灶性癫痫患者的临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263805",
+      "plainSummary": "NMPA 公开登记：OV329胶囊；适应症：局灶性癫痫。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263803",
+      "identifiers": {
+        "nmpa": "CTR20263803"
+      },
+      "briefTitle": "恩他卡朋片（0.2g）在健康试验参与者中的生物等效性试验",
+      "officialTitle": "恩他卡朋片（0.2g）在健康试验参与者中的生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品可作为标准药物左旋多巴/苄丝肼或左旋多巴/卡比多巴的辅助用药，用于治疗以上药物不能控制的帕金森病及剂末现象（症状波动）。"
+      ],
+      "keywords": [
+        "恩他卡朋片"
+      ],
+      "interventions": [
+        {
+          "name": "恩他卡朋片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "恩他卡朋片（0.2g）在健康试验参与者中的生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263803",
+      "plainSummary": "NMPA 公开登记：恩他卡朋片；适应症：本品可作为标准药物左旋多巴/苄丝肼或左旋多巴/卡比多巴的辅助用药，用于治疗以上药物不能控制的帕金森病及剂末现象（症状波动）。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263790",
+      "identifiers": {
+        "nmpa": "CTR20263790"
+      },
+      "briefTitle": "ELPIS人脐带间充质干细胞注射液治疗中重度溃疡性结肠炎的临床试验",
+      "officialTitle": "ELPIS人脐带间充质干细胞注射液治疗中重度溃疡性结肠炎的临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "中重度活动性炎症性肠病"
+      ],
+      "keywords": [
+        "ELPIS人脐带间充质干细胞注射液"
+      ],
+      "interventions": [
+        {
+          "name": "ELPIS人脐带间充质干细胞注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "ELPIS人脐带间充质干细胞注射液治疗中重度溃疡性结肠炎的临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263790",
+      "plainSummary": "NMPA 公开登记：ELPIS人脐带间充质干细胞注射液；适应症：中重度活动性炎症性肠病。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263789",
+      "identifiers": {
+        "nmpa": "CTR20263789"
+      },
+      "briefTitle": "骨化三醇软胶囊（0.5 μg）人体生物等效性试验",
+      "officialTitle": "骨化三醇软胶囊（0.5 μg）人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "1.绝经后骨质疏松； 2.慢性肾功能衰竭，尤其是接受血液透析患者之肾性骨营养不良症； 3.术后甲状旁腺功能低下； 4.特发性甲状旁腺功能低下； 5.假性甲状旁腺功能低下； 6.维生素D依赖性佝偻病； 7.低血磷性维生素D抵抗型佝偻病等。"
+      ],
+      "keywords": [
+        "骨化三醇软胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "骨化三醇软胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "骨化三醇软胶囊（0.5 μg）人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263789",
+      "plainSummary": "NMPA 公开登记：骨化三醇软胶囊；适应症：1.绝经后骨质疏松； 2.慢性肾功能衰竭，尤其是接受血液透析患者之肾性骨营养不良症； 3.术后甲状旁腺功能低下； 4.特发性甲状旁腺功能低下； 5.假性甲状旁腺功能低下； 6.维生素D依赖性佝偻病； 7.低血磷性维生素D抵抗型佝偻病等。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263783",
+      "identifiers": {
+        "nmpa": "CTR20263783"
+      },
+      "briefTitle": "苯磺酸左氨氯地平片餐后生物等效性试验",
+      "officialTitle": "苯磺酸左氨氯地平片餐后生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "1.高血压 本品适用于高血压的治疗。本品可单独应用或与其他抗高血压药物联合应用。 高血压的控制是心血管风险综合管理的一部分，综合管理措施可能需要包括：血脂控制、糖尿病管理、抗血栓治疗、戒烟、体育锻炼和限制钠盐摄入。 收缩压或舒张压的升高均增高心血管风险。在更高的基础血压水平上，每毫米汞柱血压的升高所带来的绝对风险增加会更高。降低血压获得风险降低的相对程度在有不同心血管绝对风险的人群中是相似的。严重高血压患者，略微降低血压就能带来较大的临床获益。 对成人高血压患者，通常而言，降低血压可降低心血管事件的风险，主要是卒中、以及心肌梗死的风险。 2.冠心病 慢性稳定性心绞痛 本品适用于慢性稳定性心绞痛的对症治疗。可单独应用或与其他抗心绞痛药物联合应用。 血管痉挛性心绞痛（Prinzmetal’s或变异型心绞痛） 本品适用于确诊或可疑的血管痉挛性心绞痛的治疗。可单独应用也可与其他抗心绞痛药物联合应用。"
+      ],
+      "keywords": [
+        "苯磺酸左氨氯地平片"
+      ],
+      "interventions": [
+        {
+          "name": "苯磺酸左氨氯地平片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "苯磺酸左氨氯地平片餐后生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263783",
+      "plainSummary": "NMPA 公开登记：苯磺酸左氨氯地平片；适应症：1.高血压 本品适用于高血压的治疗。本品可单独应用或与其他抗高血压药物联合应用。 高血压的控制是心血管风险综合管理的一部分，综合管理措施可能需要包括：血脂控制、糖尿病管理、抗血栓治疗、戒烟、体育锻炼和限制钠盐摄入。 收缩压或舒张压的升高均增高心血管风险。在更高的基础血压水平上，每毫米汞柱血压的升高所带来的绝对风险增加会更高。降低血压获得风险降低的相对程度在有不同心血管绝对风险的人群中是相似的。严重高血压患者，略微降低血压就能带来较大的临床获益。 对成人高血压患者，通常而言，降低血压可降低心血管事件的风险，主要是卒中、以及心肌梗死的风险。 2.冠心病 慢性稳定性心绞痛 本品适用于慢性稳定性心绞痛的对症治疗。可单独应用或与其他抗心绞痛药物联合应用。 血管痉挛性心绞痛（Prinzmetal’s或变异型心绞痛） 本品适用于确诊或可疑的血管痉挛性心绞痛的治疗。可单独应用也可与其他抗心绞痛药物联合应用。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263778",
+      "identifiers": {
+        "nmpa": "CTR20263778"
+      },
+      "briefTitle": "一项在慢性自发性荨麻疹患者中评价AK139注射液的II期临床试验",
+      "officialTitle": "一项在慢性自发性荨麻疹患者中评价AK139注射液的II期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "慢性自发性荨麻疹"
+      ],
+      "keywords": [
+        "AK139注射液"
+      ],
+      "interventions": [
+        {
+          "name": "AK139注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在慢性自发性荨麻疹患者中评价AK139注射液的II期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263778",
+      "plainSummary": "NMPA 公开登记：AK139注射液；适应症：慢性自发性荨麻疹。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263776",
+      "identifiers": {
+        "nmpa": "CTR20263776"
+      },
+      "briefTitle": "苯磺酸左氨氯地平片空腹生物等效性试验",
+      "officialTitle": "苯磺酸左氨氯地平片空腹生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "1.高血压 本品适用于高血压的治疗。本品可单独应用或与其他抗高血压药物联合应用。 高血压的控制是心血管风险综合管理的一部分，综合管理措施可能需要包括：血脂控制、糖尿病管理、抗血栓治疗、戒烟、体育锻炼和限制钠盐摄入。 收缩压或舒张压的升高均增高心血管风险。在更高的基础血压水平上，每毫米汞柱血压的升高所带来的绝对风险增加会更高。降低血压获得风险降低的相对程度在有不同心血管绝对风险的人群中是相似的。严重高血压患者，略微降低血压就能带来较大的临床获益。 对成人高血压患者，通常而言，降低血压可降低心血管事件的风险，主要是卒中、以及心肌梗死的风险。 2.冠心病（CAD） 慢性稳定性心绞痛 本品适用于慢性稳定性心绞痛的对症治疗。可单独应用或与其他抗心绞痛药物联合应用。 血管痉挛性心绞痛（Prinzmetal’s或变异型心绞痛） 本品适用于确诊或可疑的血管痉挛性心绞痛的治疗。可单独应用也可与其他抗心绞痛药物联合应用。"
+      ],
+      "keywords": [
+        "苯磺酸左氨氯地平片"
+      ],
+      "interventions": [
+        {
+          "name": "苯磺酸左氨氯地平片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "苯磺酸左氨氯地平片空腹生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263776",
+      "plainSummary": "NMPA 公开登记：苯磺酸左氨氯地平片；适应症：1.高血压 本品适用于高血压的治疗。本品可单独应用或与其他抗高血压药物联合应用。 高血压的控制是心血管风险综合管理的一部分，综合管理措施可能需要包括：血脂控制、糖尿病管理、抗血栓治疗、戒烟、体育锻炼和限制钠盐摄入。 收缩压或舒张压的升高均增高心血管风险。在更高的基础血压水平上，每毫米汞柱血压的升高所带来的绝对风险增加会更高。降低血压获得风险降低的相对程度在有不同心血管绝对风险的人群中是相似的。严重高血压患者，略微降低血压就能带来较大的临床获益。 对成人高血压患者，通常而言，降低血压可降低心血管事件的风险，主要是卒中、以及心肌梗死的风险。 2.冠心病（CAD） 慢性稳定性心绞痛 本品适用于慢性稳定性心绞痛的对症治疗。可单独应用或与其他抗心绞痛药物联合应用。 血管痉挛性心绞痛（Prinzmetal’s或变异型心绞痛） 本品适用于确诊或可疑的血管痉挛性心绞痛的治疗。可单独应用也可与其他抗心绞痛药物联合应用。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263773",
+      "identifiers": {
+        "nmpa": "CTR20263773"
+      },
+      "briefTitle": "吸附组分无细胞百白破-Sabin株灭活脊髓灰质炎联合疫苗Ⅰ/Ⅱ期临床试验",
+      "officialTitle": "吸附组分无细胞百白破-Sabin株灭活脊髓灰质炎联合疫苗Ⅰ/Ⅱ期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "预防百日咳、白喉、破伤风和由脊髓灰质炎Ⅰ型、Ⅱ型、Ⅲ型病毒感染导致的脊髓灰质炎"
+      ],
+      "keywords": [
+        "试验疫苗"
+      ],
+      "interventions": [
+        {
+          "name": "试验疫苗",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "吸附组分无细胞百白破-Sabin株灭活脊髓灰质炎联合疫苗Ⅰ/Ⅱ期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE1_PHASE2",
+      "developmentStageLabel": "Ⅰ/Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263773",
+      "plainSummary": "NMPA 公开登记：试验疫苗；适应症：预防百日咳、白喉、破伤风和由脊髓灰质炎Ⅰ型、Ⅱ型、Ⅲ型病毒感染导致的脊髓灰质炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263770",
+      "identifiers": {
+        "nmpa": "CTR20263770"
+      },
+      "briefTitle": "评估AHB-137序贯TVAX-008用于慢性乙型肝炎的I/II期临床试验",
+      "officialTitle": "评估AHB-137序贯TVAX-008用于慢性乙型肝炎的I/II期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "慢性乙型肝炎治疗"
+      ],
+      "keywords": [
+        "TVAX-008注射液"
+      ],
+      "interventions": [
+        {
+          "name": "TVAX-008注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评估AHB-137序贯TVAX-008用于慢性乙型肝炎的I/II期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE1_PHASE2",
+      "developmentStageLabel": "Ⅰ/Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263770",
+      "plainSummary": "NMPA 公开登记：TVAX-008注射液；适应症：慢性乙型肝炎治疗。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263768",
+      "identifiers": {
+        "nmpa": "CTR20263768"
+      },
+      "briefTitle": "一项在中国健康试验参与者中评估单次口服雷美替胺双释片后药代动力学和安全性特征的单中心、随机、开放、交叉、雷美替胺片对照的I期临床研究",
+      "officialTitle": "一项在中国健康试验参与者中评估单次口服雷美替胺双释片后药代动力学和安全性特征的单中心、随机、开放、交叉、雷美替胺片对照的I期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于治疗以入睡困难与早醒为特征的失眠。"
+      ],
+      "keywords": [
+        "雷美替胺双释片"
+      ],
+      "interventions": [
+        {
+          "name": "雷美替胺双释片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在中国健康试验参与者中评估单次口服雷美替胺双释片后药代动力学和安全性特征的单中心、随机、开放、交叉、雷美替胺片对照的I期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263768",
+      "plainSummary": "NMPA 公开登记：雷美替胺双释片；适应症：用于治疗以入睡困难与早醒为特征的失眠。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263767",
+      "identifiers": {
+        "nmpa": "CTR20263767"
+      },
+      "briefTitle": "盐酸多西环素片（0.1g）在健康试验参与者中的生物等效性试验",
+      "officialTitle": "盐酸多西环素片（0.1g）在健康试验参与者中的生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "浅表性皮肤感染症、深部皮肤感染症、淋巴管炎及淋巴结炎、慢性脓皮病、外伤、烧伤及手术创口等的继发感染、乳腺炎、骨髓炎、咽喉炎、扁桃体炎、急性支气管炎、肺炎、慢性呼吸道病变的继发感染、膀胱炎、肾盂肾炎、前列腺炎（急性、慢性）、尿道炎、淋球菌感染、感染性肠炎、霍乱、子宫内感染、子宫附件炎、眼睑脓肿、泪囊炎、麦粒肿、角膜炎（包括角膜溃疡）、中耳炎、鼻窦炎、冠周炎、化脓性唾液腺炎、猩红热、炭疽、布鲁氏菌病、鼠疫、Q热、鹦鹉热。"
+      ],
+      "keywords": [
+        "盐酸多西环素片"
+      ],
+      "interventions": [
+        {
+          "name": "盐酸多西环素片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "盐酸多西环素片（0.1g）在健康试验参与者中的生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263767",
+      "plainSummary": "NMPA 公开登记：盐酸多西环素片；适应症：浅表性皮肤感染症、深部皮肤感染症、淋巴管炎及淋巴结炎、慢性脓皮病、外伤、烧伤及手术创口等的继发感染、乳腺炎、骨髓炎、咽喉炎、扁桃体炎、急性支气管炎、肺炎、慢性呼吸道病变的继发感染、膀胱炎、肾盂肾炎、前列腺炎（急性、慢性）、尿道炎、淋球菌感染、感染性肠炎、霍乱、子宫内感染、子宫附件炎、眼睑脓肿、泪囊炎、麦粒肿、角膜炎（包括角膜溃疡）、中耳炎、鼻窦炎、冠周炎、化脓性唾液腺炎、猩红热、炭疽、布鲁氏菌病、鼠疫、Q热、鹦鹉热。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263766",
+      "identifiers": {
+        "nmpa": "CTR20263766"
+      },
+      "briefTitle": "重酒石酸氢可酮缓释片人体生物等效性试验",
+      "officialTitle": "重酒石酸氢可酮缓释片人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "治疗严重到需要长期持续、每天按时使用阿片类药物治疗、且替代治疗不能充分缓解的疼痛。"
+      ],
+      "keywords": [
+        "重酒石酸氢可酮缓释片"
+      ],
+      "interventions": [
+        {
+          "name": "重酒石酸氢可酮缓释片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "重酒石酸氢可酮缓释片人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263766",
+      "plainSummary": "NMPA 公开登记：重酒石酸氢可酮缓释片；适应症：治疗严重到需要长期持续、每天按时使用阿片类药物治疗、且替代治疗不能充分缓解的疼痛。。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
