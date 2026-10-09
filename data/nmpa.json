@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-08T10:47:34Z",
-  "sourceProcessedAt": "2026-10-08T10:47:34Z",
+  "generatedAt": "2026-10-09T10:46:36Z",
+  "sourceProcessedAt": "2026-10-09T10:46:36Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 154,
+  "recordCount": 169,
   "records": [
     {
       "id": "CTR20260083",
@@ -5544,6 +5544,546 @@
       "developmentStageLabel": "BE 生物等效性试验",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263766",
       "plainSummary": "NMPA 公开登记：重酒石酸氢可酮缓释片；适应症：治疗严重到需要长期持续、每天按时使用阿片类药物治疗、且替代治疗不能充分缓解的疼痛。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263838",
+      "identifiers": {
+        "nmpa": "CTR20263838"
+      },
+      "briefTitle": "一项在GRPR阳性晚期实体瘤成人患者中评价LY4257496的研究",
+      "officialTitle": "一项在GRPR阳性晚期实体瘤成人患者中评价LY4257496的研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "GRPR阳性晚期实体瘤"
+      ],
+      "keywords": [
+        "NA"
+      ],
+      "interventions": [
+        {
+          "name": "NA",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在GRPR阳性晚期实体瘤成人患者中评价LY4257496的研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263838",
+      "plainSummary": "NMPA 公开登记：NA；适应症：GRPR阳性晚期实体瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263834",
+      "identifiers": {
+        "nmpa": "CTR20263834"
+      },
+      "briefTitle": "酒石酸伐尼克兰片生物等效性试验",
+      "officialTitle": "酒石酸伐尼克兰片生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "适用于辅助戒烟治疗。"
+      ],
+      "keywords": [
+        "酒石酸伐尼克兰片"
+      ],
+      "interventions": [
+        {
+          "name": "酒石酸伐尼克兰片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "酒石酸伐尼克兰片生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263834",
+      "plainSummary": "NMPA 公开登记：酒石酸伐尼克兰片；适应症：适用于辅助戒烟治疗。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263831",
+      "identifiers": {
+        "nmpa": "CTR20263831"
+      },
+      "briefTitle": "一项评估YSCH-01在复发性或进展性胶质母细胞瘤受试者中安全性、耐受性、药代动力学、药效学和初步疗效的单臂、开放标签、剂量递增及队列扩展研究",
+      "officialTitle": "一项评估YSCH-01在复发性或进展性胶质母细胞瘤受试者中安全性、耐受性、药代动力学、药效学和初步疗效的单臂、开放标签、剂量递增及队列扩展研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "复发性或进展性胶质母细胞瘤"
+      ],
+      "keywords": [
+        "重组L-IFN腺病毒注射液"
+      ],
+      "interventions": [
+        {
+          "name": "重组L-IFN腺病毒注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项评估YSCH-01在复发性或进展性胶质母细胞瘤受试者中安全性、耐受性、药代动力学、药效学和初步疗效的单臂、开放标签、剂量递增及队列扩展研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263831",
+      "plainSummary": "NMPA 公开登记：重组L-IFN腺病毒注射液；适应症：复发性或进展性胶质母细胞瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263828",
+      "identifiers": {
+        "nmpa": "CTR20263828"
+      },
+      "briefTitle": "丁丙诺啡透皮贴剂的药代动力学对比研究",
+      "officialTitle": "丁丙诺啡透皮贴剂的药代动力学对比研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于非阿片类止痛剂不能控制的慢性疼痛。"
+      ],
+      "keywords": [
+        "丁丙诺啡透皮贴剂"
+      ],
+      "interventions": [
+        {
+          "name": "丁丙诺啡透皮贴剂",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "丁丙诺啡透皮贴剂的药代动力学对比研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263828",
+      "plainSummary": "NMPA 公开登记：丁丙诺啡透皮贴剂；适应症：用于非阿片类止痛剂不能控制的慢性疼痛。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263824",
+      "identifiers": {
+        "nmpa": "CTR20263824"
+      },
+      "briefTitle": "评价不同给药方式对中国健康成年试验参与者口服SAL0167片药代动力学影响的研究",
+      "officialTitle": "评价不同给药方式对中国健康成年试验参与者口服SAL0167片药代动力学影响的研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "高脂血症"
+      ],
+      "keywords": [
+        "SAL0167片"
+      ],
+      "interventions": [
+        {
+          "name": "SAL0167片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价不同给药方式对中国健康成年试验参与者口服SAL0167片药代动力学影响的研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263824",
+      "plainSummary": "NMPA 公开登记：SAL0167片；适应症：高脂血症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263820",
+      "identifiers": {
+        "nmpa": "CTR20263820"
+      },
+      "briefTitle": "[14C]QHRD107的物质平衡研究",
+      "officialTitle": "[14C]QHRD107的物质平衡研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "急性髓性白血病"
+      ],
+      "keywords": [
+        "[14C]QHRD107"
+      ],
+      "interventions": [
+        {
+          "name": "[14C]QHRD107",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "[14C]QHRD107的物质平衡研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263820",
+      "plainSummary": "NMPA 公开登记：[14C]QHRD107；适应症：急性髓性白血病。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263817",
+      "identifiers": {
+        "nmpa": "CTR20263817"
+      },
+      "briefTitle": "氯化钾缓释片药代动力学对比研究",
+      "officialTitle": "氯化钾缓释片药代动力学对比研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于治疗和预防伴或不伴代谢性碱中毒的低钾血症，在这些患者通过富含钾的食物进行膳食管理或减少利尿剂剂量治疗效果不佳时。"
+      ],
+      "keywords": [
+        "氯化钾缓释片"
+      ],
+      "interventions": [
+        {
+          "name": "氯化钾缓释片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "氯化钾缓释片药代动力学对比研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263817",
+      "plainSummary": "NMPA 公开登记：氯化钾缓释片；适应症：用于治疗和预防伴或不伴代谢性碱中毒的低钾血症，在这些患者通过富含钾的食物进行膳食管理或减少利尿剂剂量治疗效果不佳时。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263815",
+      "identifiers": {
+        "nmpa": "CTR20263815"
+      },
+      "briefTitle": "苯磺酸左氨氯地平片（5 mg）人体生物等效性试验",
+      "officialTitle": "苯磺酸左氨氯地平片（5 mg）人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "1. 高血压 本品适用于高血压的治疗。本品可单独应用或与其他抗高血压药物联合应用。 高血压的控制是心血管风险综合管理的一部分，综合管理措施可能需要包括：血脂控制、糖尿病管理、抗血栓治疗、戒烟、体育锻炼和限制钠盐摄入。 收缩压或舒张压的升高均增高心血管风险。在更高的基础血压水平上，每毫米汞柱血压的升高所带来的绝对风险增加会更高。降低血压获得风险降低的相对程度在有不同心血管绝对风险的人群中是相似的。严重高血压患者，略微降低血压就能带来较大的临床获益。 对成人高血压患者，通常而言，降低血压可降低心血管事件的风险，主要是卒中、以及心肌梗死的风险。 2. 冠心病（CAD） 慢性稳定性心绞痛 本品适用于慢性稳定性心绞痛的对症治疗。可单独应用或与其他抗心绞痛药物联合应用。 血管痉挛性心绞痛（Prinzmetal’s 或变异型心绞痛） 本品适用于确诊或可疑的血管痉挛性心绞痛的治疗。可单独应用也可与其他抗心绞痛药物联合应用。 经血管造影证实的冠心病 经血管造影证实为冠心病，但射血分数≥40%且无心力衰竭的患者，本品可减少因心绞痛住院的风险以及降低冠状动脉重建术的风险。"
+      ],
+      "keywords": [
+        "苯磺酸左氨氯地平片"
+      ],
+      "interventions": [
+        {
+          "name": "苯磺酸左氨氯地平片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "苯磺酸左氨氯地平片（5 mg）人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263815",
+      "plainSummary": "NMPA 公开登记：苯磺酸左氨氯地平片；适应症：1. 高血压 本品适用于高血压的治疗。本品可单独应用或与其他抗高血压药物联合应用。 高血压的控制是心血管风险综合管理的一部分，综合管理措施可能需要包括：血脂控制、糖尿病管理、抗血栓治疗、戒烟、体育锻炼和限制钠盐摄入。 收缩压或舒张压的升高均增高心血管风险。在更高的基础血压水平上，每毫米汞柱血压的升高所带来的绝对风险增加会更高。降低血压获得风险降低的相对程度在有不同心血管绝对风险的人群中是相似的。严重高血压患者，略微降低血压就能带来较大的临床获益。 对成人高血压患者，通常而言，降低血压可降低心血管事件的风险，主要是卒中、以及心肌梗死的风险。 2. 冠心病（CAD） 慢性稳定性心绞痛 本品适用于慢性稳定性心绞痛的对症治疗。可单独应用或与其他抗心绞痛药物联合应用。 血管痉挛性心绞痛（Prinzmetal’s 或变异型心绞痛） 本品适用于确诊或可疑的血管痉挛性心绞痛的治疗。可单独应用也可与其他抗心绞痛药物联合应用。 经血管造影证实的冠心病 经血管造影证实为冠心病，但射血分数≥40%且无心力衰竭的患者，本品可减少因心绞痛住院的风险以及降低冠状动脉重建术的风险。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263810",
+      "identifiers": {
+        "nmpa": "CTR20263810"
+      },
+      "briefTitle": "评价DA-302168S片在不同程度肾功能损害和肾功能正常试验参与者中的试验",
+      "officialTitle": "评价DA-302168S片在不同程度肾功能损害和肾功能正常试验参与者中的试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品拟用于减重及糖尿病"
+      ],
+      "keywords": [
+        "DA-302168S片"
+      ],
+      "interventions": [
+        {
+          "name": "DA-302168S片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价DA-302168S片在不同程度肾功能损害和肾功能正常试验参与者中的试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263810",
+      "plainSummary": "NMPA 公开登记：DA-302168S片；适应症：本品拟用于减重及糖尿病。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263809",
+      "identifiers": {
+        "nmpa": "CTR20263809"
+      },
+      "briefTitle": "苯磺酸美洛加巴林片人体生物等效性试验",
+      "officialTitle": "苯磺酸美洛加巴林片人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品用于治疗成人糖尿病性周围神经病理性疼痛。"
+      ],
+      "keywords": [
+        "苯磺酸美洛加巴林片"
+      ],
+      "interventions": [
+        {
+          "name": "苯磺酸美洛加巴林片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "苯磺酸美洛加巴林片人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263809",
+      "plainSummary": "NMPA 公开登记：苯磺酸美洛加巴林片；适应症：本品用于治疗成人糖尿病性周围神经病理性疼痛。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263802",
+      "identifiers": {
+        "nmpa": "CTR20263802"
+      },
+      "briefTitle": "一项评价人骨髓间充质干细胞（hBMMSC）注射液治疗自身免疫性肺泡蛋白沉积症（aPAP）的有效性和安全性的多中心、随机、双盲、安慰剂对照的Ⅱb期临床试验",
+      "officialTitle": "一项评价人骨髓间充质干细胞（hBMMSC）注射液治疗自身免疫性肺泡蛋白沉积症（aPAP）的有效性和安全性的多中心、随机、双盲、安慰剂对照的Ⅱb期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "自身免疫性肺泡蛋白沉积症"
+      ],
+      "keywords": [
+        "人骨髓间充质干细胞注射液"
+      ],
+      "interventions": [
+        {
+          "name": "人骨髓间充质干细胞注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项评价人骨髓间充质干细胞（hBMMSC）注射液治疗自身免疫性肺泡蛋白沉积症（aPAP）的有效性和安全性的多中心、随机、双盲、安慰剂对照的Ⅱb期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263802",
+      "plainSummary": "NMPA 公开登记：人骨髓间充质干细胞注射液；适应症：自身免疫性肺泡蛋白沉积症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263796",
+      "identifiers": {
+        "nmpa": "CTR20263796"
+      },
+      "briefTitle": "米格列醇片剂量探索试验",
+      "officialTitle": "米格列醇片剂量探索试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "改善糖尿病餐后高血糖（仅限于接受饮食和运动疗法的患者未取得足够疗效的情况，或除了饮食和运动疗法外，接受磺脲类药物、双胍类药物或胰岛素制剂治疗的患者未取得足够疗效的情况）"
+      ],
+      "keywords": [
+        "米格列醇片"
+      ],
+      "interventions": [
+        {
+          "name": "米格列醇片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "米格列醇片剂量探索试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263796",
+      "plainSummary": "NMPA 公开登记：米格列醇片；适应症：改善糖尿病餐后高血糖（仅限于接受饮食和运动疗法的患者未取得足够疗效的情况，或除了饮食和运动疗法外，接受磺脲类药物、双胍类药物或胰岛素制剂治疗的患者未取得足够疗效的情况）。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263793",
+      "identifiers": {
+        "nmpa": "CTR20263793"
+      },
+      "briefTitle": "米格列醇片在健康试验参与者中的剂量探索试验",
+      "officialTitle": "米格列醇片在健康试验参与者中的剂量探索试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "改善糖尿病患者餐后高血糖（仅限于正在接受饮食或运动疗法效果不佳的患者，或在接受饮食或运动疗法之外使用磺脲类、双胍类或胰岛素制剂效果不佳的患者）。"
+      ],
+      "keywords": [
+        "米格列醇片"
+      ],
+      "interventions": [
+        {
+          "name": "米格列醇片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "米格列醇片在健康试验参与者中的剂量探索试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263793",
+      "plainSummary": "NMPA 公开登记：米格列醇片；适应症：改善糖尿病患者餐后高血糖（仅限于正在接受饮食或运动疗法效果不佳的患者，或在接受饮食或运动疗法之外使用磺脲类、双胍类或胰岛素制剂效果不佳的患者）。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263786",
+      "identifiers": {
+        "nmpa": "CTR20263786"
+      },
+      "briefTitle": "一项在中国健康成年参与者中评估LPM7100328胶囊与伊曲康唑、咪达唑仑药物相互作用的单中心、开放、固定序列、序贯设计临床研究",
+      "officialTitle": "一项在中国健康成年参与者中评估LPM7100328胶囊与伊曲康唑、咪达唑仑药物相互作用的单中心、开放、固定序列、序贯设计临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "1）拟用于辅助生殖技术中，对控制性卵巢刺激的患者，可防止提前排卵；2）拟用于需要雄激素去势治疗的前列腺癌患者；3）子宫内膜异位症。"
+      ],
+      "keywords": [
+        "LPM7100328胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "LPM7100328胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在中国健康成年参与者中评估LPM7100328胶囊与伊曲康唑、咪达唑仑药物相互作用的单中心、开放、固定序列、序贯设计临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263786",
+      "plainSummary": "NMPA 公开登记：LPM7100328胶囊；适应症：1）拟用于辅助生殖技术中，对控制性卵巢刺激的患者，可防止提前排卵；2）拟用于需要雄激素去势治疗的前列腺癌患者；3）子宫内膜异位症。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263784",
+      "identifiers": {
+        "nmpa": "CTR20263784"
+      },
+      "briefTitle": "评价Telisotuzumab adizutecan联合RC148一线治疗非鳞状非小细胞肺癌的 II期临床研究",
+      "officialTitle": "评价Telisotuzumab adizutecan联合RC148一线治疗非鳞状非小细胞肺癌的 II期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "非鳞状非小细胞肺癌"
+      ],
+      "keywords": [
+        "RC148注射液"
+      ],
+      "interventions": [
+        {
+          "name": "RC148注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价Telisotuzumab adizutecan联合RC148一线治疗非鳞状非小细胞肺癌的 II期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263784",
+      "plainSummary": "NMPA 公开登记：RC148注射液；适应症：非鳞状非小细胞肺癌。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
