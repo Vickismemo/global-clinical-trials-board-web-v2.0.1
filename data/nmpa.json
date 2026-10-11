@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-09T10:46:36Z",
-  "sourceProcessedAt": "2026-10-09T10:46:36Z",
+  "generatedAt": "2026-10-11T10:11:40Z",
+  "sourceProcessedAt": "2026-10-11T10:11:40Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 169,
+  "recordCount": 174,
   "records": [
     {
       "id": "CTR20260083",
@@ -6084,6 +6084,186 @@
       "developmentStageLabel": "Ⅱ期",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263784",
       "plainSummary": "NMPA 公开登记：RC148注射液；适应症：非鳞状非小细胞肺癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263854",
+      "identifiers": {
+        "nmpa": "CTR20263854"
+      },
+      "briefTitle": "布地奈德肠溶胶囊在餐后条件下的人体生物等效性试验",
+      "officialTitle": "布地奈德肠溶胶囊在餐后条件下的人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于治疗具有疾病进展风险的原发性免疫球蛋白A肾病(IgAN)成人患者，以减少肾功能损失。"
+      ],
+      "keywords": [
+        "布地奈德肠溶胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "布地奈德肠溶胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "布地奈德肠溶胶囊在餐后条件下的人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263854",
+      "plainSummary": "NMPA 公开登记：布地奈德肠溶胶囊；适应症：用于治疗具有疾病进展风险的原发性免疫球蛋白A肾病(IgAN)成人患者，以减少肾功能损失。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263847",
+      "identifiers": {
+        "nmpa": "CTR20263847"
+      },
+      "briefTitle": "立氟胺口溶膜生物利用度试验",
+      "officialTitle": "立氟胺口溶膜生物利用度试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "适用于治疗成人复发型多发性硬化，包括临床孤立综合征、复发缓解型多发性硬化和活动性的继发进展型多发性硬化。"
+      ],
+      "keywords": [
+        "HZ023口溶膜"
+      ],
+      "interventions": [
+        {
+          "name": "HZ023口溶膜",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "立氟胺口溶膜生物利用度试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263847",
+      "plainSummary": "NMPA 公开登记：HZ023口溶膜；适应症：适用于治疗成人复发型多发性硬化，包括临床孤立综合征、复发缓解型多发性硬化和活动性的继发进展型多发性硬化。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263839",
+      "identifiers": {
+        "nmpa": "CTR20263839"
+      },
+      "briefTitle": "依折麦布片（10mg）生物等效性临床试验",
+      "officialTitle": "依折麦布片（10mg）生物等效性临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "原发性高胆固醇血症 本品作为饮食控制以外的辅助治疗，可单独或与HMG-CoA还原酶抑制剂（他汀类）联合应用于治疗原发性（杂合子家族性或非家族性）高胆固醇血症，可降低总胆固醇（TC）、低密度脂蛋白胆固醇（LDL-C）、载脂蛋白B（Apo B）。 纯合子家族性高胆固醇血症（HoFH） 本品与他汀类联合应用，可作为其他降脂治疗的辅助疗法（如LDL-C血浆分离置换法），或在其他降脂治疗无效时用于降低HoFH患者的TC和LDL-C水平。 纯合子谷甾醇血症（或植物甾醇血症） 本品作为饮食控制以外的辅助治疗，用于降低纯合子家族性谷甾醇血症患者的谷甾醇和植物甾醇水平。"
+      ],
+      "keywords": [
+        "依折麦布片"
+      ],
+      "interventions": [
+        {
+          "name": "依折麦布片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "依折麦布片（10mg）生物等效性临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263839",
+      "plainSummary": "NMPA 公开登记：依折麦布片；适应症：原发性高胆固醇血症 本品作为饮食控制以外的辅助治疗，可单独或与HMG-CoA还原酶抑制剂（他汀类）联合应用于治疗原发性（杂合子家族性或非家族性）高胆固醇血症，可降低总胆固醇（TC）、低密度脂蛋白胆固醇（LDL-C）、载脂蛋白B（Apo B）。 纯合子家族性高胆固醇血症（HoFH） 本品与他汀类联合应用，可作为其他降脂治疗的辅助疗法（如LDL-C血浆分离置换法），或在其他降脂治疗无效时用于降低HoFH患者的TC和LDL-C水平。 纯合子谷甾醇血症（或植物甾醇血症） 本品作为饮食控制以外的辅助治疗，用于降低纯合子家族性谷甾醇血症患者的谷甾醇和植物甾醇水平。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263806",
+      "identifiers": {
+        "nmpa": "CTR20263806"
+      },
+      "briefTitle": "舒必利片生物等效性试验",
+      "officialTitle": "舒必利片生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "1.精神分裂症 2.抑郁症/抑郁状态"
+      ],
+      "keywords": [
+        "舒必利片"
+      ],
+      "interventions": [
+        {
+          "name": "舒必利片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "舒必利片生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263806",
+      "plainSummary": "NMPA 公开登记：舒必利片；适应症：1.精神分裂症 2.抑郁症/抑郁状态。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263801",
+      "identifiers": {
+        "nmpa": "CTR20263801"
+      },
+      "briefTitle": "恩格列净二甲双胍缓释片空腹和餐后条件下的人体生物等效性试验",
+      "officialTitle": "恩格列净二甲双胍缓释片空腹和餐后条件下的人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "恩格列净（一种SGLT2抑制剂）和盐酸二甲双胍（一种双胍）的组合，可作为饮食和运动的辅助手段，以改善成人2型糖尿病患者的血糖控制。 恩格列净 当恩格列净用作本品的组分时，适用于成人2型糖尿病患者，以降低以下风险： 已确诊心血管疾病的成人的心血管死亡。 成人心力衰竭患者的心血管死亡和心力衰竭住院。 处于疾病进展风险中的慢性肾病成人发生eGFR持续下降、终末期肾病、心血管死亡及住院的风险。 使用限制： 不建议用于改善1型糖尿病患者的血糖控制。该药物可能增加此类患者发生糖尿病酮症酸中毒的风险。 由于含有盐酸二甲双胍成分，本品的使用仅限于所有适应症的2型糖尿病患者。 恩格列净作为本品的组成部分使用时，不建议用于多囊肾病患者、需要或近期有静脉免疫抑制治疗史、或肾病患者使用超过45mg泼尼松或等效剂量的慢性肾脏病治疗。预计恩格列净在这些人群中无效。"
+      ],
+      "keywords": [
+        "恩格列净二甲双胍缓释片"
+      ],
+      "interventions": [
+        {
+          "name": "恩格列净二甲双胍缓释片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "恩格列净二甲双胍缓释片空腹和餐后条件下的人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263801",
+      "plainSummary": "NMPA 公开登记：恩格列净二甲双胍缓释片；适应症：恩格列净（一种SGLT2抑制剂）和盐酸二甲双胍（一种双胍）的组合，可作为饮食和运动的辅助手段，以改善成人2型糖尿病患者的血糖控制。 恩格列净 当恩格列净用作本品的组分时，适用于成人2型糖尿病患者，以降低以下风险： 已确诊心血管疾病的成人的心血管死亡。 成人心力衰竭患者的心血管死亡和心力衰竭住院。 处于疾病进展风险中的慢性肾病成人发生eGFR持续下降、终末期肾病、心血管死亡及住院的风险。 使用限制： 不建议用于改善1型糖尿病患者的血糖控制。该药物可能增加此类患者发生糖尿病酮症酸中毒的风险。 由于含有盐酸二甲双胍成分，本品的使用仅限于所有适应症的2型糖尿病患者。 恩格列净作为本品的组成部分使用时，不建议用于多囊肾病患者、需要或近期有静脉免疫抑制治疗史、或肾病患者使用超过45mg泼尼松或等效剂量的慢性肾脏病治疗。预计恩格列净在这些人群中无效。。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
