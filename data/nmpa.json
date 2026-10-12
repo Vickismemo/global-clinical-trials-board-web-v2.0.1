@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-11T10:11:40Z",
-  "sourceProcessedAt": "2026-10-11T10:11:40Z",
+  "generatedAt": "2026-10-12T11:10:00Z",
+  "sourceProcessedAt": "2026-10-12T11:10:00Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 174,
+  "recordCount": 182,
   "records": [
     {
       "id": "CTR20260083",
@@ -6264,6 +6264,294 @@
       "developmentStageLabel": "BE 生物等效性试验",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263801",
       "plainSummary": "NMPA 公开登记：恩格列净二甲双胍缓释片；适应症：恩格列净（一种SGLT2抑制剂）和盐酸二甲双胍（一种双胍）的组合，可作为饮食和运动的辅助手段，以改善成人2型糖尿病患者的血糖控制。 恩格列净 当恩格列净用作本品的组分时，适用于成人2型糖尿病患者，以降低以下风险： 已确诊心血管疾病的成人的心血管死亡。 成人心力衰竭患者的心血管死亡和心力衰竭住院。 处于疾病进展风险中的慢性肾病成人发生eGFR持续下降、终末期肾病、心血管死亡及住院的风险。 使用限制： 不建议用于改善1型糖尿病患者的血糖控制。该药物可能增加此类患者发生糖尿病酮症酸中毒的风险。 由于含有盐酸二甲双胍成分，本品的使用仅限于所有适应症的2型糖尿病患者。 恩格列净作为本品的组成部分使用时，不建议用于多囊肾病患者、需要或近期有静脉免疫抑制治疗史、或肾病患者使用超过45mg泼尼松或等效剂量的慢性肾脏病治疗。预计恩格列净在这些人群中无效。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263862",
+      "identifiers": {
+        "nmpa": "CTR20263862"
+      },
+      "briefTitle": "CM512注射液在背景治疗下治疗常年性过敏性鼻炎患者的Ⅱ期临床研究",
+      "officialTitle": "CM512注射液在背景治疗下治疗常年性过敏性鼻炎患者的Ⅱ期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "常年性过敏性鼻炎"
+      ],
+      "keywords": [
+        "CM512注射液"
+      ],
+      "interventions": [
+        {
+          "name": "CM512注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "CM512注射液在背景治疗下治疗常年性过敏性鼻炎患者的Ⅱ期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263862",
+      "plainSummary": "NMPA 公开登记：CM512注射液；适应症：常年性过敏性鼻炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263861",
+      "identifiers": {
+        "nmpa": "CTR20263861"
+      },
+      "briefTitle": "一项开放、单臂、两阶段、剂量探索的I期临床研究，评估VT-101治疗局部晚期或转移性实体瘤患者的安全性及初步疗效",
+      "officialTitle": "一项开放、单臂、两阶段、剂量探索的I期临床研究，评估VT-101治疗局部晚期或转移性实体瘤患者的安全性及初步疗效",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "经标准治疗失败（治疗后疾病进展），或不耐受标准治疗，且现阶段无有效治疗手段的局部晚期或转移性头颈部鳞癌、黑色素瘤、乳腺癌、肝癌、胰腺癌、胆管癌、结直肠癌等。"
+      ],
+      "keywords": [
+        "VT-101注射液"
+      ],
+      "interventions": [
+        {
+          "name": "VT-101注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项开放、单臂、两阶段、剂量探索的I期临床研究，评估VT-101治疗局部晚期或转移性实体瘤患者的安全性及初步疗效"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263861",
+      "plainSummary": "NMPA 公开登记：VT-101注射液；适应症：经标准治疗失败（治疗后疾病进展），或不耐受标准治疗，且现阶段无有效治疗手段的局部晚期或转移性头颈部鳞癌、黑色素瘤、乳腺癌、肝癌、胰腺癌、胆管癌、结直肠癌等。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263859",
+      "identifiers": {
+        "nmpa": "CTR20263859"
+      },
+      "briefTitle": "评价DN002注射剂在健康试验参与者趾短伸肌中注射后的安全性研究",
+      "officialTitle": "评价DN002注射剂在健康试验参与者趾短伸肌中注射后的安全性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "改善颈部肌张力障碍"
+      ],
+      "keywords": [
+        "DN002注射用冻干粉针剂"
+      ],
+      "interventions": [
+        {
+          "name": "DN002注射用冻干粉针剂",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价DN002注射剂在健康试验参与者趾短伸肌中注射后的安全性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263859",
+      "plainSummary": "NMPA 公开登记：DN002注射用冻干粉针剂；适应症：改善颈部肌张力障碍。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263858",
+      "identifiers": {
+        "nmpa": "CTR20263858"
+      },
+      "briefTitle": "维A酸软胶囊生物等效性试验",
+      "officialTitle": "维A酸软胶囊生物等效性试验",
+      "statusCode": "RECRUITING",
+      "statusLabel": "招募中",
+      "conditions": [
+        "急性早幼粒细胞白血病"
+      ],
+      "keywords": [
+        "维A酸软胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "维A酸软胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "维A酸软胶囊生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263858",
+      "plainSummary": "NMPA 公开登记：维A酸软胶囊；适应症：急性早幼粒细胞白血病。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263846",
+      "identifiers": {
+        "nmpa": "CTR20263846"
+      },
+      "briefTitle": "BCM882胶囊的食物影响研究",
+      "officialTitle": "BCM882胶囊的食物影响研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "胃溃疡、十二指肠溃疡、吻合口溃疡、反流性食管炎、卓－艾氏（Zollinger-Ellison）综合征。"
+      ],
+      "keywords": [
+        "BCM882胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "BCM882胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "BCM882胶囊的食物影响研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263846",
+      "plainSummary": "NMPA 公开登记：BCM882胶囊；适应症：胃溃疡、十二指肠溃疡、吻合口溃疡、反流性食管炎、卓－艾氏（Zollinger-Ellison）综合征。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263842",
+      "identifiers": {
+        "nmpa": "CTR20263842"
+      },
+      "briefTitle": "拉考沙胺片在健康参与者中的空腹生物等效性试验",
+      "officialTitle": "拉考沙胺片在健康参与者中的空腹生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品适用于4岁及以上癫痫患者部分性发作的单药治疗和联合治疗，以及4岁及以上原发性全身强直-阵挛性发作患者的联合治疗"
+      ],
+      "keywords": [
+        "拉考沙胺片"
+      ],
+      "interventions": [
+        {
+          "name": "拉考沙胺片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "拉考沙胺片在健康参与者中的空腹生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263842",
+      "plainSummary": "NMPA 公开登记：拉考沙胺片；适应症：本品适用于4岁及以上癫痫患者部分性发作的单药治疗和联合治疗，以及4岁及以上原发性全身强直-阵挛性发作患者的联合治疗。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263826",
+      "identifiers": {
+        "nmpa": "CTR20263826"
+      },
+      "briefTitle": "健康参与者物质平衡研究",
+      "officialTitle": "健康参与者物质平衡研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "免疫球蛋白A肾病和阵发性睡眠性血红蛋白尿"
+      ],
+      "keywords": [
+        "[14C]HS-10542"
+      ],
+      "interventions": [
+        {
+          "name": "[14C]HS-10542",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "健康参与者物质平衡研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263826",
+      "plainSummary": "NMPA 公开登记：[14C]HS-10542；适应症：免疫球蛋白A肾病和阵发性睡眠性血红蛋白尿。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263823",
+      "identifiers": {
+        "nmpa": "CTR20263823"
+      },
+      "briefTitle": "WS-0101皮肤给药在尖锐湿疣患者中的安全性、耐受性及药代动力学（PK）及初步有效性的临床研究",
+      "officialTitle": "WS-0101皮肤给药在尖锐湿疣患者中的安全性、耐受性及药代动力学（PK）及初步有效性的临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "尖锐湿疣"
+      ],
+      "keywords": [
+        "WS-0101溶液"
+      ],
+      "interventions": [
+        {
+          "name": "WS-0101溶液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "WS-0101皮肤给药在尖锐湿疣患者中的安全性、耐受性及药代动力学（PK）及初步有效性的临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263823",
+      "plainSummary": "NMPA 公开登记：WS-0101溶液；适应症：尖锐湿疣。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
