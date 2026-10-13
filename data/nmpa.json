@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-12T11:10:00Z",
-  "sourceProcessedAt": "2026-10-12T11:10:00Z",
+  "generatedAt": "2026-10-13T10:51:11Z",
+  "sourceProcessedAt": "2026-10-13T10:51:11Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 182,
+  "recordCount": 193,
   "records": [
     {
       "id": "CTR20260083",
@@ -6552,6 +6552,402 @@
       "developmentStageLabel": "PK 药代动力学试验",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263823",
       "plainSummary": "NMPA 公开登记：WS-0101溶液；适应症：尖锐湿疣。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263879",
+      "identifiers": {
+        "nmpa": "CTR20263879"
+      },
+      "briefTitle": "评估QX027N注射液治疗成人慢性鼻窦炎伴鼻息肉的有效性、安全性的Ⅱ期研究",
+      "officialTitle": "评估QX027N注射液治疗成人慢性鼻窦炎伴鼻息肉的有效性、安全性的Ⅱ期研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "鼻窦炎伴鼻息肉"
+      ],
+      "keywords": [
+        "QX027N注射液"
+      ],
+      "interventions": [
+        {
+          "name": "QX027N注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评估QX027N注射液治疗成人慢性鼻窦炎伴鼻息肉的有效性、安全性的Ⅱ期研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263879",
+      "plainSummary": "NMPA 公开登记：QX027N注射液；适应症：鼻窦炎伴鼻息肉。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263877",
+      "identifiers": {
+        "nmpa": "CTR20263877"
+      },
+      "briefTitle": "IBR822细胞注射液联合多西他赛对比多西他赛单药治疗一线标准治疗失败的晚期非小细胞肺癌的有效性和安全性的多中心、随机、开放性、阳性对照II期临床研究",
+      "officialTitle": "IBR822细胞注射液联合多西他赛对比多西他赛单药治疗一线标准治疗失败的晚期非小细胞肺癌的有效性和安全性的多中心、随机、开放性、阳性对照II期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "晚期非小细胞肺癌"
+      ],
+      "keywords": [
+        "IBR822细胞注射液"
+      ],
+      "interventions": [
+        {
+          "name": "IBR822细胞注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "IBR822细胞注射液联合多西他赛对比多西他赛单药治疗一线标准治疗失败的晚期非小细胞肺癌的有效性和安全性的多中心、随机、开放性、阳性对照II期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263877",
+      "plainSummary": "NMPA 公开登记：IBR822细胞注射液；适应症：晚期非小细胞肺癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263875",
+      "identifiers": {
+        "nmpa": "CTR20263875"
+      },
+      "briefTitle": "布洛芬混悬液空腹人体生物等效性研究",
+      "officialTitle": "布洛芬混悬液空腹人体生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于儿童普通感冒或流行性感冒引起的发热。也用于缓解儿童轻至中度疼痛，如头痛、关节痛、偏头痛、牙痛、肌肉痛、神经痛。"
+      ],
+      "keywords": [
+        "布洛芬混悬液"
+      ],
+      "interventions": [
+        {
+          "name": "布洛芬混悬液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "布洛芬混悬液空腹人体生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263875",
+      "plainSummary": "NMPA 公开登记：布洛芬混悬液；适应症：用于儿童普通感冒或流行性感冒引起的发热。也用于缓解儿童轻至中度疼痛，如头痛、关节痛、偏头痛、牙痛、肌肉痛、神经痛。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263874",
+      "identifiers": {
+        "nmpa": "CTR20263874"
+      },
+      "briefTitle": "NW-301V注射液治疗KRAS G12V突变的晚期恶性实体瘤的单臂、多中心、开放性、Ia/Ib期",
+      "officialTitle": "NW-301V注射液治疗KRAS G12V突变的晚期恶性实体瘤的单臂、多中心、开放性、Ia/Ib期",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "晚期恶性实体瘤"
+      ],
+      "keywords": [
+        "NW-301V注射液"
+      ],
+      "interventions": [
+        {
+          "name": "NW-301V注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "NW-301V注射液治疗KRAS G12V突变的晚期恶性实体瘤的单臂、多中心、开放性、Ia/Ib期"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263874",
+      "plainSummary": "NMPA 公开登记：NW-301V注射液；适应症：晚期恶性实体瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263871",
+      "identifiers": {
+        "nmpa": "CTR20263871"
+      },
+      "briefTitle": "氢溴酸伏硫西汀口崩片生物等效性试验",
+      "officialTitle": "氢溴酸伏硫西汀口崩片生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品用于治疗成人抑郁症。"
+      ],
+      "keywords": [
+        "氢溴酸伏硫西汀口崩片"
+      ],
+      "interventions": [
+        {
+          "name": "氢溴酸伏硫西汀口崩片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "氢溴酸伏硫西汀口崩片生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263871",
+      "plainSummary": "NMPA 公开登记：氢溴酸伏硫西汀口崩片；适应症：本品用于治疗成人抑郁症。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263870",
+      "identifiers": {
+        "nmpa": "CTR20263870"
+      },
+      "briefTitle": "沙库巴曲缬沙坦钠片生物等效性研究",
+      "officialTitle": "沙库巴曲缬沙坦钠片生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "1.以沙库巴曲缬沙坦计 50 mg、100 mg、200 mg： 用于射血分数降低的慢性心力衰竭（NYHA II-IV 级，LVEF ≤ 40%）成人患者，降低心血管死亡和心力衰竭住院的风险。 沙库巴曲缬沙坦钠片可代替血管紧张素转化酶抑制剂（ACEI）或血管紧张素 II 受体拮抗剂（ARB），与其他心力衰竭治疗药物合用。 2. 以沙库巴曲缬沙坦计 100 mg、200 mg： 用于治疗原发性高血压。"
+      ],
+      "keywords": [
+        "沙库巴曲缬沙坦钠片"
+      ],
+      "interventions": [
+        {
+          "name": "沙库巴曲缬沙坦钠片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "沙库巴曲缬沙坦钠片生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263870",
+      "plainSummary": "NMPA 公开登记：沙库巴曲缬沙坦钠片；适应症：1.以沙库巴曲缬沙坦计 50 mg、100 mg、200 mg： 用于射血分数降低的慢性心力衰竭（NYHA II-IV 级，LVEF ≤ 40%）成人患者，降低心血管死亡和心力衰竭住院的风险。 沙库巴曲缬沙坦钠片可代替血管紧张素转化酶抑制剂（ACEI）或血管紧张素 II 受体拮抗剂（ARB），与其他心力衰竭治疗药物合用。 2. 以沙库巴曲缬沙坦计 100 mg、200 mg： 用于治疗原发性高血压。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263866",
+      "identifiers": {
+        "nmpa": "CTR20263866"
+      },
+      "briefTitle": "沙库巴曲缬沙坦钠片的人体生物等效性研究",
+      "officialTitle": "沙库巴曲缬沙坦钠片的人体生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "1.以沙库巴曲缬沙坦计 50mg、100mg、200mg：用于射血分数降低的慢性心力衰竭（NYHA Ⅱ-Ⅳ级，LVEF ≤ 40%）成人患者，降低心血管死亡和心力衰竭住院的风险。沙库巴曲缬沙坦钠片可代替血管紧张素转化酶抑制剂（ACEI）或血管紧张素Ⅱ受体拮抗剂（ARB），与其他心力衰竭治疗药物合用。2.以沙库巴曲缬沙坦计 100mg、200mg：用于治疗原发性高血压。"
+      ],
+      "keywords": [
+        "沙库巴曲缬沙坦钠片"
+      ],
+      "interventions": [
+        {
+          "name": "沙库巴曲缬沙坦钠片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "沙库巴曲缬沙坦钠片的人体生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263866",
+      "plainSummary": "NMPA 公开登记：沙库巴曲缬沙坦钠片；适应症：1.以沙库巴曲缬沙坦计 50mg、100mg、200mg：用于射血分数降低的慢性心力衰竭（NYHA Ⅱ-Ⅳ级，LVEF ≤ 40%）成人患者，降低心血管死亡和心力衰竭住院的风险。沙库巴曲缬沙坦钠片可代替血管紧张素转化酶抑制剂（ACEI）或血管紧张素Ⅱ受体拮抗剂（ARB），与其他心力衰竭治疗药物合用。2.以沙库巴曲缬沙坦计 100mg、200mg：用于治疗原发性高血压。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263860",
+      "identifiers": {
+        "nmpa": "CTR20263860"
+      },
+      "briefTitle": "EP-0226片与盐酸二甲双胍片药物相互作用研究",
+      "officialTitle": "EP-0226片与盐酸二甲双胍片药物相互作用研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "神经病理性疼痛"
+      ],
+      "keywords": [
+        "EP-0226片"
+      ],
+      "interventions": [
+        {
+          "name": "EP-0226片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "EP-0226片与盐酸二甲双胍片药物相互作用研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263860",
+      "plainSummary": "NMPA 公开登记：EP-0226片；适应症：神经病理性疼痛。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263856",
+      "identifiers": {
+        "nmpa": "CTR20263856"
+      },
+      "briefTitle": "茚达特罗格隆溴铵吸入粉雾剂人体生物等效性预试验",
+      "officialTitle": "茚达特罗格隆溴铵吸入粉雾剂人体生物等效性预试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于成人慢性阻塞性肺疾病(COPD)(包括慢性支气管炎和肺气肿)患者维持性支气管扩张治疗以缓解症状。"
+      ],
+      "keywords": [
+        "茚达特罗格隆溴铵吸入粉雾剂"
+      ],
+      "interventions": [
+        {
+          "name": "茚达特罗格隆溴铵吸入粉雾剂",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "茚达特罗格隆溴铵吸入粉雾剂人体生物等效性预试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263856",
+      "plainSummary": "NMPA 公开登记：茚达特罗格隆溴铵吸入粉雾剂；适应症：用于成人慢性阻塞性肺疾病(COPD)(包括慢性支气管炎和肺气肿)患者维持性支气管扩张治疗以缓解症状。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263850",
+      "identifiers": {
+        "nmpa": "CTR20263850"
+      },
+      "briefTitle": "依折麦布阿托伐他汀钙片（10mg/20mg）人体生物等效性试验",
+      "officialTitle": "依折麦布阿托伐他汀钙片（10mg/20mg）人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "高胆固醇血症 本品适用于在饮食控制的基础上，治疗他汀类药物单药治疗 LDL-C 无法达标的成人原发性（杂合子型家族性或非家族性）高胆固醇血症或混合性高脂血症患者。 纯合子型家族性高胆固醇血症（HoFH） 本品适用于在饮食控制的基础上，降低 HoFH 患者的 TC 和 LDL-C 水平。本品可作为其他降脂治疗（例如 LDL 血浆分离置换法）的辅助疗法，或尚无其他降脂治疗时，本品用于降低 HoFH 患者的 TC 和 LDL-C 水平。"
+      ],
+      "keywords": [
+        "依折麦布阿托伐他汀钙片（Ⅱ）"
+      ],
+      "interventions": [
+        {
+          "name": "依折麦布阿托伐他汀钙片（Ⅱ）",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "依折麦布阿托伐他汀钙片（10mg/20mg）人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263850",
+      "plainSummary": "NMPA 公开登记：依折麦布阿托伐他汀钙片（Ⅱ）；适应症：高胆固醇血症 本品适用于在饮食控制的基础上，治疗他汀类药物单药治疗 LDL-C 无法达标的成人原发性（杂合子型家族性或非家族性）高胆固醇血症或混合性高脂血症患者。 纯合子型家族性高胆固醇血症（HoFH） 本品适用于在饮食控制的基础上，降低 HoFH 患者的 TC 和 LDL-C 水平。本品可作为其他降脂治疗（例如 LDL 血浆分离置换法）的辅助疗法，或尚无其他降脂治疗时，本品用于降低 HoFH 患者的 TC 和 LDL-C 水平。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263840",
+      "identifiers": {
+        "nmpa": "CTR20263840"
+      },
+      "briefTitle": "在健康参与者中评价利福平对口服HRS-8080药代动力学影响的研究",
+      "officialTitle": "在健康参与者中评价利福平对口服HRS-8080药代动力学影响的研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "乳腺癌"
+      ],
+      "keywords": [
+        "HRS-8080 片"
+      ],
+      "interventions": [
+        {
+          "name": "HRS-8080 片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "在健康参与者中评价利福平对口服HRS-8080药代动力学影响的研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263840",
+      "plainSummary": "NMPA 公开登记：HRS-8080 片；适应症：乳腺癌。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
