@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-13T10:51:11Z",
-  "sourceProcessedAt": "2026-10-13T10:51:11Z",
+  "generatedAt": "2026-10-17T07:56:38Z",
+  "sourceProcessedAt": "2026-10-17T07:56:38Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 193,
+  "recordCount": 212,
   "records": [
     {
       "id": "CTR20260083",
@@ -6948,6 +6948,690 @@
       "developmentStageLabel": "PK 药代动力学试验",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263840",
       "plainSummary": "NMPA 公开登记：HRS-8080 片；适应症：乳腺癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263919",
+      "identifiers": {
+        "nmpa": "CTR20263919"
+      },
+      "briefTitle": "SHR-3201注射液在健康参与者中的随机、双盲、剂量递增、安慰剂对照的I期临床研究",
+      "officialTitle": "SHR-3201注射液在健康参与者中的随机、双盲、剂量递增、安慰剂对照的I期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "阿尔茨海默病"
+      ],
+      "keywords": [
+        "SHR-3201注射液"
+      ],
+      "interventions": [
+        {
+          "name": "SHR-3201注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "SHR-3201注射液在健康参与者中的随机、双盲、剂量递增、安慰剂对照的I期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263919",
+      "plainSummary": "NMPA 公开登记：SHR-3201注射液；适应症：阿尔茨海默病。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263905",
+      "identifiers": {
+        "nmpa": "CTR20263905"
+      },
+      "briefTitle": "非奈利酮片空腹人体生物等效性试验",
+      "officialTitle": "非奈利酮片空腹人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品用于与2型糖尿病相关的慢性肾脏病成人患者（伴白蛋白尿），以降低肾小球滤过率估计值（eGFR）持续下降、终末期肾病、心血管死亡和因心力衰竭住院的风险。"
+      ],
+      "keywords": [
+        "非奈利酮片"
+      ],
+      "interventions": [
+        {
+          "name": "非奈利酮片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "非奈利酮片空腹人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263905",
+      "plainSummary": "NMPA 公开登记：非奈利酮片；适应症：本品用于与2型糖尿病相关的慢性肾脏病成人患者（伴白蛋白尿），以降低肾小球滤过率估计值（eGFR）持续下降、终末期肾病、心血管死亡和因心力衰竭住院的风险。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263904",
+      "identifiers": {
+        "nmpa": "CTR20263904"
+      },
+      "briefTitle": "ZK2401Ⅰ期临床试验",
+      "officialTitle": "ZK2401Ⅰ期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "晚期/转移性恶性实体瘤"
+      ],
+      "keywords": [
+        "注射用ZK2401"
+      ],
+      "interventions": [
+        {
+          "name": "注射用ZK2401",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "ZK2401Ⅰ期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE1",
+      "developmentStageLabel": "Ⅰ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263904",
+      "plainSummary": "NMPA 公开登记：注射用ZK2401；适应症：晚期/转移性恶性实体瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263903",
+      "identifiers": {
+        "nmpa": "CTR20263903"
+      },
+      "briefTitle": "注射用醋酸丙氨瑞林微球绝经前激素受体阳性乳腺癌II期临床试验",
+      "officialTitle": "注射用醋酸丙氨瑞林微球绝经前激素受体阳性乳腺癌II期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "绝经前乳腺癌"
+      ],
+      "keywords": [
+        "注射用醋酸丙氨瑞林微球"
+      ],
+      "interventions": [
+        {
+          "name": "注射用醋酸丙氨瑞林微球",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "注射用醋酸丙氨瑞林微球绝经前激素受体阳性乳腺癌II期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263903",
+      "plainSummary": "NMPA 公开登记：注射用醋酸丙氨瑞林微球；适应症：绝经前乳腺癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263902",
+      "identifiers": {
+        "nmpa": "CTR20263902"
+      },
+      "briefTitle": "替戈拉生片人体生物等效性试验",
+      "officialTitle": "替戈拉生片人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "反流性食管炎、十二指肠溃疡、与适当的抗生素联用以根除幽门螺杆菌"
+      ],
+      "keywords": [
+        "替戈拉生片"
+      ],
+      "interventions": [
+        {
+          "name": "替戈拉生片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "替戈拉生片人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263902",
+      "plainSummary": "NMPA 公开登记：替戈拉生片；适应症：反流性食管炎、十二指肠溃疡、与适当的抗生素联用以根除幽门螺杆菌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263901",
+      "identifiers": {
+        "nmpa": "CTR20263901"
+      },
+      "briefTitle": "HRS-6209联合来曲唑对比达尔西利或哌柏西利联合芳香化酶抑制剂（AI）治疗既往晚期阶段未接受过系统性抗肿瘤治疗的局部晚期或转移性乳腺癌III期临床试验",
+      "officialTitle": "HRS-6209联合来曲唑对比达尔西利或哌柏西利联合芳香化酶抑制剂（AI）治疗既往晚期阶段未接受过系统性抗肿瘤治疗的局部晚期或转移性乳腺癌III期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "局部晚期或转移性乳腺癌"
+      ],
+      "keywords": [
+        "HRS-6209胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "HRS-6209胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "HRS-6209联合来曲唑对比达尔西利或哌柏西利联合芳香化酶抑制剂（AI）治疗既往晚期阶段未接受过系统性抗肿瘤治疗的局部晚期或转移性乳腺癌III期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE3",
+      "developmentStageLabel": "Ⅲ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263901",
+      "plainSummary": "NMPA 公开登记：HRS-6209胶囊；适应症：局部晚期或转移性乳腺癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263899",
+      "identifiers": {
+        "nmpa": "CTR20263899"
+      },
+      "briefTitle": "AHB-121在健康参与者和慢性乙型肝炎（CHB）参与者中的临床研究",
+      "officialTitle": "AHB-121在健康参与者和慢性乙型肝炎（CHB）参与者中的临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "慢性乙型肝炎"
+      ],
+      "keywords": [
+        "AHB-121注射液"
+      ],
+      "interventions": [
+        {
+          "name": "AHB-121注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "AHB-121在健康参与者和慢性乙型肝炎（CHB）参与者中的临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263899",
+      "plainSummary": "NMPA 公开登记：AHB-121注射液；适应症：慢性乙型肝炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263898",
+      "identifiers": {
+        "nmpa": "CTR20263898"
+      },
+      "briefTitle": "HS-10506片在肾功能不全及肾功能正常参与者中的药代动力学研究",
+      "officialTitle": "HS-10506片在肾功能不全及肾功能正常参与者中的药代动力学研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "拟用于抑郁症和失眠"
+      ],
+      "keywords": [
+        "HS-10506片"
+      ],
+      "interventions": [
+        {
+          "name": "HS-10506片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "HS-10506片在肾功能不全及肾功能正常参与者中的药代动力学研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263898",
+      "plainSummary": "NMPA 公开登记：HS-10506片；适应症：拟用于抑郁症和失眠。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263895",
+      "identifiers": {
+        "nmpa": "CTR20263895"
+      },
+      "briefTitle": "HEC53856片对比阳性对照药治疗非髓系恶性肿瘤患者化疗引起的贫血的Ⅱ期临床试验",
+      "officialTitle": "HEC53856片对比阳性对照药治疗非髓系恶性肿瘤患者化疗引起的贫血的Ⅱ期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "非髓系恶性肿瘤患者化疗引起的贫血"
+      ],
+      "keywords": [
+        "HEC53856片"
+      ],
+      "interventions": [
+        {
+          "name": "HEC53856片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "HEC53856片对比阳性对照药治疗非髓系恶性肿瘤患者化疗引起的贫血的Ⅱ期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263895",
+      "plainSummary": "NMPA 公开登记：HEC53856片；适应症：非髓系恶性肿瘤患者化疗引起的贫血。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263893",
+      "identifiers": {
+        "nmpa": "CTR20263893"
+      },
+      "briefTitle": "评价艾米迈托赛注射液治疗激素失败急性移植物抗宿主病(aGVHD)有效性和安全性的多中心、随机双盲、安慰剂对照临床试验",
+      "officialTitle": "评价艾米迈托赛注射液治疗激素失败急性移植物抗宿主病(aGVHD)有效性和安全性的多中心、随机双盲、安慰剂对照临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于治疗激素失败急性移植物抗宿主病(aGVHD)"
+      ],
+      "keywords": [
+        "艾米迈托赛注射液"
+      ],
+      "interventions": [
+        {
+          "name": "艾米迈托赛注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价艾米迈托赛注射液治疗激素失败急性移植物抗宿主病(aGVHD)有效性和安全性的多中心、随机双盲、安慰剂对照临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263893",
+      "plainSummary": "NMPA 公开登记：艾米迈托赛注射液；适应症：用于治疗激素失败急性移植物抗宿主病(aGVHD)。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263892",
+      "identifiers": {
+        "nmpa": "CTR20263892"
+      },
+      "briefTitle": "雌二醇片/雌二醇地屈孕酮片复合包装生物等效性试验",
+      "officialTitle": "雌二醇片/雌二醇地屈孕酮片复合包装生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于治疗自然或术后绝经所致的围绝经期综合征。"
+      ],
+      "keywords": [
+        "雌二醇片/雌二醇地屈孕酮片复合包装"
+      ],
+      "interventions": [
+        {
+          "name": "雌二醇片/雌二醇地屈孕酮片复合包装",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "雌二醇片/雌二醇地屈孕酮片复合包装生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263892",
+      "plainSummary": "NMPA 公开登记：雌二醇片/雌二醇地屈孕酮片复合包装；适应症：用于治疗自然或术后绝经所致的围绝经期综合征。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263890",
+      "identifiers": {
+        "nmpa": "CTR20263890"
+      },
+      "briefTitle": "普赛莫德片治疗类风湿关节炎Ⅲ期临床研究",
+      "officialTitle": "普赛莫德片治疗类风湿关节炎Ⅲ期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "类风湿关节炎"
+      ],
+      "keywords": [
+        "普赛莫德片"
+      ],
+      "interventions": [
+        {
+          "name": "普赛莫德片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "普赛莫德片治疗类风湿关节炎Ⅲ期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE3",
+      "developmentStageLabel": "Ⅲ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263890",
+      "plainSummary": "NMPA 公开登记：普赛莫德片；适应症：类风湿关节炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263888",
+      "identifiers": {
+        "nmpa": "CTR20263888"
+      },
+      "briefTitle": "KC1086联合氟维司群治疗HR+HER2-局部晚期或转移性乳腺癌的II期临床研究",
+      "officialTitle": "KC1086联合氟维司群治疗HR+HER2-局部晚期或转移性乳腺癌的II期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "HR+/HER2-局部晚期或转移性乳腺癌"
+      ],
+      "keywords": [
+        "KC1086片"
+      ],
+      "interventions": [
+        {
+          "name": "KC1086片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "KC1086联合氟维司群治疗HR+HER2-局部晚期或转移性乳腺癌的II期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263888",
+      "plainSummary": "NMPA 公开登记：KC1086片；适应症：HR+/HER2-局部晚期或转移性乳腺癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263887",
+      "identifiers": {
+        "nmpa": "CTR20263887"
+      },
+      "briefTitle": "评价JY54注射液的安全性与耐受性的Ia期临床研究",
+      "officialTitle": "评价JY54注射液的安全性与耐受性的Ia期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "肥胖或超重患者的体重管理"
+      ],
+      "keywords": [
+        "JY54注射液"
+      ],
+      "interventions": [
+        {
+          "name": "JY54注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价JY54注射液的安全性与耐受性的Ia期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263887",
+      "plainSummary": "NMPA 公开登记：JY54注射液；适应症：肥胖或超重患者的体重管理。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263886",
+      "identifiers": {
+        "nmpa": "CTR20263886"
+      },
+      "briefTitle": "玛巴洛沙韦片生物等效性试验",
+      "officialTitle": "玛巴洛沙韦片生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品适用于既往健康的成人和5 岁及以上儿童单纯性甲型和乙型流感患者，或存在流感相关并发症高风险的成人和12 岁及以上儿童流感患者。"
+      ],
+      "keywords": [
+        "玛巴洛沙韦片"
+      ],
+      "interventions": [
+        {
+          "name": "玛巴洛沙韦片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "玛巴洛沙韦片生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263886",
+      "plainSummary": "NMPA 公开登记：玛巴洛沙韦片；适应症：本品适用于既往健康的成人和5 岁及以上儿童单纯性甲型和乙型流感患者，或存在流感相关并发症高风险的成人和12 岁及以上儿童流感患者。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263884",
+      "identifiers": {
+        "nmpa": "CTR20263884"
+      },
+      "briefTitle": "AK139注射液在结节性痒疹患者中的Ⅱ期临床试验",
+      "officialTitle": "AK139注射液在结节性痒疹患者中的Ⅱ期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "结节性痒疹"
+      ],
+      "keywords": [
+        "AK139注射液"
+      ],
+      "interventions": [
+        {
+          "name": "AK139注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "AK139注射液在结节性痒疹患者中的Ⅱ期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263884",
+      "plainSummary": "NMPA 公开登记：AK139注射液；适应症：结节性痒疹。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263883",
+      "identifiers": {
+        "nmpa": "CTR20263883"
+      },
+      "briefTitle": "一项评价XRF-1021片在中国健康试验参与者中单次及多次给药的安全性、耐受性、药代动力学和药效动力学的I期临床研究",
+      "officialTitle": "一项评价XRF-1021片在中国健康试验参与者中单次及多次给药的安全性、耐受性、药代动力学和药效动力学的I期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "痛风伴高尿酸血症"
+      ],
+      "keywords": [
+        "XRF-1021片"
+      ],
+      "interventions": [
+        {
+          "name": "XRF-1021片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项评价XRF-1021片在中国健康试验参与者中单次及多次给药的安全性、耐受性、药代动力学和药效动力学的I期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263883",
+      "plainSummary": "NMPA 公开登记：XRF-1021片；适应症：痛风伴高尿酸血症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263882",
+      "identifiers": {
+        "nmpa": "CTR20263882"
+      },
+      "briefTitle": "酒石酸唑吡坦缓释片空腹生物等效性试验",
+      "officialTitle": "酒石酸唑吡坦缓释片空腹生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "适用于失眠的短期治疗，这类失眠特征为入睡困难和/或睡眠维持障碍（通过入睡后觉醒时间测定）。"
+      ],
+      "keywords": [
+        "酒石酸唑吡坦缓释片"
+      ],
+      "interventions": [
+        {
+          "name": "酒石酸唑吡坦缓释片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "酒石酸唑吡坦缓释片空腹生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263882",
+      "plainSummary": "NMPA 公开登记：酒石酸唑吡坦缓释片；适应症：适用于失眠的短期治疗，这类失眠特征为入睡困难和/或睡眠维持障碍（通过入睡后觉醒时间测定）。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263878",
+      "identifiers": {
+        "nmpa": "CTR20263878"
+      },
+      "briefTitle": "[225Ac]Ac-FL-261在c-MET过表达实体瘤参与者中的1/2期研究",
+      "officialTitle": "[225Ac]Ac-FL-261在c-MET过表达实体瘤参与者中的1/2期研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "c-MET过表达实体瘤"
+      ],
+      "keywords": [
+        "[225Ac]Ac-FL-261注射液"
+      ],
+      "interventions": [
+        {
+          "name": "[225Ac]Ac-FL-261注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "[225Ac]Ac-FL-261在c-MET过表达实体瘤参与者中的1/2期研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263878",
+      "plainSummary": "NMPA 公开登记：[225Ac]Ac-FL-261注射液；适应症：c-MET过表达实体瘤。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
