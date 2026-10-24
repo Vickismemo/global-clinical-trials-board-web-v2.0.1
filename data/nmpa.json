@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-18T08:12:18Z",
-  "sourceProcessedAt": "2026-10-18T08:12:18Z",
+  "generatedAt": "2026-10-24T08:17:56Z",
+  "sourceProcessedAt": "2026-10-24T08:17:56Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 212,
+  "recordCount": 232,
   "records": [
     {
       "id": "CTR20260083",
@@ -2172,8 +2172,8 @@
       },
       "briefTitle": "一项在接受过生物制剂治疗和未接受过生物制剂治疗的活动性银屑病关节炎受试者中评价Icotrokinra (JNJ-77242113) 疗效和安全性的研究 (ICONIC-PsA 2)",
       "officialTitle": "一项在接受过生物制剂治疗和未接受过生物制剂治疗的活动性银屑病关节炎受试者中评价Icotrokinra (JNJ-77242113) 疗效和安全性的研究 (ICONIC-PsA 2)",
-      "statusCode": "RECRUITING",
-      "statusLabel": "招募中",
+      "statusCode": "ACTIVE_NOT_RECRUITING",
+      "statusLabel": "进行中，不再招募",
       "conditions": [
         "银屑病关节炎"
       ],
@@ -7632,6 +7632,726 @@
       "developmentStageLabel": "Ⅱ期",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263878",
       "plainSummary": "NMPA 公开登记：[225Ac]Ac-FL-261注射液；适应症：c-MET过表达实体瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264035",
+      "identifiers": {
+        "nmpa": "CTR20264035"
+      },
+      "briefTitle": "一项评估健康试验参与者多次服用NTQ6179片的安全性、耐受性、药代/药效动力学的随机、双盲、安慰剂对照、剂量递增的Ib期临床试验",
+      "officialTitle": "一项评估健康试验参与者多次服用NTQ6179片的安全性、耐受性、药代/药效动力学的随机、双盲、安慰剂对照、剂量递增的Ib期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "肢端肥大症"
+      ],
+      "keywords": [
+        "NTQ6179片"
+      ],
+      "interventions": [
+        {
+          "name": "NTQ6179片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项评估健康试验参与者多次服用NTQ6179片的安全性、耐受性、药代/药效动力学的随机、双盲、安慰剂对照、剂量递增的Ib期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264035",
+      "plainSummary": "NMPA 公开登记：NTQ6179片；适应症：肢端肥大症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264030",
+      "identifiers": {
+        "nmpa": "CTR20264030"
+      },
+      "briefTitle": "苯磺酸美洛加巴林片生物等效性试验",
+      "officialTitle": "苯磺酸美洛加巴林片生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品用于治疗成人糖尿病性周围神经病理性疼痛。"
+      ],
+      "keywords": [
+        "苯磺酸美洛加巴林片"
+      ],
+      "interventions": [
+        {
+          "name": "苯磺酸美洛加巴林片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "苯磺酸美洛加巴林片生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264030",
+      "plainSummary": "NMPA 公开登记：苯磺酸美洛加巴林片；适应症：本品用于治疗成人糖尿病性周围神经病理性疼痛。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264024",
+      "identifiers": {
+        "nmpa": "CTR20264024"
+      },
+      "briefTitle": "哌柏西利片在健康试验参与者中的随机、开放、两制剂、两周期、交叉、空腹、餐后、空腹合并使用降低胃酸药物条件下的生物等效性试验",
+      "officialTitle": "哌柏西利片在健康试验参与者中的随机、开放、两制剂、两周期、交叉、空腹、餐后、空腹合并使用降低胃酸药物条件下的生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品适用于激素受体（HR）阳性、人表皮生长因子受体2（HER2）阴性的局部晚期或转移性乳腺癌，应与芳香化酶抑制剂联合使用作为绝经后女性患者的初始内分泌治疗。"
+      ],
+      "keywords": [
+        "哌柏西利片"
+      ],
+      "interventions": [
+        {
+          "name": "哌柏西利片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "哌柏西利片在健康试验参与者中的随机、开放、两制剂、两周期、交叉、空腹、餐后、空腹合并使用降低胃酸药物条件下的生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264024",
+      "plainSummary": "NMPA 公开登记：哌柏西利片；适应症：本品适用于激素受体（HR）阳性、人表皮生长因子受体2（HER2）阴性的局部晚期或转移性乳腺癌，应与芳香化酶抑制剂联合使用作为绝经后女性患者的初始内分泌治疗。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264022",
+      "identifiers": {
+        "nmpa": "CTR20264022"
+      },
+      "briefTitle": "莫达非尼片人体生物等效性研究",
+      "officialTitle": "莫达非尼片人体生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "适用于改善以下疾病相关过度嗜睡患者的清醒度：发作性睡病（伴或不伴猝倒）、阻塞性睡眠呼吸暂停（OSA）、低通气综合征（OSAHS）及轮班工作睡眠障碍（SWSD）。"
+      ],
+      "keywords": [
+        "莫达非尼片"
+      ],
+      "interventions": [
+        {
+          "name": "莫达非尼片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "莫达非尼片人体生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264022",
+      "plainSummary": "NMPA 公开登记：莫达非尼片；适应症：适用于改善以下疾病相关过度嗜睡患者的清醒度：发作性睡病（伴或不伴猝倒）、阻塞性睡眠呼吸暂停（OSA）、低通气综合征（OSAHS）及轮班工作睡眠障碍（SWSD）。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264016",
+      "identifiers": {
+        "nmpa": "CTR20264016"
+      },
+      "briefTitle": "SYH2072片治疗原发性醛固酮增多症患者的有效性和安全性的Ⅱ期临床研究",
+      "officialTitle": "SYH2072片治疗原发性醛固酮增多症患者的有效性和安全性的Ⅱ期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "原发性醛固酮增多症"
+      ],
+      "keywords": [
+        "SYH2072片"
+      ],
+      "interventions": [
+        {
+          "name": "SYH2072片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "SYH2072片治疗原发性醛固酮增多症患者的有效性和安全性的Ⅱ期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264016",
+      "plainSummary": "NMPA 公开登记：SYH2072片；适应症：原发性醛固酮增多症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264015",
+      "identifiers": {
+        "nmpa": "CTR20264015"
+      },
+      "briefTitle": "一项在慢性肾脏病成人参与者中比较elecoglipron与安慰剂治疗结局的研究",
+      "officialTitle": "一项在慢性肾脏病成人参与者中比较elecoglipron与安慰剂治疗结局的研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "慢性肾脏病"
+      ],
+      "keywords": [
+        "Elecoglipron薄膜包衣片"
+      ],
+      "interventions": [
+        {
+          "name": "Elecoglipron薄膜包衣片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在慢性肾脏病成人参与者中比较elecoglipron与安慰剂治疗结局的研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264015",
+      "plainSummary": "NMPA 公开登记：Elecoglipron薄膜包衣片；适应症：慢性肾脏病。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264014",
+      "identifiers": {
+        "nmpa": "CTR20264014"
+      },
+      "briefTitle": "乌司他丁较高剂量与常规剂量在急性胰腺炎患者中的有效性及安全性III期研究",
+      "officialTitle": "乌司他丁较高剂量与常规剂量在急性胰腺炎患者中的有效性及安全性III期研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "急性胰腺炎"
+      ],
+      "keywords": [
+        "注射用乌司他丁"
+      ],
+      "interventions": [
+        {
+          "name": "注射用乌司他丁",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "乌司他丁较高剂量与常规剂量在急性胰腺炎患者中的有效性及安全性III期研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE3",
+      "developmentStageLabel": "Ⅲ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264014",
+      "plainSummary": "NMPA 公开登记：注射用乌司他丁；适应症：急性胰腺炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264011",
+      "identifiers": {
+        "nmpa": "CTR20264011"
+      },
+      "briefTitle": "在PARPi治疗期间发生疾病进展的2L PSOC（子宫内膜样上皮性卵巢癌、原发性腹膜癌或输卵管癌）受试者中对比R-DXd±贝伐珠单抗与SOC±贝伐珠单抗的III期研究",
+      "officialTitle": "在PARPi治疗期间发生疾病进展的2L PSOC（子宫内膜样上皮性卵巢癌、原发性腹膜癌或输卵管癌）受试者中对比R-DXd±贝伐珠单抗与SOC±贝伐珠单抗的III期研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "卵巢癌"
+      ],
+      "keywords": [
+        "贝伐珠单抗"
+      ],
+      "interventions": [
+        {
+          "name": "贝伐珠单抗",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "在PARPi治疗期间发生疾病进展的2L PSOC（子宫内膜样上皮性卵巢癌、原发性腹膜癌或输卵管癌）受试者中对比R-DXd±贝伐珠单抗与SOC±贝伐珠单抗的III期研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE3",
+      "developmentStageLabel": "Ⅲ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264011",
+      "plainSummary": "NMPA 公开登记：贝伐珠单抗；适应症：卵巢癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264009",
+      "identifiers": {
+        "nmpa": "CTR20264009"
+      },
+      "briefTitle": "在中国健康成年试验参与者中单次皮下注射重组抗IL-4Rα人源化单克隆抗体注射液（611）两种规格制剂的随机、开放、平行入组的药代动力学比对研究",
+      "officialTitle": "在中国健康成年试验参与者中单次皮下注射重组抗IL-4Rα人源化单克隆抗体注射液（611）两种规格制剂的随机、开放、平行入组的药代动力学比对研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "特应性皮炎"
+      ],
+      "keywords": [
+        "重组抗IL-4Rα人源化单克隆抗体注射液"
+      ],
+      "interventions": [
+        {
+          "name": "重组抗IL-4Rα人源化单克隆抗体注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "在中国健康成年试验参与者中单次皮下注射重组抗IL-4Rα人源化单克隆抗体注射液（611）两种规格制剂的随机、开放、平行入组的药代动力学比对研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264009",
+      "plainSummary": "NMPA 公开登记：重组抗IL-4Rα人源化单克隆抗体注射液；适应症：特应性皮炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264007",
+      "identifiers": {
+        "nmpa": "CTR20264007"
+      },
+      "briefTitle": "多替诺雷片生物等效性试验",
+      "officialTitle": "多替诺雷片生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "适用于痛风伴高尿酸血症患者"
+      ],
+      "keywords": [
+        "多替诺雷片"
+      ],
+      "interventions": [
+        {
+          "name": "多替诺雷片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "多替诺雷片生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264007",
+      "plainSummary": "NMPA 公开登记：多替诺雷片；适应症：适用于痛风伴高尿酸血症患者。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264003",
+      "identifiers": {
+        "nmpa": "CTR20264003"
+      },
+      "briefTitle": "评估维生素D口服溶液在维生素D缺乏试验参与者中的有效性和安全性的Ⅲ期临床试验",
+      "officialTitle": "评估维生素D口服溶液在维生素D缺乏试验参与者中的有效性和安全性的Ⅲ期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "维生素D缺乏症"
+      ],
+      "keywords": [
+        "维生素D口服溶液"
+      ],
+      "interventions": [
+        {
+          "name": "维生素D口服溶液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评估维生素D口服溶液在维生素D缺乏试验参与者中的有效性和安全性的Ⅲ期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE3",
+      "developmentStageLabel": "Ⅲ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264003",
+      "plainSummary": "NMPA 公开登记：维生素D口服溶液；适应症：维生素D缺乏症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264000",
+      "identifiers": {
+        "nmpa": "CTR20264000"
+      },
+      "briefTitle": "健康受试者LPM682000012片多次给药的Ⅰ期临床研究",
+      "officialTitle": "健康受试者LPM682000012片多次给药的Ⅰ期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "抑郁症"
+      ],
+      "keywords": [
+        "LPM682000012片"
+      ],
+      "interventions": [
+        {
+          "name": "LPM682000012片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "健康受试者LPM682000012片多次给药的Ⅰ期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE1",
+      "developmentStageLabel": "Ⅰ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264000",
+      "plainSummary": "NMPA 公开登记：LPM682000012片；适应症：抑郁症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263999",
+      "identifiers": {
+        "nmpa": "CTR20263999"
+      },
+      "briefTitle": "注射用HS-20093联合治疗晚期非小细胞肺癌参与者的Ⅰ期临床研究",
+      "officialTitle": "注射用HS-20093联合治疗晚期非小细胞肺癌参与者的Ⅰ期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "晚期非小细胞肺癌"
+      ],
+      "keywords": [
+        "注射用HS-20093"
+      ],
+      "interventions": [
+        {
+          "name": "注射用HS-20093",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "注射用HS-20093联合治疗晚期非小细胞肺癌参与者的Ⅰ期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE1",
+      "developmentStageLabel": "Ⅰ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263999",
+      "plainSummary": "NMPA 公开登记：注射用HS-20093；适应症：晚期非小细胞肺癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263998",
+      "identifiers": {
+        "nmpa": "CTR20263998"
+      },
+      "briefTitle": "评价HY-078020片在健康试验参与者中的多次给药安全性、药代动力学特征的I期临床研究",
+      "officialTitle": "评价HY-078020片在健康试验参与者中的多次给药安全性、药代动力学特征的I期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于缓解慢性自发性荨麻疹的相关症状"
+      ],
+      "keywords": [
+        "HY-078020片"
+      ],
+      "interventions": [
+        {
+          "name": "HY-078020片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价HY-078020片在健康试验参与者中的多次给药安全性、药代动力学特征的I期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263998",
+      "plainSummary": "NMPA 公开登记：HY-078020片；适应症：用于缓解慢性自发性荨麻疹的相关症状。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263995",
+      "identifiers": {
+        "nmpa": "CTR20263995"
+      },
+      "briefTitle": "评估EB070注射液在成年中重度哮喘患者中的多次给药剂量递增Ib 期临床研究",
+      "officialTitle": "评估EB070注射液在成年中重度哮喘患者中的多次给药剂量递增Ib 期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "成年中重度哮喘"
+      ],
+      "keywords": [
+        "EB070注射液"
+      ],
+      "interventions": [
+        {
+          "name": "EB070注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评估EB070注射液在成年中重度哮喘患者中的多次给药剂量递增Ib 期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263995",
+      "plainSummary": "NMPA 公开登记：EB070注射液；适应症：成年中重度哮喘。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263994",
+      "identifiers": {
+        "nmpa": "CTR20263994"
+      },
+      "briefTitle": "艾托格列净片人体生物等效性研究（预试验）",
+      "officialTitle": "艾托格列净片人体生物等效性研究（预试验）",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "参照原研药品说明书，在单独使用盐酸二甲双胍血糖控制不佳时，本品可与盐酸二甲双胍联合使用，配合饮食和运动改善成人2型糖尿病患者的血糖控制。"
+      ],
+      "keywords": [
+        "艾托格列净片"
+      ],
+      "interventions": [
+        {
+          "name": "艾托格列净片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "艾托格列净片人体生物等效性研究（预试验）"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263994",
+      "plainSummary": "NMPA 公开登记：艾托格列净片；适应症：参照原研药品说明书，在单独使用盐酸二甲双胍血糖控制不佳时，本品可与盐酸二甲双胍联合使用，配合饮食和运动改善成人2型糖尿病患者的血糖控制。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263992",
+      "identifiers": {
+        "nmpa": "CTR20263992"
+      },
+      "briefTitle": "艾瑞昔布片人体生物等效性试验",
+      "officialTitle": "艾瑞昔布片人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于缓解骨关节炎的疼痛症状。"
+      ],
+      "keywords": [
+        "艾瑞昔布片"
+      ],
+      "interventions": [
+        {
+          "name": "艾瑞昔布片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "艾瑞昔布片人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263992",
+      "plainSummary": "NMPA 公开登记：艾瑞昔布片；适应症：用于缓解骨关节炎的疼痛症状。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263989",
+      "identifiers": {
+        "nmpa": "CTR20263989"
+      },
+      "briefTitle": "一项在原发性膜性肾病参与者中评价伊奈利珠单抗的3期研究",
+      "officialTitle": "一项在原发性膜性肾病参与者中评价伊奈利珠单抗的3期研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "原发性膜性肾病"
+      ],
+      "keywords": [
+        "伊奈利珠单抗注射液"
+      ],
+      "interventions": [
+        {
+          "name": "伊奈利珠单抗注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在原发性膜性肾病参与者中评价伊奈利珠单抗的3期研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE3",
+      "developmentStageLabel": "Ⅲ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263989",
+      "plainSummary": "NMPA 公开登记：伊奈利珠单抗注射液；适应症：原发性膜性肾病。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263985",
+      "identifiers": {
+        "nmpa": "CTR20263985"
+      },
+      "briefTitle": "一项评价ICP-B161在健康试验参与者中安全性、耐受性和药代动力学的I期临床试验",
+      "officialTitle": "一项评价ICP-B161在健康试验参与者中安全性、耐受性和药代动力学的I期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "炎症性肠病（IBD）"
+      ],
+      "keywords": [
+        "ICP-B161注射液"
+      ],
+      "interventions": [
+        {
+          "name": "ICP-B161注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项评价ICP-B161在健康试验参与者中安全性、耐受性和药代动力学的I期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263985",
+      "plainSummary": "NMPA 公开登记：ICP-B161注射液；适应症：炎症性肠病（IBD）。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20263982",
+      "identifiers": {
+        "nmpa": "CTR20263982"
+      },
+      "briefTitle": "瑞舒伐他汀依折麦布片（Ⅰ）人体生物等效性研究",
+      "officialTitle": "瑞舒伐他汀依折麦布片（Ⅰ）人体生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "1.高胆固醇血症；2.纯合子型家族性高胆固醇血症（HoFH）。"
+      ],
+      "keywords": [
+        "瑞舒伐他汀依折麦布片（Ⅰ）"
+      ],
+      "interventions": [
+        {
+          "name": "瑞舒伐他汀依折麦布片（Ⅰ）",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "瑞舒伐他汀依折麦布片（Ⅰ）人体生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263982",
+      "plainSummary": "NMPA 公开登记：瑞舒伐他汀依折麦布片（Ⅰ）；适应症：1.高胆固醇血症；2.纯合子型家族性高胆固醇血症（HoFH）。。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
