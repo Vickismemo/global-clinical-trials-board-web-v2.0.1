@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-25T08:35:54Z",
-  "sourceProcessedAt": "2026-10-25T08:35:54Z",
+  "generatedAt": "2026-10-28T09:53:36Z",
+  "sourceProcessedAt": "2026-10-28T09:53:36Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 232,
+  "recordCount": 242,
   "records": [
     {
       "id": "CTR20260083",
@@ -8352,6 +8352,366 @@
       "developmentStageLabel": "BE 生物等效性试验",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20263982",
       "plainSummary": "NMPA 公开登记：瑞舒伐他汀依折麦布片（Ⅰ）；适应症：1.高胆固醇血症；2.纯合子型家族性高胆固醇血症（HoFH）。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264062",
+      "identifiers": {
+        "nmpa": "CTR20264062"
+      },
+      "briefTitle": "N02 I期临床研究",
+      "officialTitle": "N02 I期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "术后镇痛"
+      ],
+      "keywords": [
+        "N02"
+      ],
+      "interventions": [
+        {
+          "name": "N02",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "N02 I期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE1",
+      "developmentStageLabel": "Ⅰ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264062",
+      "plainSummary": "NMPA 公开登记：N02；适应症：术后镇痛。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264052",
+      "identifiers": {
+        "nmpa": "CTR20264052"
+      },
+      "briefTitle": "评价SYH9061在成人特发性肺纤维化患者中的有效性和安全性的II期研究",
+      "officialTitle": "评价SYH9061在成人特发性肺纤维化患者中的有效性和安全性的II期研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "成人特发性肺纤维化"
+      ],
+      "keywords": [
+        "乙磺酸尼达尼布吸入粉雾剂"
+      ],
+      "interventions": [
+        {
+          "name": "乙磺酸尼达尼布吸入粉雾剂",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价SYH9061在成人特发性肺纤维化患者中的有效性和安全性的II期研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264052",
+      "plainSummary": "NMPA 公开登记：乙磺酸尼达尼布吸入粉雾剂；适应症：成人特发性肺纤维化。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264051",
+      "identifiers": {
+        "nmpa": "CTR20264051"
+      },
+      "briefTitle": "呋塞米片生物等效性临床试验",
+      "officialTitle": "呋塞米片生物等效性临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "1.水肿性疾病。包括充血性心力衰竭、肝硬化、肾脏疾病（肾炎、肾病及各种原因所致的急、慢性肾功能衰竭），尤其是应用其他利尿药效果不佳时，应用本类药物仍可能有效。与其他药物合用治疗急性肺水肿和急性脑水肿等。 2.高血压。一般不作为治疗原发性高血压的首选药物，但当噻嗪类药物疗效不佳，尤其当伴有肾功能不全或出现高血压危象时，本类药物尤为适用。 3.预防急性肾功能衰竭。用于各种原因导致肾脏血流灌注不足，例如失水、休克、中毒、麻醉意外以及循环功能不全等，在纠正血容量不足的同时及时应用，可减少急性肾小管坏死的机会。 4.高钾血症及高钙血症。 5.稀释性低钠血症。尤其是当血钠浓度低于120mmol/L时。 6.抗利尿激素分泌过多症（SIADH）。 7.急性药物毒物中毒。如巴比妥类药物中毒等。"
+      ],
+      "keywords": [
+        "呋塞米片"
+      ],
+      "interventions": [
+        {
+          "name": "呋塞米片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "呋塞米片生物等效性临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264051",
+      "plainSummary": "NMPA 公开登记：呋塞米片；适应症：1.水肿性疾病。包括充血性心力衰竭、肝硬化、肾脏疾病（肾炎、肾病及各种原因所致的急、慢性肾功能衰竭），尤其是应用其他利尿药效果不佳时，应用本类药物仍可能有效。与其他药物合用治疗急性肺水肿和急性脑水肿等。 2.高血压。一般不作为治疗原发性高血压的首选药物，但当噻嗪类药物疗效不佳，尤其当伴有肾功能不全或出现高血压危象时，本类药物尤为适用。 3.预防急性肾功能衰竭。用于各种原因导致肾脏血流灌注不足，例如失水、休克、中毒、麻醉意外以及循环功能不全等，在纠正血容量不足的同时及时应用，可减少急性肾小管坏死的机会。 4.高钾血症及高钙血症。 5.稀释性低钠血症。尤其是当血钠浓度低于120mmol/L时。 6.抗利尿激素分泌过多症（SIADH）。 7.急性药物毒物中毒。如巴比妥类药物中毒等。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264046",
+      "identifiers": {
+        "nmpa": "CTR20264046"
+      },
+      "briefTitle": "注射用MBS314治疗复发/难治性多发性骨髓瘤的Ⅰ/Ⅱ期临床研究",
+      "officialTitle": "注射用MBS314治疗复发/难治性多发性骨髓瘤的Ⅰ/Ⅱ期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "复发/难治性多发性骨髓瘤"
+      ],
+      "keywords": [
+        "注射用MBS314"
+      ],
+      "interventions": [
+        {
+          "name": "注射用MBS314",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "注射用MBS314治疗复发/难治性多发性骨髓瘤的Ⅰ/Ⅱ期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE1_PHASE2",
+      "developmentStageLabel": "Ⅰ/Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264046",
+      "plainSummary": "NMPA 公开登记：注射用MBS314；适应症：复发/难治性多发性骨髓瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264040",
+      "identifiers": {
+        "nmpa": "CTR20264040"
+      },
+      "briefTitle": "一项评估QLM3017在成年超重/肥胖试验参与者中的安全性、耐受性及药代动力学特征的Ⅰ期临床研究",
+      "officialTitle": "一项评估QLM3017在成年超重/肥胖试验参与者中的安全性、耐受性及药代动力学特征的Ⅰ期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "适用于在控制饮食和增加体力活动的基础上对成人患者的长期体重管理。初始体重指数（BMI）符合以下条件：≥30kg/m2（肥胖）或≥27kg/m2至＜30kg/m2（超重）且存在至少一种体重相关合并症，例如高血糖、高血压、血脂异常、阻塞性睡眠呼吸暂定或心血管疾病等"
+      ],
+      "keywords": [
+        "QLM3017"
+      ],
+      "interventions": [
+        {
+          "name": "QLM3017",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项评估QLM3017在成年超重/肥胖试验参与者中的安全性、耐受性及药代动力学特征的Ⅰ期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264040",
+      "plainSummary": "NMPA 公开登记：QLM3017；适应症：适用于在控制饮食和增加体力活动的基础上对成人患者的长期体重管理。初始体重指数（BMI）符合以下条件：≥30kg/m2（肥胖）或≥27kg/m2至＜30kg/m2（超重）且存在至少一种体重相关合并症，例如高血糖、高血压、血脂异常、阻塞性睡眠呼吸暂定或心血管疾病等。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264039",
+      "identifiers": {
+        "nmpa": "CTR20264039"
+      },
+      "briefTitle": "评价茚达特罗格隆溴铵吸入粉雾剂治疗慢性阻塞性肺疾病患者有效性和安全性的III期临床研究",
+      "officialTitle": "评价茚达特罗格隆溴铵吸入粉雾剂治疗慢性阻塞性肺疾病患者有效性和安全性的III期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品适用于成人慢性阻塞性肺疾病（包括慢性支气管炎和肺气肿）患者维持性支气管舒张治疗以缓解症状。"
+      ],
+      "keywords": [
+        "茚达特罗格隆溴铵吸入粉雾剂"
+      ],
+      "interventions": [
+        {
+          "name": "茚达特罗格隆溴铵吸入粉雾剂",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价茚达特罗格隆溴铵吸入粉雾剂治疗慢性阻塞性肺疾病患者有效性和安全性的III期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE3",
+      "developmentStageLabel": "Ⅲ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264039",
+      "plainSummary": "NMPA 公开登记：茚达特罗格隆溴铵吸入粉雾剂；适应症：本品适用于成人慢性阻塞性肺疾病（包括慢性支气管炎和肺气肿）患者维持性支气管舒张治疗以缓解症状。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264038",
+      "identifiers": {
+        "nmpa": "CTR20264038"
+      },
+      "briefTitle": "HSK60002片在中重度特应性皮炎的Ib期临床研究",
+      "officialTitle": "HSK60002片在中重度特应性皮炎的Ib期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "特应性皮炎"
+      ],
+      "keywords": [
+        "HSK60002片"
+      ],
+      "interventions": [
+        {
+          "name": "HSK60002片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "HSK60002片在中重度特应性皮炎的Ib期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264038",
+      "plainSummary": "NMPA 公开登记：HSK60002片；适应症：特应性皮炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264036",
+      "identifiers": {
+        "nmpa": "CTR20264036"
+      },
+      "briefTitle": "茚达特罗格隆溴铵吸入粉雾剂人体生物等效性试验",
+      "officialTitle": "茚达特罗格隆溴铵吸入粉雾剂人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品适用于成人慢性阻塞性肺疾病（COPD）（包括慢性支气管炎和肺气肿）患者维持性支气管扩张治疗以缓解症状。"
+      ],
+      "keywords": [
+        "茚达特罗格隆溴铵吸入粉雾剂"
+      ],
+      "interventions": [
+        {
+          "name": "茚达特罗格隆溴铵吸入粉雾剂",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "茚达特罗格隆溴铵吸入粉雾剂人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264036",
+      "plainSummary": "NMPA 公开登记：茚达特罗格隆溴铵吸入粉雾剂；适应症：本品适用于成人慢性阻塞性肺疾病（COPD）（包括慢性支气管炎和肺气肿）患者维持性支气管扩张治疗以缓解症状。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264013",
+      "identifiers": {
+        "nmpa": "CTR20264013"
+      },
+      "briefTitle": "评价SYH2072片在接受2种或2种以上降压药治疗后未控制的高血压患者（包括难治性高血压患者）中的有效性和安全性的Ⅱ期临床研究",
+      "officialTitle": "评价SYH2072片在接受2种或2种以上降压药治疗后未控制的高血压患者（包括难治性高血压患者）中的有效性和安全性的Ⅱ期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "未控制高血压（两种或两种以上药物治疗未受控制的高血压，包括难治性高血压）。"
+      ],
+      "keywords": [
+        "SYH2072片"
+      ],
+      "interventions": [
+        {
+          "name": "SYH2072片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价SYH2072片在接受2种或2种以上降压药治疗后未控制的高血压患者（包括难治性高血压患者）中的有效性和安全性的Ⅱ期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264013",
+      "plainSummary": "NMPA 公开登记：SYH2072片；适应症：未控制高血压（两种或两种以上药物治疗未受控制的高血压，包括难治性高血压）。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264010",
+      "identifiers": {
+        "nmpa": "CTR20264010"
+      },
+      "briefTitle": "皮下注射人免疫球蛋白III期临床试验",
+      "officialTitle": "皮下注射人免疫球蛋白III期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "原发性免疫缺陷病（PID）"
+      ],
+      "keywords": [
+        "皮下注射人免疫球蛋白"
+      ],
+      "interventions": [
+        {
+          "name": "皮下注射人免疫球蛋白",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "皮下注射人免疫球蛋白III期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE3",
+      "developmentStageLabel": "Ⅲ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264010",
+      "plainSummary": "NMPA 公开登记：皮下注射人免疫球蛋白；适应症：原发性免疫缺陷病（PID）。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
