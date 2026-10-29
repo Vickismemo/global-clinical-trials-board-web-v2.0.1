@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-28T09:53:36Z",
-  "sourceProcessedAt": "2026-10-28T09:53:36Z",
+  "generatedAt": "2026-10-29T10:15:48Z",
+  "sourceProcessedAt": "2026-10-29T10:15:48Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 242,
+  "recordCount": 254,
   "records": [
     {
       "id": "CTR20260083",
@@ -8712,6 +8712,438 @@
       "developmentStageLabel": "Ⅲ期",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264010",
       "plainSummary": "NMPA 公开登记：皮下注射人免疫球蛋白；适应症：原发性免疫缺陷病（PID）。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264118",
+      "identifiers": {
+        "nmpa": "CTR20264118"
+      },
+      "briefTitle": "玛巴洛沙韦片生物等效性试验",
+      "officialTitle": "玛巴洛沙韦片生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品适用于成人和5岁及以上儿童单纯性甲型和乙型流感患者，包括既往健康的患者以及存在流感相关并发症高风险的患者。"
+      ],
+      "keywords": [
+        "玛巴洛沙韦片"
+      ],
+      "interventions": [
+        {
+          "name": "玛巴洛沙韦片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "玛巴洛沙韦片生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264118",
+      "plainSummary": "NMPA 公开登记：玛巴洛沙韦片；适应症：本品适用于成人和5岁及以上儿童单纯性甲型和乙型流感患者，包括既往健康的患者以及存在流感相关并发症高风险的患者。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264113",
+      "identifiers": {
+        "nmpa": "CTR20264113"
+      },
+      "briefTitle": "布地奈德肠溶胶囊人体生物等效性研究",
+      "officialTitle": "布地奈德肠溶胶囊人体生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "适用于治疗具有疾病进展风险的原发性免疫球蛋白A肾病(IgAN)成人患者，以减少肾功能损失。"
+      ],
+      "keywords": [
+        "布地奈德肠溶胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "布地奈德肠溶胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "布地奈德肠溶胶囊人体生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264113",
+      "plainSummary": "NMPA 公开登记：布地奈德肠溶胶囊；适应症：适用于治疗具有疾病进展风险的原发性免疫球蛋白A肾病(IgAN)成人患者，以减少肾功能损失。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264104",
+      "identifiers": {
+        "nmpa": "CTR20264104"
+      },
+      "briefTitle": "一项评价GR2302注射液在晚期乙肝病毒相关肝细胞癌患者中的临床研究",
+      "officialTitle": "一项评价GR2302注射液在晚期乙肝病毒相关肝细胞癌患者中的临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "HBV-HCC"
+      ],
+      "keywords": [
+        "GR2302注射液"
+      ],
+      "interventions": [
+        {
+          "name": "GR2302注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项评价GR2302注射液在晚期乙肝病毒相关肝细胞癌患者中的临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264104",
+      "plainSummary": "NMPA 公开登记：GR2302注射液；适应症：HBV-HCC。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264101",
+      "identifiers": {
+        "nmpa": "CTR20264101"
+      },
+      "briefTitle": "替普瑞酮胶囊生物等效性试验",
+      "officialTitle": "替普瑞酮胶囊生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "1. 急性胃炎、慢性胃炎急性加重期的胃黏膜病变（糜烂、出血、潮红、浮肿）的改善。 2. 胃溃疡。"
+      ],
+      "keywords": [
+        "替普瑞酮胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "替普瑞酮胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "替普瑞酮胶囊生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264101",
+      "plainSummary": "NMPA 公开登记：替普瑞酮胶囊；适应症：1. 急性胃炎、慢性胃炎急性加重期的胃黏膜病变（糜烂、出血、潮红、浮肿）的改善。 2. 胃溃疡。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264089",
+      "identifiers": {
+        "nmpa": "CTR20264089"
+      },
+      "briefTitle": "茯苓运化颗粒和地黄宝源颗粒在饮食和运动干预后血糖控制不佳的成人2型糖尿病患者中的II期临床研究",
+      "officialTitle": "茯苓运化颗粒和地黄宝源颗粒在饮食和运动干预后血糖控制不佳的成人2型糖尿病患者中的II期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "2型糖尿病"
+      ],
+      "keywords": [
+        "茯苓运化颗粒"
+      ],
+      "interventions": [
+        {
+          "name": "茯苓运化颗粒",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "茯苓运化颗粒和地黄宝源颗粒在饮食和运动干预后血糖控制不佳的成人2型糖尿病患者中的II期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264089",
+      "plainSummary": "NMPA 公开登记：茯苓运化颗粒；适应症：2型糖尿病。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264083",
+      "identifiers": {
+        "nmpa": "CTR20264083"
+      },
+      "briefTitle": "KR25102片在健康成年试验参与者中单次给药的安全性、耐受性、药代动力学特征及药效动力学的Ⅰ期临床研究",
+      "officialTitle": "KR25102片在健康成年试验参与者中单次给药的安全性、耐受性、药代动力学特征及药效动力学的Ⅰ期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "中重度急性疼痛的治疗"
+      ],
+      "keywords": [
+        "KR25102片"
+      ],
+      "interventions": [
+        {
+          "name": "KR25102片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "KR25102片在健康成年试验参与者中单次给药的安全性、耐受性、药代动力学特征及药效动力学的Ⅰ期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264083",
+      "plainSummary": "NMPA 公开登记：KR25102片；适应症：中重度急性疼痛的治疗。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264074",
+      "identifiers": {
+        "nmpa": "CTR20264074"
+      },
+      "briefTitle": "左氧氟沙星片空腹生物等效性研究",
+      "officialTitle": "左氧氟沙星片空腹生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "可用于治疗成年人（≥18岁）由敏感菌株所引起的下列轻、中、重度感染：医院获得性肺炎、社区获得性肺炎、急性细菌性鼻窦炎、慢性支气管炎的急性细菌性发作、复杂性皮肤及皮肤结构感染、非复杂性皮肤及皮肤软组织感染、慢性细菌性前列腺炎、复杂性尿路感染、急性肾盂肾炎、非复杂性尿路感染、吸入性炭疽（暴露后）。"
+      ],
+      "keywords": [
+        "左氧氟沙星片"
+      ],
+      "interventions": [
+        {
+          "name": "左氧氟沙星片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "左氧氟沙星片空腹生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264074",
+      "plainSummary": "NMPA 公开登记：左氧氟沙星片；适应症：可用于治疗成年人（≥18岁）由敏感菌株所引起的下列轻、中、重度感染：医院获得性肺炎、社区获得性肺炎、急性细菌性鼻窦炎、慢性支气管炎的急性细菌性发作、复杂性皮肤及皮肤结构感染、非复杂性皮肤及皮肤软组织感染、慢性细菌性前列腺炎、复杂性尿路感染、急性肾盂肾炎、非复杂性尿路感染、吸入性炭疽（暴露后）。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264068",
+      "identifiers": {
+        "nmpa": "CTR20264068"
+      },
+      "briefTitle": "评价HL-1186片新规格在健康中国试验参与者中单次口服给药的药代动力学、相对生物利用度及安全性的I期临床试验",
+      "officialTitle": "评价HL-1186片新规格在健康中国试验参与者中单次口服给药的药代动力学、相对生物利用度及安全性的I期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "疼痛"
+      ],
+      "keywords": [
+        "HL-1186片"
+      ],
+      "interventions": [
+        {
+          "name": "HL-1186片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价HL-1186片新规格在健康中国试验参与者中单次口服给药的药代动力学、相对生物利用度及安全性的I期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264068",
+      "plainSummary": "NMPA 公开登记：HL-1186片；适应症：疼痛。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264067",
+      "identifiers": {
+        "nmpa": "CTR20264067"
+      },
+      "briefTitle": "恩格列净片在中国成年健康试验参与者中的生物等效性研究",
+      "officialTitle": "恩格列净片在中国成年健康试验参与者中的生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品适用于治疗2型糖尿病；用于症状性慢性心力衰竭成人患者，降低因心力衰竭住院的风险；用于降低有进展风险的慢性肾脏病成人患者eGFR持续下降、终末期肾病、心血管死亡和全因住院的风险。"
+      ],
+      "keywords": [
+        "恩格列净片"
+      ],
+      "interventions": [
+        {
+          "name": "恩格列净片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "恩格列净片在中国成年健康试验参与者中的生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264067",
+      "plainSummary": "NMPA 公开登记：恩格列净片；适应症：本品适用于治疗2型糖尿病；用于症状性慢性心力衰竭成人患者，降低因心力衰竭住院的风险；用于降低有进展风险的慢性肾脏病成人患者eGFR持续下降、终末期肾病、心血管死亡和全因住院的风险。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264060",
+      "identifiers": {
+        "nmpa": "CTR20264060"
+      },
+      "briefTitle": "比较GZR101-80注射液与GZR33注射液、门冬胰岛素的药代动力学/药效学特征、安全性的I期研究",
+      "officialTitle": "比较GZR101-80注射液与GZR33注射液、门冬胰岛素的药代动力学/药效学特征、安全性的I期研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "糖尿病"
+      ],
+      "keywords": [
+        "GZR101-80注射液"
+      ],
+      "interventions": [
+        {
+          "name": "GZR101-80注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "比较GZR101-80注射液与GZR33注射液、门冬胰岛素的药代动力学/药效学特征、安全性的I期研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264060",
+      "plainSummary": "NMPA 公开登记：GZR101-80注射液；适应症：糖尿病。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264056",
+      "identifiers": {
+        "nmpa": "CTR20264056"
+      },
+      "briefTitle": "精氨酸布洛芬片人体生物等效性试验",
+      "officialTitle": "精氨酸布洛芬片人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "适用于下列症状：牙痛、痛经、因创伤引起的疼痛（例如：运动性损伤）、关节和韧带痛、背痛、头痛，以及流感引起的发热"
+      ],
+      "keywords": [
+        "精氨酸布洛芬片"
+      ],
+      "interventions": [
+        {
+          "name": "精氨酸布洛芬片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "精氨酸布洛芬片人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264056",
+      "plainSummary": "NMPA 公开登记：精氨酸布洛芬片；适应症：适用于下列症状：牙痛、痛经、因创伤引起的疼痛（例如：运动性损伤）、关节和韧带痛、背痛、头痛，以及流感引起的发热。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264049",
+      "identifiers": {
+        "nmpa": "CTR20264049"
+      },
+      "briefTitle": "阿帕他胺片在健康试验参与者中的生物等效性研究",
+      "officialTitle": "阿帕他胺片在健康试验参与者中的生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "转移性内分泌治疗敏感性前列腺癌（mHSPC）成年患者； 有高危转移风险的非转移性去势抵抗性前列腺癌（NM-CRPC）成年患者。"
+      ],
+      "keywords": [
+        "阿帕他胺片"
+      ],
+      "interventions": [
+        {
+          "name": "阿帕他胺片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "阿帕他胺片在健康试验参与者中的生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264049",
+      "plainSummary": "NMPA 公开登记：阿帕他胺片；适应症：转移性内分泌治疗敏感性前列腺癌（mHSPC）成年患者； 有高危转移风险的非转移性去势抵抗性前列腺癌（NM-CRPC）成年患者。。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
