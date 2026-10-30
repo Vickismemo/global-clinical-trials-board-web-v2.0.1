@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-29T10:15:48Z",
-  "sourceProcessedAt": "2026-10-29T10:15:48Z",
+  "generatedAt": "2026-10-30T10:17:29Z",
+  "sourceProcessedAt": "2026-10-30T10:17:29Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 254,
+  "recordCount": 268,
   "records": [
     {
       "id": "CTR20260083",
@@ -1666,8 +1666,8 @@
       "identifiers": {
         "nmpa": "CTR20255252"
       },
-      "briefTitle": "一项评估SLN12140在补体抑制剂初治成人阵发性睡眠性血红蛋白尿症受试者的II期临床研究",
-      "officialTitle": "一项评估SLN12140在补体抑制剂初治成人阵发性睡眠性血红蛋白尿症受试者的II期临床研究",
+      "briefTitle": "一项评估SLN12140在补体抑制剂初治成人阵发性睡眠性血红蛋白尿症患者的II期临床研究",
+      "officialTitle": "一项评估SLN12140在补体抑制剂初治成人阵发性睡眠性血红蛋白尿症患者的II期临床研究",
       "statusCode": "RECRUITING",
       "statusLabel": "招募中",
       "conditions": [
@@ -1681,7 +1681,7 @@
           "name": "注射用SLN12140",
           "type": "DRUG",
           "typeLabel": "药物",
-          "description": "一项评估SLN12140在补体抑制剂初治成人阵发性睡眠性血红蛋白尿症受试者的II期临床研究"
+          "description": "一项评估SLN12140在补体抑制剂初治成人阵发性睡眠性血红蛋白尿症患者的II期临床研究"
         }
       ],
       "registrationPathCode": "REGULATORY_DRUG",
@@ -9144,6 +9144,510 @@
       "developmentStageLabel": "BE 生物等效性试验",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264049",
       "plainSummary": "NMPA 公开登记：阿帕他胺片；适应症：转移性内分泌治疗敏感性前列腺癌（mHSPC）成年患者； 有高危转移风险的非转移性去势抵抗性前列腺癌（NM-CRPC）成年患者。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264135",
+      "identifiers": {
+        "nmpa": "CTR20264135"
+      },
+      "briefTitle": "盐酸金刚烷胺片的人体生物等效性试验",
+      "officialTitle": "盐酸金刚烷胺片的人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "盐酸金刚烷胺片适用于预防和治疗由各种甲型流感病毒株引起的感染症状和体征。盐酸金刚烷胺片也适用于治疗帕金森综合征和药物引起的锥体外系反应。"
+      ],
+      "keywords": [
+        "盐酸金刚烷胺片"
+      ],
+      "interventions": [
+        {
+          "name": "盐酸金刚烷胺片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "盐酸金刚烷胺片的人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264135",
+      "plainSummary": "NMPA 公开登记：盐酸金刚烷胺片；适应症：盐酸金刚烷胺片适用于预防和治疗由各种甲型流感病毒株引起的感染症状和体征。盐酸金刚烷胺片也适用于治疗帕金森综合征和药物引起的锥体外系反应。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264117",
+      "identifiers": {
+        "nmpa": "CTR20264117"
+      },
+      "briefTitle": "苯甲酸利扎曲普坦片生物等效性试验",
+      "officialTitle": "苯甲酸利扎曲普坦片生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "成人有或无先兆的偏头痛发作的急性冶疗。"
+      ],
+      "keywords": [
+        "苯甲酸利扎曲普坦片"
+      ],
+      "interventions": [
+        {
+          "name": "苯甲酸利扎曲普坦片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "苯甲酸利扎曲普坦片生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264117",
+      "plainSummary": "NMPA 公开登记：苯甲酸利扎曲普坦片；适应症：成人有或无先兆的偏头痛发作的急性冶疗。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264114",
+      "identifiers": {
+        "nmpa": "CTR20264114"
+      },
+      "briefTitle": "莱博雷生片人体生物等效性研究",
+      "officialTitle": "莱博雷生片人体生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品适用于治疗以入睡困难和/或睡眠维持困难为特征的成人失眠患者。"
+      ],
+      "keywords": [
+        "莱博雷生片"
+      ],
+      "interventions": [
+        {
+          "name": "莱博雷生片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "莱博雷生片人体生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264114",
+      "plainSummary": "NMPA 公开登记：莱博雷生片；适应症：本品适用于治疗以入睡困难和/或睡眠维持困难为特征的成人失眠患者。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264107",
+      "identifiers": {
+        "nmpa": "CTR20264107"
+      },
+      "briefTitle": "苯磺酸美洛加巴林片人体生物等效性试验",
+      "officialTitle": "苯磺酸美洛加巴林片人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品用于治疗成人糖尿病性周围神经病理性疼痛。"
+      ],
+      "keywords": [
+        "苯磺酸美洛加巴林片"
+      ],
+      "interventions": [
+        {
+          "name": "苯磺酸美洛加巴林片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "苯磺酸美洛加巴林片人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264107",
+      "plainSummary": "NMPA 公开登记：苯磺酸美洛加巴林片；适应症：本品用于治疗成人糖尿病性周围神经病理性疼痛。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264102",
+      "identifiers": {
+        "nmpa": "CTR20264102"
+      },
+      "briefTitle": "评价YY524051片在健康受试者中的Ⅰ期临床研究",
+      "officialTitle": "评价YY524051片在健康受试者中的Ⅰ期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "射血分数保留的心力衰竭"
+      ],
+      "keywords": [
+        "YY524051片"
+      ],
+      "interventions": [
+        {
+          "name": "YY524051片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价YY524051片在健康受试者中的Ⅰ期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE1",
+      "developmentStageLabel": "Ⅰ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264102",
+      "plainSummary": "NMPA 公开登记：YY524051片；适应症：射血分数保留的心力衰竭。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264099",
+      "identifiers": {
+        "nmpa": "CTR20264099"
+      },
+      "briefTitle": "红霉素肠溶胶囊（0.25 g）生物等效性研究",
+      "officialTitle": "红霉素肠溶胶囊（0.25 g）生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "红霉素用于治疗下列疾病中指定生物体的易感菌株引起的感染:由糖原链球菌、肺炎链球菌或流感嗜血杆菌引起的轻度皮肤上呼吸道感染同时伴有足够剂量的磺胺类药物。低呼吸道感染由肺炎链球菌或化脓性链球菌引起的轻度毛菌。 由单核增生李斯特菌引起的脂质体增生。由百日咳博德氏杆菌引起的百日咳(百日咳)。红霉素能有效地消除受感染个体鼻咽部的微生物，使其具有非传染性。预防百日咳毒素暴露的易感个体。由肺炎支原体引起的呼吸道感染。由糖原链球菌或金黄色葡萄球菌引起的轻度皮肤和皮肤结构感染(耐药葡萄球菌可能出现在此期间治疗）。白喉:由白喉棒状杆菌引起的感染，作为抗毒素的辅助手段，以防止载体的建立和根除载体中的微生物。赤斑:在治疗由微小棒状杆菌引起的感染时。由苍白密螺旋体引起的梅毒:红霉素是初级梅毒对青霉素过敏患者的替代治疗选择。在原发性梅毒中，脊髓液检查应在治疗前进行，并作为治疗后随访的一部分。肠道真菌病由溶组织内阿米巴(仅限口腔红霉素)引起。肠外阿米比亚酶需要用其他药物治疗。由淋病奈瑟菌引起的急性骨盆炎性疾病:红霉素注射用乳糖酸，USP后口服红霉素碱，作为替代药物治疗由淋球菌引起的急性骨盆炎性疾病有拓苯西林敏感史的女性患者。患者在接受红霉素作为淋病治疗前应进行梅毒血清学检测，3个月后应进行随访的梅毒血清学检测。当四环素治疗有禁忌症或不耐受时，红霉素可用于治疗无并发症的尿道，成人因沙眼衣原体引起的宫颈内膜或直肠感染。当四环素禁忌或不耐受时，红霉素可用于治疗解脲支原体使用的非脲球菌。由肺炎军团菌引起的军团病。尽管没有控制临床。已经进行了疗效研究，在体外试验和有限的初步临床数据表明，红霉素可能对治疗军团病有效。"
+      ],
+      "keywords": [
+        "红霉素肠溶胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "红霉素肠溶胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "红霉素肠溶胶囊（0.25 g）生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264099",
+      "plainSummary": "NMPA 公开登记：红霉素肠溶胶囊；适应症：红霉素用于治疗下列疾病中指定生物体的易感菌株引起的感染:由糖原链球菌、肺炎链球菌或流感嗜血杆菌引起的轻度皮肤上呼吸道感染同时伴有足够剂量的磺胺类药物。低呼吸道感染由肺炎链球菌或化脓性链球菌引起的轻度毛菌。 由单核增生李斯特菌引起的脂质体增生。由百日咳博德氏杆菌引起的百日咳(百日咳)。红霉素能有效地消除受感染个体鼻咽部的微生物，使其具有非传染性。预防百日咳毒素暴露的易感个体。由肺炎支原体引起的呼吸道感染。由糖原链球菌或金黄色葡萄球菌引起的轻度皮肤和皮肤结构感染(耐药葡萄球菌可能出现在此期间治疗）。白喉:由白喉棒状杆菌引起的感染，作为抗毒素的辅助手段，以防止载体的建立和根除载体中的微生物。赤斑:在治疗由微小棒状杆菌引起的感染时。由苍白密螺旋体引起的梅毒:红霉素是初级梅毒对青霉素过敏患者的替代治疗选择。在原发性梅毒中，脊髓液检查应在治疗前进行，并作为治疗后随访的一部分。肠道真菌病由溶组织内阿米巴(仅限口腔红霉素)引起。肠外阿米比亚酶需要用其他药物治疗。由淋病奈瑟菌引起的急性骨盆炎性疾病:红霉素注射用乳糖酸，USP后口服红霉素碱，作为替代药物治疗由淋球菌引起的急性骨盆炎性疾病有拓苯西林敏感史的女性患者。患者在接受红霉素作为淋病治疗前应进行梅毒血清学检测，3个月后应进行随访的梅毒血清学检测。当四环素治疗有禁忌症或不耐受时，红霉素可用于治疗无并发症的尿道，成人因沙眼衣原体引起的宫颈内膜或直肠感染。当四环素禁忌或不耐受时，红霉素可用于治疗解脲支原体使用的非脲球菌。由肺炎军团菌引起的军团病。尽管没有控制临床。已经进行了疗效研究，在体外试验和有限的初步临床数据表明，红霉素可能对治疗军团病有效。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264095",
+      "identifiers": {
+        "nmpa": "CTR20264095"
+      },
+      "briefTitle": "LZSN2501注射液在中国健康成年参与者中单次给药、剂量递增I期临床研究",
+      "officialTitle": "LZSN2501注射液在中国健康成年参与者中单次给药、剂量递增I期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "预防全膝关节置换术后静脉血栓栓塞症"
+      ],
+      "keywords": [
+        "LZSN2501汪射液"
+      ],
+      "interventions": [
+        {
+          "name": "LZSN2501汪射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "LZSN2501注射液在中国健康成年参与者中单次给药、剂量递增I期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264095",
+      "plainSummary": "NMPA 公开登记：LZSN2501汪射液；适应症：预防全膝关节置换术后静脉血栓栓塞症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264094",
+      "identifiers": {
+        "nmpa": "CTR20264094"
+      },
+      "briefTitle": "三花清解颗粒治疗成人急性上呼吸道感染（风热证）Ⅱ期临床试验",
+      "officialTitle": "三花清解颗粒治疗成人急性上呼吸道感染（风热证）Ⅱ期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "急性上呼吸道感染（风热证）"
+      ],
+      "keywords": [
+        "三花清解颗粒"
+      ],
+      "interventions": [
+        {
+          "name": "三花清解颗粒",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "三花清解颗粒治疗成人急性上呼吸道感染（风热证）Ⅱ期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264094",
+      "plainSummary": "NMPA 公开登记：三花清解颗粒；适应症：急性上呼吸道感染（风热证）。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264093",
+      "identifiers": {
+        "nmpa": "CTR20264093"
+      },
+      "briefTitle": "枸橼酸西地那非口崩片人体生物等效性研究",
+      "officialTitle": "枸橼酸西地那非口崩片人体生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于治疗勃起功能障碍。"
+      ],
+      "keywords": [
+        "枸橼酸西地那非口崩片"
+      ],
+      "interventions": [
+        {
+          "name": "枸橼酸西地那非口崩片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "枸橼酸西地那非口崩片人体生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264093",
+      "plainSummary": "NMPA 公开登记：枸橼酸西地那非口崩片；适应症：用于治疗勃起功能障碍。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264091",
+      "identifiers": {
+        "nmpa": "CTR20264091"
+      },
+      "briefTitle": "羧基麦芽糖铁注射液人体生物等效性试验",
+      "officialTitle": "羧基麦芽糖铁注射液人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品适用于在以下情况下治疗≥1周岁儿童及成人患者的缺铁：口服铁剂治疗无效时；无法口服补铁时；临床上需要快速补充铁时；缺铁诊断必须基于实验室检查。"
+      ],
+      "keywords": [
+        "羧基麦芽糖铁注射液"
+      ],
+      "interventions": [
+        {
+          "name": "羧基麦芽糖铁注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "羧基麦芽糖铁注射液人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264091",
+      "plainSummary": "NMPA 公开登记：羧基麦芽糖铁注射液；适应症：本品适用于在以下情况下治疗≥1周岁儿童及成人患者的缺铁：口服铁剂治疗无效时；无法口服补铁时；临床上需要快速补充铁时；缺铁诊断必须基于实验室检查。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264086",
+      "identifiers": {
+        "nmpa": "CTR20264086"
+      },
+      "briefTitle": "氯苯唑酸软胶囊的生物等效性试验",
+      "officialTitle": "氯苯唑酸软胶囊的生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品适用于治疗成人野生型或遗传型转甲状腺素蛋白淀粉样变性心肌病（ATTR-CM），以减少心血管死亡及心血管相关住院"
+      ],
+      "keywords": [
+        "氯苯唑酸软胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "氯苯唑酸软胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "氯苯唑酸软胶囊的生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264086",
+      "plainSummary": "NMPA 公开登记：氯苯唑酸软胶囊；适应症：本品适用于治疗成人野生型或遗传型转甲状腺素蛋白淀粉样变性心肌病（ATTR-CM），以减少心血管死亡及心血管相关住院。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264081",
+      "identifiers": {
+        "nmpa": "CTR20264081"
+      },
+      "briefTitle": "评估受试制剂苯磺酸美洛加巴林片与参比制剂苯磺酸美洛加巴林片（德力静®）作用于健康成年试验参与者在空腹/餐后状态下的生物等效性研究",
+      "officialTitle": "评估受试制剂苯磺酸美洛加巴林片与参比制剂苯磺酸美洛加巴林片（德力静®）作用于健康成年试验参与者在空腹/餐后状态下的生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品用于治疗成人糖尿病性周围神经病理性疼痛。"
+      ],
+      "keywords": [
+        "苯磺酸美洛加巴林片"
+      ],
+      "interventions": [
+        {
+          "name": "苯磺酸美洛加巴林片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评估受试制剂苯磺酸美洛加巴林片与参比制剂苯磺酸美洛加巴林片（德力静®）作用于健康成年试验参与者在空腹/餐后状态下的生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264081",
+      "plainSummary": "NMPA 公开登记：苯磺酸美洛加巴林片；适应症：本品用于治疗成人糖尿病性周围神经病理性疼痛。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264079",
+      "identifiers": {
+        "nmpa": "CTR20264079"
+      },
+      "briefTitle": "[14C]TM471-1在健康成年男性试验参与者中的单中心、非随机、开放、单次给药的物质平衡研究",
+      "officialTitle": "[14C]TM471-1在健康成年男性试验参与者中的单中心、非随机、开放、单次给药的物质平衡研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "物质平衡"
+      ],
+      "keywords": [
+        "TM471-1胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "TM471-1胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "[14C]TM471-1在健康成年男性试验参与者中的单中心、非随机、开放、单次给药的物质平衡研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264079",
+      "plainSummary": "NMPA 公开登记：TM471-1胶囊；适应症：物质平衡。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264078",
+      "identifiers": {
+        "nmpa": "CTR20264078"
+      },
+      "briefTitle": "MG-K10 人源化单抗注射液在 6-12 岁儿童中重度特应性皮炎患者中的 Ib/Ⅱ期临床研究",
+      "officialTitle": "MG-K10 人源化单抗注射液在 6-12 岁儿童中重度特应性皮炎患者中的 Ib/Ⅱ期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "特应性皮炎"
+      ],
+      "keywords": [
+        "MG-K10人源化单抗注射液"
+      ],
+      "interventions": [
+        {
+          "name": "MG-K10人源化单抗注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "MG-K10 人源化单抗注射液在 6-12 岁儿童中重度特应性皮炎患者中的 Ib/Ⅱ期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264078",
+      "plainSummary": "NMPA 公开登记：MG-K10人源化单抗注射液；适应症：特应性皮炎。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
