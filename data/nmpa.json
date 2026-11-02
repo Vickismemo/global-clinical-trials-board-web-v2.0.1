@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-01T10:41:35Z",
-  "sourceProcessedAt": "2026-11-01T10:41:35Z",
+  "generatedAt": "2026-11-02T11:29:53Z",
+  "sourceProcessedAt": "2026-11-02T11:29:53Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 268,
+  "recordCount": 275,
   "records": [
     {
       "id": "CTR20260083",
@@ -9648,6 +9648,258 @@
       "developmentStageLabel": "Ⅱ期",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264078",
       "plainSummary": "NMPA 公开登记：MG-K10人源化单抗注射液；适应症：特应性皮炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264161",
+      "identifiers": {
+        "nmpa": "CTR20264161"
+      },
+      "briefTitle": "50561片IIb期临床研究",
+      "officialTitle": "50561片IIb期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "阿尔茨海默病"
+      ],
+      "keywords": [
+        "50561片"
+      ],
+      "interventions": [
+        {
+          "name": "50561片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "50561片IIb期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264161",
+      "plainSummary": "NMPA 公开登记：50561片；适应症：阿尔茨海默病。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264140",
+      "identifiers": {
+        "nmpa": "CTR20264140"
+      },
+      "briefTitle": "HD004细胞治疗CLDN18.2晚期实体瘤伴恶性腹腔积液患者的Ⅰ期临床研究",
+      "officialTitle": "HD004细胞治疗CLDN18.2晚期实体瘤伴恶性腹腔积液患者的Ⅰ期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "CLDN18.2表达阳性的晚期实体瘤伴恶性腹腔积液"
+      ],
+      "keywords": [
+        "HD004细胞"
+      ],
+      "interventions": [
+        {
+          "name": "HD004细胞",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "HD004细胞治疗CLDN18.2晚期实体瘤伴恶性腹腔积液患者的Ⅰ期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE1",
+      "developmentStageLabel": "Ⅰ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264140",
+      "plainSummary": "NMPA 公开登记：HD004细胞；适应症：CLDN18.2表达阳性的晚期实体瘤伴恶性腹腔积液。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264130",
+      "identifiers": {
+        "nmpa": "CTR20264130"
+      },
+      "briefTitle": "盐酸他喷他多缓释片50mg生物等效性研究预试验",
+      "officialTitle": "盐酸他喷他多缓释片50mg生物等效性研究预试验",
+      "statusCode": "RECRUITING",
+      "statusLabel": "招募中",
+      "conditions": [
+        "1、成人重度且持续性的疼痛，该疼痛需要使用阿片类镇痛药，且无法通过其他替代方案（包括速释阿片类药物）得到充分治疗。 2、成人糖尿病周围神经病变（DPN）相关的重度且持续性的神经病理性疼痛，该疼痛需要使用阿片类镇痛药，且无法通过其他替代方案（包括速释阿片类药物）得到充分治疗。"
+      ],
+      "keywords": [
+        "盐酸他喷他多缓释片"
+      ],
+      "interventions": [
+        {
+          "name": "盐酸他喷他多缓释片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "盐酸他喷他多缓释片50mg生物等效性研究预试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264130",
+      "plainSummary": "NMPA 公开登记：盐酸他喷他多缓释片；适应症：1、成人重度且持续性的疼痛，该疼痛需要使用阿片类镇痛药，且无法通过其他替代方案（包括速释阿片类药物）得到充分治疗。 2、成人糖尿病周围神经病变（DPN）相关的重度且持续性的神经病理性疼痛，该疼痛需要使用阿片类镇痛药，且无法通过其他替代方案（包括速释阿片类药物）得到充分治疗。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264128",
+      "identifiers": {
+        "nmpa": "CTR20264128"
+      },
+      "briefTitle": "头颈部鳞状细胞癌：一项 Telisotuzumab Adizutecan 联合帕博利珠单抗治疗复发性或转移性头颈部鳞状细胞癌的 II 期试验",
+      "officialTitle": "头颈部鳞状细胞癌：一项 Telisotuzumab Adizutecan 联合帕博利珠单抗治疗复发性或转移性头颈部鳞状细胞癌的 II 期试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "头颈部鳞状细胞癌"
+      ],
+      "keywords": [
+        "NA"
+      ],
+      "interventions": [
+        {
+          "name": "NA",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "头颈部鳞状细胞癌：一项 Telisotuzumab Adizutecan 联合帕博利珠单抗治疗复发性或转移性头颈部鳞状细胞癌的 II 期试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264128",
+      "plainSummary": "NMPA 公开登记：NA；适应症：头颈部鳞状细胞癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264122",
+      "identifiers": {
+        "nmpa": "CTR20264122"
+      },
+      "briefTitle": "FY101注射液用于混合型高脂血症患者的Ⅱ期临床研究",
+      "officialTitle": "FY101注射液用于混合型高脂血症患者的Ⅱ期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "混合型高脂血症"
+      ],
+      "keywords": [
+        "FY101注射液"
+      ],
+      "interventions": [
+        {
+          "name": "FY101注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "FY101注射液用于混合型高脂血症患者的Ⅱ期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264122",
+      "plainSummary": "NMPA 公开登记：FY101注射液；适应症：混合型高脂血症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264119",
+      "identifiers": {
+        "nmpa": "CTR20264119"
+      },
+      "briefTitle": "Maridebart Cafraglutide在肥胖或超重中国成人中的疗效和安全性试验",
+      "officialTitle": "Maridebart Cafraglutide在肥胖或超重中国成人中的疗效和安全性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "肥胖或超重"
+      ],
+      "keywords": [
+        "AMG 133"
+      ],
+      "interventions": [
+        {
+          "name": "AMG 133",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "Maridebart Cafraglutide在肥胖或超重中国成人中的疗效和安全性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264119",
+      "plainSummary": "NMPA 公开登记：AMG 133；适应症：肥胖或超重。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264100",
+      "identifiers": {
+        "nmpa": "CTR20264100"
+      },
+      "briefTitle": "红霉素肠溶胶囊（0.25 g）生物等效性研究",
+      "officialTitle": "红霉素肠溶胶囊（0.25 g）生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "红霉素用于治疗下列疾病中指定生物体的易感菌株引起的感染:由糖原链球菌、肺炎链球菌或流感嗜血杆菌引起的轻度皮肤上呼吸道感染同时伴有足够剂量的磺胺类药物。低呼吸道感染由肺炎链球菌或化脓性链球菌引起的轻度毛菌。 由单核增生李斯特菌引起的脂质体增生。由百日咳博德氏杆菌引起的百日咳(百日咳)。红霉素能有效地消除受感染个体鼻咽部的微生物，使其具有非传染性。预防百日咳毒素暴露的易感个体。由肺炎支原体引起的呼吸道感染。由糖原链球菌或金黄色葡萄球菌引起的轻度皮肤和皮肤结构感染(耐药葡萄球菌可能出现在此期间治疗）。白喉:由白喉棒状杆菌引起的感染，作为抗毒素的辅助手段，以防止载体的建立和根除载体中的微生物。赤斑:在治疗由微小棒状杆菌引起的感染时。由苍白密螺旋体引起的梅毒:红霉素是初级梅毒对青霉素过敏患者的替代治疗选择。在原发性梅毒中，脊髓液检查应在治疗前进行，并作为治疗后随访的一部分。肠道真菌病由溶组织内阿米巴(仅限口腔红霉素)引起。肠外阿米比亚酶需要用其他药物治疗。由淋病奈瑟菌引起的急性骨盆炎性疾病:红霉素注射用乳糖酸，USP后口服红霉素碱，作为替代药物治疗由淋球菌引起的急性骨盆炎性疾病有拓苯西林敏感史的女性患者。患者在接受红霉素作为淋病治疗前应进行梅毒血清学检测，3个月后应进行随访的梅毒血清学检测。当四环素治疗有禁忌症或不耐受时，红霉素可用于治疗无并发症的尿道，成人因沙眼衣原体引起的宫颈内膜或直肠感染。当四环素禁忌或不耐受时，红霉素可用于治疗解脲支原体使用的非脲球菌。由肺炎军团菌引起的军团病。尽管没有控制临床。已经进行了疗效研究，在体外试验和有限的初步临床数据表明，红霉素可能对治疗军团病有效。"
+      ],
+      "keywords": [
+        "红霉素肠溶胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "红霉素肠溶胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "红霉素肠溶胶囊（0.25 g）生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264100",
+      "plainSummary": "NMPA 公开登记：红霉素肠溶胶囊；适应症：红霉素用于治疗下列疾病中指定生物体的易感菌株引起的感染:由糖原链球菌、肺炎链球菌或流感嗜血杆菌引起的轻度皮肤上呼吸道感染同时伴有足够剂量的磺胺类药物。低呼吸道感染由肺炎链球菌或化脓性链球菌引起的轻度毛菌。 由单核增生李斯特菌引起的脂质体增生。由百日咳博德氏杆菌引起的百日咳(百日咳)。红霉素能有效地消除受感染个体鼻咽部的微生物，使其具有非传染性。预防百日咳毒素暴露的易感个体。由肺炎支原体引起的呼吸道感染。由糖原链球菌或金黄色葡萄球菌引起的轻度皮肤和皮肤结构感染(耐药葡萄球菌可能出现在此期间治疗）。白喉:由白喉棒状杆菌引起的感染，作为抗毒素的辅助手段，以防止载体的建立和根除载体中的微生物。赤斑:在治疗由微小棒状杆菌引起的感染时。由苍白密螺旋体引起的梅毒:红霉素是初级梅毒对青霉素过敏患者的替代治疗选择。在原发性梅毒中，脊髓液检查应在治疗前进行，并作为治疗后随访的一部分。肠道真菌病由溶组织内阿米巴(仅限口腔红霉素)引起。肠外阿米比亚酶需要用其他药物治疗。由淋病奈瑟菌引起的急性骨盆炎性疾病:红霉素注射用乳糖酸，USP后口服红霉素碱，作为替代药物治疗由淋球菌引起的急性骨盆炎性疾病有拓苯西林敏感史的女性患者。患者在接受红霉素作为淋病治疗前应进行梅毒血清学检测，3个月后应进行随访的梅毒血清学检测。当四环素治疗有禁忌症或不耐受时，红霉素可用于治疗无并发症的尿道，成人因沙眼衣原体引起的宫颈内膜或直肠感染。当四环素禁忌或不耐受时，红霉素可用于治疗解脲支原体使用的非脲球菌。由肺炎军团菌引起的军团病。尽管没有控制临床。已经进行了疗效研究，在体外试验和有限的初步临床数据表明，红霉素可能对治疗军团病有效。。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
