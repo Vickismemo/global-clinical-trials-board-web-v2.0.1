@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-02T11:29:53Z",
-  "sourceProcessedAt": "2026-11-02T11:29:53Z",
+  "generatedAt": "2026-11-03T11:08:49Z",
+  "sourceProcessedAt": "2026-11-03T11:08:49Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 275,
+  "recordCount": 278,
   "records": [
     {
       "id": "CTR20260083",
@@ -9900,6 +9900,114 @@
       "developmentStageLabel": "BE 生物等效性试验",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264100",
       "plainSummary": "NMPA 公开登记：红霉素肠溶胶囊；适应症：红霉素用于治疗下列疾病中指定生物体的易感菌株引起的感染:由糖原链球菌、肺炎链球菌或流感嗜血杆菌引起的轻度皮肤上呼吸道感染同时伴有足够剂量的磺胺类药物。低呼吸道感染由肺炎链球菌或化脓性链球菌引起的轻度毛菌。 由单核增生李斯特菌引起的脂质体增生。由百日咳博德氏杆菌引起的百日咳(百日咳)。红霉素能有效地消除受感染个体鼻咽部的微生物，使其具有非传染性。预防百日咳毒素暴露的易感个体。由肺炎支原体引起的呼吸道感染。由糖原链球菌或金黄色葡萄球菌引起的轻度皮肤和皮肤结构感染(耐药葡萄球菌可能出现在此期间治疗）。白喉:由白喉棒状杆菌引起的感染，作为抗毒素的辅助手段，以防止载体的建立和根除载体中的微生物。赤斑:在治疗由微小棒状杆菌引起的感染时。由苍白密螺旋体引起的梅毒:红霉素是初级梅毒对青霉素过敏患者的替代治疗选择。在原发性梅毒中，脊髓液检查应在治疗前进行，并作为治疗后随访的一部分。肠道真菌病由溶组织内阿米巴(仅限口腔红霉素)引起。肠外阿米比亚酶需要用其他药物治疗。由淋病奈瑟菌引起的急性骨盆炎性疾病:红霉素注射用乳糖酸，USP后口服红霉素碱，作为替代药物治疗由淋球菌引起的急性骨盆炎性疾病有拓苯西林敏感史的女性患者。患者在接受红霉素作为淋病治疗前应进行梅毒血清学检测，3个月后应进行随访的梅毒血清学检测。当四环素治疗有禁忌症或不耐受时，红霉素可用于治疗无并发症的尿道，成人因沙眼衣原体引起的宫颈内膜或直肠感染。当四环素禁忌或不耐受时，红霉素可用于治疗解脲支原体使用的非脲球菌。由肺炎军团菌引起的军团病。尽管没有控制临床。已经进行了疗效研究，在体外试验和有限的初步临床数据表明，红霉素可能对治疗军团病有效。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264181",
+      "identifiers": {
+        "nmpa": "CTR20264181"
+      },
+      "briefTitle": "盐酸二甲双胍缓释片人体生物等效性试验",
+      "officialTitle": "盐酸二甲双胍缓释片人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "1.本品作为单独治疗，建议联合饮食和运动疗法，达到控制2型糖尿病血糖作用。 2.本品可以与磺脲类药物或胰岛素联合使用，以控制成人血糖。"
+      ],
+      "keywords": [
+        "盐酸二甲双胍缓释片"
+      ],
+      "interventions": [
+        {
+          "name": "盐酸二甲双胍缓释片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "盐酸二甲双胍缓释片人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264181",
+      "plainSummary": "NMPA 公开登记：盐酸二甲双胍缓释片；适应症：1.本品作为单独治疗，建议联合饮食和运动疗法，达到控制2型糖尿病血糖作用。 2.本品可以与磺脲类药物或胰岛素联合使用，以控制成人血糖。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264166",
+      "identifiers": {
+        "nmpa": "CTR20264166"
+      },
+      "briefTitle": "厄贝沙坦氢氯噻嗪片生物等效性研究",
+      "officialTitle": "厄贝沙坦氢氯噻嗪片生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "高血压"
+      ],
+      "keywords": [
+        "厄贝沙坦氢氯噻嗪片"
+      ],
+      "interventions": [
+        {
+          "name": "厄贝沙坦氢氯噻嗪片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "厄贝沙坦氢氯噻嗪片生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264166",
+      "plainSummary": "NMPA 公开登记：厄贝沙坦氢氯噻嗪片；适应症：高血压。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264155",
+      "identifiers": {
+        "nmpa": "CTR20264155"
+      },
+      "briefTitle": "HE006片联合阿扎胞治疗复发/难治性急性髓系白血病患者安全性、有效性及药代动力学特征的开放、多中心、Ib/II期临床研究",
+      "officialTitle": "HE006片联合阿扎胞治疗复发/难治性急性髓系白血病患者安全性、有效性及药代动力学特征的开放、多中心、Ib/II期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "急性髓系白血病"
+      ],
+      "keywords": [
+        "HE006片"
+      ],
+      "interventions": [
+        {
+          "name": "HE006片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "HE006片联合阿扎胞治疗复发/难治性急性髓系白血病患者安全性、有效性及药代动力学特征的开放、多中心、Ib/II期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264155",
+      "plainSummary": "NMPA 公开登记：HE006片；适应症：急性髓系白血病。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
