@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-03T11:08:49Z",
-  "sourceProcessedAt": "2026-11-03T11:08:49Z",
+  "generatedAt": "2026-11-04T11:19:23Z",
+  "sourceProcessedAt": "2026-11-04T11:19:23Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 278,
+  "recordCount": 289,
   "records": [
     {
       "id": "CTR20260083",
@@ -10008,6 +10008,402 @@
       "developmentStageLabel": "PK 药代动力学试验",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264155",
       "plainSummary": "NMPA 公开登记：HE006片；适应症：急性髓系白血病。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264200",
+      "identifiers": {
+        "nmpa": "CTR20264200"
+      },
+      "briefTitle": "一项评价高脂饮食及不同进食时间对埃诺格鲁肽片药代动力学影响的临床研究",
+      "officialTitle": "一项评价高脂饮食及不同进食时间对埃诺格鲁肽片药代动力学影响的临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "肥胖/超重患者体重管理"
+      ],
+      "keywords": [
+        "埃诺格鲁肽片"
+      ],
+      "interventions": [
+        {
+          "name": "埃诺格鲁肽片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项评价高脂饮食及不同进食时间对埃诺格鲁肽片药代动力学影响的临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264200",
+      "plainSummary": "NMPA 公开登记：埃诺格鲁肽片；适应症：肥胖/超重患者体重管理。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264196",
+      "identifiers": {
+        "nmpa": "CTR20264196"
+      },
+      "briefTitle": "伊维菌素乳膏人体生物等效性试验",
+      "officialTitle": "伊维菌素乳膏人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于治疗玫瑰痤疮的炎症性病变。"
+      ],
+      "keywords": [
+        "伊维菌素乳膏"
+      ],
+      "interventions": [
+        {
+          "name": "伊维菌素乳膏",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "伊维菌素乳膏人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264196",
+      "plainSummary": "NMPA 公开登记：伊维菌素乳膏；适应症：用于治疗玫瑰痤疮的炎症性病变。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264191",
+      "identifiers": {
+        "nmpa": "CTR20264191"
+      },
+      "briefTitle": "二甲双胍维格列汀片(Ⅱ)生物等效性试验",
+      "officialTitle": "二甲双胍维格列汀片(Ⅱ)生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "2型糖尿病: 本品配合饮食和运动治疗，用于二甲双胍单药治疗达最大耐受剂量血糖仍控制不佳或正在接受维格列汀与二甲双胍联合治疗。 当稳定剂量的胰岛素联合二甲双胍治疗血糖仍控制不佳时，本品可与胰岛素联合使用，配合饮食和运动治疗，改善血糖控制。"
+      ],
+      "keywords": [
+        "二甲双胍维格列汀片(Ⅱ)"
+      ],
+      "interventions": [
+        {
+          "name": "二甲双胍维格列汀片(Ⅱ)",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "二甲双胍维格列汀片(Ⅱ)生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264191",
+      "plainSummary": "NMPA 公开登记：二甲双胍维格列汀片(Ⅱ)；适应症：2型糖尿病: 本品配合饮食和运动治疗，用于二甲双胍单药治疗达最大耐受剂量血糖仍控制不佳或正在接受维格列汀与二甲双胍联合治疗。 当稳定剂量的胰岛素联合二甲双胍治疗血糖仍控制不佳时，本品可与胰岛素联合使用，配合饮食和运动治疗，改善血糖控制。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264190",
+      "identifiers": {
+        "nmpa": "CTR20264190"
+      },
+      "briefTitle": "注射用QLS5133联合治疗在晚期实体瘤参与者中的Ib/II期临床研究。",
+      "officialTitle": "注射用QLS5133联合治疗在晚期实体瘤参与者中的Ib/II期临床研究。",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "晚期实体瘤"
+      ],
+      "keywords": [
+        "注射用QLS5133"
+      ],
+      "interventions": [
+        {
+          "name": "注射用QLS5133",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "注射用QLS5133联合治疗在晚期实体瘤参与者中的Ib/II期临床研究。"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264190",
+      "plainSummary": "NMPA 公开登记：注射用QLS5133；适应症：晚期实体瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264184",
+      "identifiers": {
+        "nmpa": "CTR20264184"
+      },
+      "briefTitle": "四价重组手足口病疫苗（毕赤酵母）的I期临床试验",
+      "officialTitle": "四价重组手足口病疫苗（毕赤酵母）的I期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品拟用于6月龄~13周岁婴幼儿及儿童，预防由EVA71、CVA16、CVA10、CVA6感染引起的疾病（如手足口病、疱疹性咽峡炎等）"
+      ],
+      "keywords": [
+        "四价重组手足口病疫苗（毕赤酵母）"
+      ],
+      "interventions": [
+        {
+          "name": "四价重组手足口病疫苗（毕赤酵母）",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "四价重组手足口病疫苗（毕赤酵母）的I期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264184",
+      "plainSummary": "NMPA 公开登记：四价重组手足口病疫苗（毕赤酵母）；适应症：本品拟用于6月龄~13周岁婴幼儿及儿童，预防由EVA71、CVA16、CVA10、CVA6感染引起的疾病（如手足口病、疱疹性咽峡炎等）。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264182",
+      "identifiers": {
+        "nmpa": "CTR20264182"
+      },
+      "briefTitle": "注射用重组A型肉毒毒素（RY001）治疗中、重度眉间纹的I/II期临床研究",
+      "officialTitle": "注射用重组A型肉毒毒素（RY001）治疗中、重度眉间纹的I/II期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "中度至重度眉间纹"
+      ],
+      "keywords": [
+        "RY001 注射用重组A型肉毒毒素（大肠杆菌）"
+      ],
+      "interventions": [
+        {
+          "name": "RY001 注射用重组A型肉毒毒素（大肠杆菌）",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "注射用重组A型肉毒毒素（RY001）治疗中、重度眉间纹的I/II期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE1_PHASE2",
+      "developmentStageLabel": "Ⅰ/Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264182",
+      "plainSummary": "NMPA 公开登记：RY001 注射用重组A型肉毒毒素（大肠杆菌）；适应症：中度至重度眉间纹。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264176",
+      "identifiers": {
+        "nmpa": "CTR20264176"
+      },
+      "briefTitle": "评估 DXC016在晚期实体瘤试验参与者中I期临床研究",
+      "officialTitle": "评估 DXC016在晚期实体瘤试验参与者中I期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "晚期实体瘤"
+      ],
+      "keywords": [
+        "注射用DXC016"
+      ],
+      "interventions": [
+        {
+          "name": "注射用DXC016",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评估 DXC016在晚期实体瘤试验参与者中I期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264176",
+      "plainSummary": "NMPA 公开登记：注射用DXC016；适应症：晚期实体瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264173",
+      "identifiers": {
+        "nmpa": "CTR20264173"
+      },
+      "briefTitle": "一项在中国健康参与者中评价 BMS-986368 药代动力学、安全性和耐受性的双平行队列研究",
+      "officialTitle": "一项在中国健康参与者中评价 BMS-986368 药代动力学、安全性和耐受性的双平行队列研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "健康人"
+      ],
+      "keywords": [
+        "BMS-986368胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "BMS-986368胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在中国健康参与者中评价 BMS-986368 药代动力学、安全性和耐受性的双平行队列研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264173",
+      "plainSummary": "NMPA 公开登记：BMS-986368胶囊；适应症：健康人。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264171",
+      "identifiers": {
+        "nmpa": "CTR20264171"
+      },
+      "briefTitle": "一项评价MAR002治疗肢端肥大症的II期研究",
+      "officialTitle": "一项评价MAR002治疗肢端肥大症的II期研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "肢端肥大症"
+      ],
+      "keywords": [
+        "MAR002"
+      ],
+      "interventions": [
+        {
+          "name": "MAR002",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项评价MAR002治疗肢端肥大症的II期研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264171",
+      "plainSummary": "NMPA 公开登记：MAR002；适应症：肢端肥大症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264160",
+      "identifiers": {
+        "nmpa": "CTR20264160"
+      },
+      "briefTitle": "罗红霉素片在健康受试者中的生物等效性试验",
+      "officialTitle": "罗红霉素片在健康受试者中的生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于治疗由罗红霉素敏感病原体导致的感染。 耳、鼻、喉感染：扁桃体炎、咽炎、鼻窦炎。 呼吸道感染：急性支气管炎、肺炎。 皮肤及软组织感染：脓疱病。 泌尿生殖道感染：非淋球菌性尿道炎。"
+      ],
+      "keywords": [
+        "罗红霉素片"
+      ],
+      "interventions": [
+        {
+          "name": "罗红霉素片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "罗红霉素片在健康受试者中的生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264160",
+      "plainSummary": "NMPA 公开登记：罗红霉素片；适应症：用于治疗由罗红霉素敏感病原体导致的感染。 耳、鼻、喉感染：扁桃体炎、咽炎、鼻窦炎。 呼吸道感染：急性支气管炎、肺炎。 皮肤及软组织感染：脓疱病。 泌尿生殖道感染：非淋球菌性尿道炎。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264152",
+      "identifiers": {
+        "nmpa": "CTR20264152"
+      },
+      "briefTitle": "聚普瑞锌口腔崩解片生物等效性试验",
+      "officialTitle": "聚普瑞锌口腔崩解片生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品为胃黏膜保护药物，用于胃溃疡的治疗"
+      ],
+      "keywords": [
+        "聚普瑞锌口腔崩解片"
+      ],
+      "interventions": [
+        {
+          "name": "聚普瑞锌口腔崩解片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "聚普瑞锌口腔崩解片生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264152",
+      "plainSummary": "NMPA 公开登记：聚普瑞锌口腔崩解片；适应症：本品为胃黏膜保护药物，用于胃溃疡的治疗。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
