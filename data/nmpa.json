@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-04T11:19:23Z",
-  "sourceProcessedAt": "2026-11-04T11:19:23Z",
+  "generatedAt": "2026-11-05T11:17:10Z",
+  "sourceProcessedAt": "2026-11-05T11:17:10Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 289,
+  "recordCount": 299,
   "records": [
     {
       "id": "CTR20260083",
@@ -10404,6 +10404,366 @@
       "developmentStageLabel": "BE 生物等效性试验",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264152",
       "plainSummary": "NMPA 公开登记：聚普瑞锌口腔崩解片；适应症：本品为胃黏膜保护药物，用于胃溃疡的治疗。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264226",
+      "identifiers": {
+        "nmpa": "CTR20264226"
+      },
+      "briefTitle": "E562 Ia期临床试验。",
+      "officialTitle": "E562 Ia期临床试验。",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品适用于治疗中度或重度的性交困难、更年期引起的外阴和阴道萎缩等与雌激素缺乏有关的症状（如潮热、盗汗、泌尿系统症状，阴道干燥，卵巢功能失调等）。"
+      ],
+      "keywords": [
+        "E562"
+      ],
+      "interventions": [
+        {
+          "name": "E562",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "E562 Ia期临床试验。"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264226",
+      "plainSummary": "NMPA 公开登记：E562；适应症：本品适用于治疗中度或重度的性交困难、更年期引起的外阴和阴道萎缩等与雌激素缺乏有关的症状（如潮热、盗汗、泌尿系统症状，阴道干燥，卵巢功能失调等）。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264216",
+      "identifiers": {
+        "nmpa": "CTR20264216"
+      },
+      "briefTitle": "克拉霉素片空腹人体生物等效性试验",
+      "officialTitle": "克拉霉素片空腹人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "克拉霉素适用于治疗对其敏感的致病菌引起的感染，包括： 1）下呼吸道感染（如支气管炎、肺炎）：由副流感嗜血杆菌、卡他莫拉菌、肺炎链球菌、嗜肺军团杆菌、百日咳杆菌、金黄色葡萄球菌、肺炎支原体或肺炎衣原体等引起； 2）上呼吸道感染（如咽炎、鼻窦炎）：由化脓性链球菌、流感嗜血杆菌、卡他莫拉菌、肺炎链球菌、草绿色链球菌、淋球菌、金黄色葡萄球菌、厌氧菌等引起； 3）皮肤及软组织感染（如毛囊炎、蜂窝组织炎、丹毒）：由金黄色葡萄球菌、化脓性链球菌、痤疮丙酸杆菌、草绿色链球菌等引起； 4）局部或弥散性感染：由鸟型分枝杆菌或细胞内分枝杆菌引起的局部或弥散性感染，以及由海龟分枝杆菌、偶发分枝杆菌或堪萨斯分枝杆菌引起的局部感染； 5）混合感染：克拉霉素适用于CD4淋巴细胞数小于或等于100/mm3的HIV感染患者预防由弥散性鸟型分枝杆菌引起的混合感染； 6）根除幽门螺杆菌：存在胃酸抑制剂时，克拉霉素也适用于根除幽门螺杆菌，从而减少十二指肠溃疡的复发； 7）牙源性感染：治疗由敏感致病菌引起的牙源性感染。"
+      ],
+      "keywords": [
+        "克拉霉素片"
+      ],
+      "interventions": [
+        {
+          "name": "克拉霉素片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "克拉霉素片空腹人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264216",
+      "plainSummary": "NMPA 公开登记：克拉霉素片；适应症：克拉霉素适用于治疗对其敏感的致病菌引起的感染，包括： 1）下呼吸道感染（如支气管炎、肺炎）：由副流感嗜血杆菌、卡他莫拉菌、肺炎链球菌、嗜肺军团杆菌、百日咳杆菌、金黄色葡萄球菌、肺炎支原体或肺炎衣原体等引起； 2）上呼吸道感染（如咽炎、鼻窦炎）：由化脓性链球菌、流感嗜血杆菌、卡他莫拉菌、肺炎链球菌、草绿色链球菌、淋球菌、金黄色葡萄球菌、厌氧菌等引起； 3）皮肤及软组织感染（如毛囊炎、蜂窝组织炎、丹毒）：由金黄色葡萄球菌、化脓性链球菌、痤疮丙酸杆菌、草绿色链球菌等引起； 4）局部或弥散性感染：由鸟型分枝杆菌或细胞内分枝杆菌引起的局部或弥散性感染，以及由海龟分枝杆菌、偶发分枝杆菌或堪萨斯分枝杆菌引起的局部感染； 5）混合感染：克拉霉素适用于CD4淋巴细胞数小于或等于100/mm3的HIV感染患者预防由弥散性鸟型分枝杆菌引起的混合感染； 6）根除幽门螺杆菌：存在胃酸抑制剂时，克拉霉素也适用于根除幽门螺杆菌，从而减少十二指肠溃疡的复发； 7）牙源性感染：治疗由敏感致病菌引起的牙源性感染。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264213",
+      "identifiers": {
+        "nmpa": "CTR20264213"
+      },
+      "briefTitle": "JMKX003142片在肝功能减退和肝功能正常试验参与者中的药代动力学研究",
+      "officialTitle": "JMKX003142片在肝功能减退和肝功能正常试验参与者中的药代动力学研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "肾性水肿"
+      ],
+      "keywords": [
+        "JMKX003142片"
+      ],
+      "interventions": [
+        {
+          "name": "JMKX003142片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "JMKX003142片在肝功能减退和肝功能正常试验参与者中的药代动力学研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264213",
+      "plainSummary": "NMPA 公开登记：JMKX003142片；适应症：肾性水肿。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264209",
+      "identifiers": {
+        "nmpa": "CTR20264209"
+      },
+      "briefTitle": "伊曲康唑对健康参与者静脉输注HRS-4642注射液后药代动力学影响的研究",
+      "officialTitle": "伊曲康唑对健康参与者静脉输注HRS-4642注射液后药代动力学影响的研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "胰腺癌"
+      ],
+      "keywords": [
+        "HRS-4642注射液"
+      ],
+      "interventions": [
+        {
+          "name": "HRS-4642注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "伊曲康唑对健康参与者静脉输注HRS-4642注射液后药代动力学影响的研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264209",
+      "plainSummary": "NMPA 公开登记：HRS-4642注射液；适应症：胰腺癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264207",
+      "identifiers": {
+        "nmpa": "CTR20264207"
+      },
+      "briefTitle": "拉莫三嗪分散片人体生物等效性研究",
+      "officialTitle": "拉莫三嗪分散片人体生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "癫痫 对12岁以上儿童及成人的单药治疗： 1. 简单部分性发作 2. 复杂部分性发作 3. 继发性全身强直－阵挛性发作 4. 原发性全身强直－阵挛性发作 目前暂不推荐对12岁以下儿童采用单药治疗，因为尚未得到对这类特殊目标人群所进行的对照试验的相应数据。 2岁以上儿童及成人的添加疗法： 1. 简单部分性发作 2. 复杂部分性发作 3. 继发性全身强直－阵挛性发作 4. 原发性全身强直－阵挛性发作 本品也可用于治疗合并有 Lennox-Gastaut 综合征的癫痫发作。 如果儿童中计算出的日剂量低于2.5 mg，则不能使用拉莫三嗪。请勿尝试给予部分剂量的分散片。 双相情感障碍 本品用于控制成人双相情感障碍患者情绪发作的复发或复燃。 本品对双相情感障碍患者情绪发作的急性期治疗的有效性及安全性尚未确定。"
+      ],
+      "keywords": [
+        "拉莫三嗪分散片"
+      ],
+      "interventions": [
+        {
+          "name": "拉莫三嗪分散片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "拉莫三嗪分散片人体生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264207",
+      "plainSummary": "NMPA 公开登记：拉莫三嗪分散片；适应症：癫痫 对12岁以上儿童及成人的单药治疗： 1. 简单部分性发作 2. 复杂部分性发作 3. 继发性全身强直－阵挛性发作 4. 原发性全身强直－阵挛性发作 目前暂不推荐对12岁以下儿童采用单药治疗，因为尚未得到对这类特殊目标人群所进行的对照试验的相应数据。 2岁以上儿童及成人的添加疗法： 1. 简单部分性发作 2. 复杂部分性发作 3. 继发性全身强直－阵挛性发作 4. 原发性全身强直－阵挛性发作 本品也可用于治疗合并有 Lennox-Gastaut 综合征的癫痫发作。 如果儿童中计算出的日剂量低于2.5 mg，则不能使用拉莫三嗪。请勿尝试给予部分剂量的分散片。 双相情感障碍 本品用于控制成人双相情感障碍患者情绪发作的复发或复燃。 本品对双相情感障碍患者情绪发作的急性期治疗的有效性及安全性尚未确定。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264202",
+      "identifiers": {
+        "nmpa": "CTR20264202"
+      },
+      "briefTitle": "一项评价JKN2502在中国健康成人试验参与者的血浆药代动力学特征及支气管肺上皮衬液中的药物浓度与渗透性的单中心、随机、开放的I期临床试验",
+      "officialTitle": "一项评价JKN2502在中国健康成人试验参与者的血浆药代动力学特征及支气管肺上皮衬液中的药物浓度与渗透性的单中心、随机、开放的I期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "适用于鲍曼不动杆菌复合体（ABC）、铜绿假单胞菌、大肠埃希菌和肺炎克雷伯菌引起的 严重感染"
+      ],
+      "keywords": [
+        "注射用JKN2502"
+      ],
+      "interventions": [
+        {
+          "name": "注射用JKN2502",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项评价JKN2502在中国健康成人试验参与者的血浆药代动力学特征及支气管肺上皮衬液中的药物浓度与渗透性的单中心、随机、开放的I期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264202",
+      "plainSummary": "NMPA 公开登记：注射用JKN2502；适应症：适用于鲍曼不动杆菌复合体（ABC）、铜绿假单胞菌、大肠埃希菌和肺炎克雷伯菌引起的 严重感染。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264183",
+      "identifiers": {
+        "nmpa": "CTR20264183"
+      },
+      "briefTitle": "评价单次口服 XNW3009片对 QT/QTc间期影响的临床试验",
+      "officialTitle": "评价单次口服 XNW3009片对 QT/QTc间期影响的临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "痛风"
+      ],
+      "keywords": [
+        "XNW3009片"
+      ],
+      "interventions": [
+        {
+          "name": "XNW3009片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价单次口服 XNW3009片对 QT/QTc间期影响的临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264183",
+      "plainSummary": "NMPA 公开登记：XNW3009片；适应症：痛风。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264177",
+      "identifiers": {
+        "nmpa": "CTR20264177"
+      },
+      "briefTitle": "Kylo-0603胶囊治疗代谢功能障碍相关脂肪性肝病的2a期临床研究",
+      "officialTitle": "Kylo-0603胶囊治疗代谢功能障碍相关脂肪性肝病的2a期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "非酒精性脂肪性肝炎"
+      ],
+      "keywords": [
+        "Kylo-0603胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "Kylo-0603胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "Kylo-0603胶囊治疗代谢功能障碍相关脂肪性肝病的2a期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264177",
+      "plainSummary": "NMPA 公开登记：Kylo-0603胶囊；适应症：非酒精性脂肪性肝炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264175",
+      "identifiers": {
+        "nmpa": "CTR20264175"
+      },
+      "briefTitle": "普罗布考片在健康试验参与者中的生物等效性研究",
+      "officialTitle": "普罗布考片在健康试验参与者中的生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "高脂血症（包括家族性高胆固醇血症和黄色瘤）。"
+      ],
+      "keywords": [
+        "普罗布考片"
+      ],
+      "interventions": [
+        {
+          "name": "普罗布考片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "普罗布考片在健康试验参与者中的生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264175",
+      "plainSummary": "NMPA 公开登记：普罗布考片；适应症：高脂血症（包括家族性高胆固醇血症和黄色瘤）。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264172",
+      "identifiers": {
+        "nmpa": "CTR20264172"
+      },
+      "briefTitle": "一项评估GFH276联合化疗或联合西妥昔单抗治疗RAS突变型转移性结直肠癌患者的Ib/II期临床研究",
+      "officialTitle": "一项评估GFH276联合化疗或联合西妥昔单抗治疗RAS突变型转移性结直肠癌患者的Ib/II期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "转移性结直肠癌"
+      ],
+      "keywords": [
+        "GFH276片"
+      ],
+      "interventions": [
+        {
+          "name": "GFH276片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项评估GFH276联合化疗或联合西妥昔单抗治疗RAS突变型转移性结直肠癌患者的Ib/II期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264172",
+      "plainSummary": "NMPA 公开登记：GFH276片；适应症：转移性结直肠癌。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
