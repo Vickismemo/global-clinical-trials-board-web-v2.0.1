@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-05T11:17:10Z",
-  "sourceProcessedAt": "2026-11-05T11:17:10Z",
+  "generatedAt": "2026-11-06T11:14:00Z",
+  "sourceProcessedAt": "2026-11-06T11:14:00Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 299,
+  "recordCount": 302,
   "records": [
     {
       "id": "CTR20260083",
@@ -1668,8 +1668,8 @@
       },
       "briefTitle": "一项评估SLN12140在补体抑制剂初治成人阵发性睡眠性血红蛋白尿症患者的II期临床研究",
       "officialTitle": "一项评估SLN12140在补体抑制剂初治成人阵发性睡眠性血红蛋白尿症患者的II期临床研究",
-      "statusCode": "RECRUITING",
-      "statusLabel": "招募中",
+      "statusCode": "ACTIVE_NOT_RECRUITING",
+      "statusLabel": "进行中，不再招募",
       "conditions": [
         "补体参与介导的溶血性疾病"
       ],
@@ -10764,6 +10764,114 @@
       "developmentStageLabel": "Ⅱ期",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264172",
       "plainSummary": "NMPA 公开登记：GFH276片；适应症：转移性结直肠癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264230",
+      "identifiers": {
+        "nmpa": "CTR20264230"
+      },
+      "briefTitle": "维莫非尼片在中国健康试验参与者中的随机、开放、两序列、两周期、双交叉、餐后条件下的生物等效性试验",
+      "officialTitle": "维莫非尼片在中国健康试验参与者中的随机、开放、两序列、两周期、双交叉、餐后条件下的生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "适用于治疗经CFDA批准的检测方法确定的BRAF V600突变阳性的不可切除或转移性黑色素瘤"
+      ],
+      "keywords": [
+        "维莫非尼片"
+      ],
+      "interventions": [
+        {
+          "name": "维莫非尼片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "维莫非尼片在中国健康试验参与者中的随机、开放、两序列、两周期、双交叉、餐后条件下的生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264230",
+      "plainSummary": "NMPA 公开登记：维莫非尼片；适应症：适用于治疗经CFDA批准的检测方法确定的BRAF V600突变阳性的不可切除或转移性黑色素瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264224",
+      "identifiers": {
+        "nmpa": "CTR20264224"
+      },
+      "briefTitle": "多替诺雷片生物等效性试验",
+      "officialTitle": "多替诺雷片生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "痛风、高尿酸血症"
+      ],
+      "keywords": [
+        "多替诺雷片"
+      ],
+      "interventions": [
+        {
+          "name": "多替诺雷片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "多替诺雷片生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264224",
+      "plainSummary": "NMPA 公开登记：多替诺雷片；适应症：痛风、高尿酸血症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264195",
+      "identifiers": {
+        "nmpa": "CTR20264195"
+      },
+      "briefTitle": "1. 用于治疗阿尔茨海默病的多种淀粉样蛋白靶向治疗的 1 期临床试验主方案 2. 一项在健康参与者和阿尔茨海默病参与者中进行的LY4405094 单次和多次给药的剂量递增研究",
+      "officialTitle": "1. 用于治疗阿尔茨海默病的多种淀粉样蛋白靶向治疗的 1 期临床试验主方案 2. 一项在健康参与者和阿尔茨海默病参与者中进行的LY4405094 单次和多次给药的剂量递增研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "阿尔茨海默病"
+      ],
+      "keywords": [
+        "LY4405094注射液"
+      ],
+      "interventions": [
+        {
+          "name": "LY4405094注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "1. 用于治疗阿尔茨海默病的多种淀粉样蛋白靶向治疗的 1 期临床试验主方案 2. 一项在健康参与者和阿尔茨海默病参与者中进行的LY4405094 单次和多次给药的剂量递增研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264195",
+      "plainSummary": "NMPA 公开登记：LY4405094注射液；适应症：阿尔茨海默病。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
