@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-08T10:38:08Z",
-  "sourceProcessedAt": "2026-11-08T10:38:08Z",
+  "generatedAt": "2026-11-09T11:54:23Z",
+  "sourceProcessedAt": "2026-11-09T11:54:23Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 302,
+  "recordCount": 309,
   "records": [
     {
       "id": "CTR20260083",
@@ -1236,8 +1236,8 @@
       },
       "briefTitle": "高剂量康柏西普眼用注射液治疗RVO的Ⅲ期临床试验",
       "officialTitle": "高剂量康柏西普眼用注射液治疗RVO的Ⅲ期临床试验",
-      "statusCode": "RECRUITING",
-      "statusLabel": "招募中",
+      "statusCode": "ACTIVE_NOT_RECRUITING",
+      "statusLabel": "进行中，不再招募",
       "conditions": [
         "视网膜静脉阻塞（RVO）"
       ],
@@ -10872,6 +10872,258 @@
       "developmentStageLabel": "阶段未公开",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264195",
       "plainSummary": "NMPA 公开登记：LY4405094注射液；适应症：阿尔茨海默病。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264261",
+      "identifiers": {
+        "nmpa": "CTR20264261"
+      },
+      "briefTitle": "评价QLS2406-1注射液在中国成人超重和肥胖参与者中单次、多次皮下给药的I期研究",
+      "officialTitle": "评价QLS2406-1注射液在中国成人超重和肥胖参与者中单次、多次皮下给药的I期研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于代谢相关脂肪性肝炎"
+      ],
+      "keywords": [
+        "QLS2406-1注射液"
+      ],
+      "interventions": [
+        {
+          "name": "QLS2406-1注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价QLS2406-1注射液在中国成人超重和肥胖参与者中单次、多次皮下给药的I期研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264261",
+      "plainSummary": "NMPA 公开登记：QLS2406-1注射液；适应症：用于代谢相关脂肪性肝炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264249",
+      "identifiers": {
+        "nmpa": "CTR20264249"
+      },
+      "briefTitle": "洛索洛芬钠贴剂人体生物等效性研究",
+      "officialTitle": "洛索洛芬钠贴剂人体生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于下述疾病及症状的消炎和镇痛：骨关节炎、肌肉痛、外伤导致的肿胀或疼痛。"
+      ],
+      "keywords": [
+        "洛索洛芬钠贴剂"
+      ],
+      "interventions": [
+        {
+          "name": "洛索洛芬钠贴剂",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "洛索洛芬钠贴剂人体生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264249",
+      "plainSummary": "NMPA 公开登记：洛索洛芬钠贴剂；适应症：用于下述疾病及症状的消炎和镇痛：骨关节炎、肌肉痛、外伤导致的肿胀或疼痛。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264220",
+      "identifiers": {
+        "nmpa": "CTR20264220"
+      },
+      "briefTitle": "评价QLS2406-1注射液在中国成人超重和肥胖参与者中单次、多次皮下给药的I期研究",
+      "officialTitle": "评价QLS2406-1注射液在中国成人超重和肥胖参与者中单次、多次皮下给药的I期研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "超重和肥胖"
+      ],
+      "keywords": [
+        "QLS2406-1注射液"
+      ],
+      "interventions": [
+        {
+          "name": "QLS2406-1注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价QLS2406-1注射液在中国成人超重和肥胖参与者中单次、多次皮下给药的I期研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264220",
+      "plainSummary": "NMPA 公开登记：QLS2406-1注射液；适应症：超重和肥胖。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264212",
+      "identifiers": {
+        "nmpa": "CTR20264212"
+      },
+      "briefTitle": "STC009 在中国健康成年试验参与者中单次给药的安全性、耐受性及药代动力学/药效动力学特征的I 期临床研究",
+      "officialTitle": "STC009 在中国健康成年试验参与者中单次给药的安全性、耐受性及药代动力学/药效动力学特征的I 期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于慢性肾脏病（CKD）接受血液透析的成人患者的继发性甲状旁腺功能亢进症（SHPT）"
+      ],
+      "keywords": [
+        "STC009注射液"
+      ],
+      "interventions": [
+        {
+          "name": "STC009注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "STC009 在中国健康成年试验参与者中单次给药的安全性、耐受性及药代动力学/药效动力学特征的I 期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264212",
+      "plainSummary": "NMPA 公开登记：STC009注射液；适应症：用于慢性肾脏病（CKD）接受血液透析的成人患者的继发性甲状旁腺功能亢进症（SHPT）。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264208",
+      "identifiers": {
+        "nmpa": "CTR20264208"
+      },
+      "briefTitle": "注射用硼[10B]法仑和硼中子俘获治疗系统的硼中子俘获疗法（BNCT）治疗复发性头颈部恶性肿瘤试验参与者的有效性和安全性的Ⅱ期临床研究",
+      "officialTitle": "注射用硼[10B]法仑和硼中子俘获治疗系统的硼中子俘获疗法（BNCT）治疗复发性头颈部恶性肿瘤试验参与者的有效性和安全性的Ⅱ期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "不可切除的局部复发性头颈部鳞状细胞癌或不可切除的局部晚期头颈部非鳞状细胞癌（不含鼻咽癌）"
+      ],
+      "keywords": [
+        "注射用硼[10B]法仑"
+      ],
+      "interventions": [
+        {
+          "name": "注射用硼[10B]法仑",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "注射用硼[10B]法仑和硼中子俘获治疗系统的硼中子俘获疗法（BNCT）治疗复发性头颈部恶性肿瘤试验参与者的有效性和安全性的Ⅱ期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264208",
+      "plainSummary": "NMPA 公开登记：注射用硼[10B]法仑；适应症：不可切除的局部复发性头颈部鳞状细胞癌或不可切除的局部晚期头颈部非鳞状细胞癌（不含鼻咽癌）。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264203",
+      "identifiers": {
+        "nmpa": "CTR20264203"
+      },
+      "briefTitle": "ACT201注射液用于核苷（酸）类似物治疗的慢性乙型肝炎试验参与者的Ⅰb期临床试验",
+      "officialTitle": "ACT201注射液用于核苷（酸）类似物治疗的慢性乙型肝炎试验参与者的Ⅰb期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "慢性乙型肝炎"
+      ],
+      "keywords": [
+        "ACT201注射液"
+      ],
+      "interventions": [
+        {
+          "name": "ACT201注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "ACT201注射液用于核苷（酸）类似物治疗的慢性乙型肝炎试验参与者的Ⅰb期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264203",
+      "plainSummary": "NMPA 公开登记：ACT201注射液；适应症：慢性乙型肝炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264186",
+      "identifiers": {
+        "nmpa": "CTR20264186"
+      },
+      "briefTitle": "一项在类风湿关节炎（RA）参与者和系统性红斑狼疮（SLE）参与者中评估DKB903的剂量递增研究。",
+      "officialTitle": "一项在类风湿关节炎（RA）参与者和系统性红斑狼疮（SLE）参与者中评估DKB903的剂量递增研究。",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "自身免疫性疾病，包括类风湿关节炎和系统性红斑狼疮"
+      ],
+      "keywords": [
+        "DKB903注射用浓溶液"
+      ],
+      "interventions": [
+        {
+          "name": "DKB903注射用浓溶液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在类风湿关节炎（RA）参与者和系统性红斑狼疮（SLE）参与者中评估DKB903的剂量递增研究。"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264186",
+      "plainSummary": "NMPA 公开登记：DKB903注射用浓溶液；适应症：自身免疫性疾病，包括类风湿关节炎和系统性红斑狼疮。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
