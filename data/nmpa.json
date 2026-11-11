@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-09T11:54:23Z",
-  "sourceProcessedAt": "2026-11-09T11:54:23Z",
+  "generatedAt": "2026-11-11T11:17:13Z",
+  "sourceProcessedAt": "2026-11-11T11:17:13Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 309,
+  "recordCount": 327,
   "records": [
     {
       "id": "CTR20260083",
@@ -11124,6 +11124,654 @@
       "developmentStageLabel": "阶段未公开",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264186",
       "plainSummary": "NMPA 公开登记：DKB903注射用浓溶液；适应症：自身免疫性疾病，包括类风湿关节炎和系统性红斑狼疮。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264310",
+      "identifiers": {
+        "nmpa": "CTR20264310"
+      },
+      "briefTitle": "评价多次服用氟非尼酮胶囊对富马酸丙酚替诺福韦片的药代动力学特征影响",
+      "officialTitle": "评价多次服用氟非尼酮胶囊对富马酸丙酚替诺福韦片的药代动力学特征影响",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于治疗肝纤维化"
+      ],
+      "keywords": [
+        "氟非尼酮胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "氟非尼酮胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价多次服用氟非尼酮胶囊对富马酸丙酚替诺福韦片的药代动力学特征影响"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264310",
+      "plainSummary": "NMPA 公开登记：氟非尼酮胶囊；适应症：用于治疗肝纤维化。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264297",
+      "identifiers": {
+        "nmpa": "CTR20264297"
+      },
+      "briefTitle": "一项评估XEP527在稳定期精神分裂症患者中的安全性、耐受性和药代动力学的多次给药剂量递增研究",
+      "officialTitle": "一项评估XEP527在稳定期精神分裂症患者中的安全性、耐受性和药代动力学的多次给药剂量递增研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "精神分裂症相关认知功能障碍（CIAS）"
+      ],
+      "keywords": [
+        "XEP527胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "XEP527胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项评估XEP527在稳定期精神分裂症患者中的安全性、耐受性和药代动力学的多次给药剂量递增研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264297",
+      "plainSummary": "NMPA 公开登记：XEP527胶囊；适应症：精神分裂症相关认知功能障碍（CIAS）。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264294",
+      "identifiers": {
+        "nmpa": "CTR20264294"
+      },
+      "briefTitle": "一项在伴有急性自杀意念或行为的抑郁症（MDSI）试验参与者中评估多次静脉给药SP-101注射液的安全性、耐受性、药代动力学及初步疗效的随机、双盲、安慰剂对照、多中心Ib/IIa期临床试验",
+      "officialTitle": "一项在伴有急性自杀意念或行为的抑郁症（MDSI）试验参与者中评估多次静脉给药SP-101注射液的安全性、耐受性、药代动力学及初步疗效的随机、双盲、安慰剂对照、多中心Ib/IIa期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "伴急性自杀意念或行为的抑郁症"
+      ],
+      "keywords": [
+        "SP-101注射液"
+      ],
+      "interventions": [
+        {
+          "name": "SP-101注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在伴有急性自杀意念或行为的抑郁症（MDSI）试验参与者中评估多次静脉给药SP-101注射液的安全性、耐受性、药代动力学及初步疗效的随机、双盲、安慰剂对照、多中心Ib/IIa期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264294",
+      "plainSummary": "NMPA 公开登记：SP-101注射液；适应症：伴急性自杀意念或行为的抑郁症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264286",
+      "identifiers": {
+        "nmpa": "CTR20264286"
+      },
+      "briefTitle": "HS-10380片在肝功能不全及肝功能正常参与者中的药代动力学研究",
+      "officialTitle": "HS-10380片在肝功能不全及肝功能正常参与者中的药代动力学研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "精神分裂症"
+      ],
+      "keywords": [
+        "HS-10380片"
+      ],
+      "interventions": [
+        {
+          "name": "HS-10380片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "HS-10380片在肝功能不全及肝功能正常参与者中的药代动力学研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264286",
+      "plainSummary": "NMPA 公开登记：HS-10380片；适应症：精神分裂症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264283",
+      "identifiers": {
+        "nmpa": "CTR20264283"
+      },
+      "briefTitle": "评价注射用AST1001 在晚期实体瘤中的安全性、耐受性、药代动力学和初步疗效的I 期、全球、多中心、剂量递增和剂量扩展试验",
+      "officialTitle": "评价注射用AST1001 在晚期实体瘤中的安全性、耐受性、药代动力学和初步疗效的I 期、全球、多中心、剂量递增和剂量扩展试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品拟用于既往经标准治疗失败的局部晚期或转移性实体瘤成人患者。"
+      ],
+      "keywords": [
+        "注射用AST1001"
+      ],
+      "interventions": [
+        {
+          "name": "注射用AST1001",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价注射用AST1001 在晚期实体瘤中的安全性、耐受性、药代动力学和初步疗效的I 期、全球、多中心、剂量递增和剂量扩展试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264283",
+      "plainSummary": "NMPA 公开登记：注射用AST1001；适应症：本品拟用于既往经标准治疗失败的局部晚期或转移性实体瘤成人患者。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264276",
+      "identifiers": {
+        "nmpa": "CTR20264276"
+      },
+      "briefTitle": "一项评价RZ-629片和RZ-629-TA片药代动力学特征、药效学特征和安全性的I期临床研究",
+      "officialTitle": "一项评价RZ-629片和RZ-629-TA片药代动力学特征、药效学特征和安全性的I期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "2型糖尿病、体重管理"
+      ],
+      "keywords": [
+        "RZ-629-TA片"
+      ],
+      "interventions": [
+        {
+          "name": "RZ-629-TA片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项评价RZ-629片和RZ-629-TA片药代动力学特征、药效学特征和安全性的I期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264276",
+      "plainSummary": "NMPA 公开登记：RZ-629-TA片；适应症：2型糖尿病、体重管理。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264272",
+      "identifiers": {
+        "nmpa": "CTR20264272"
+      },
+      "briefTitle": "一项注射用甲磺酸普依司他联合用药的Ib/II期临床研究",
+      "officialTitle": "一项注射用甲磺酸普依司他联合用药的Ib/II期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "复发/难治性弥漫大B细胞淋巴瘤"
+      ],
+      "keywords": [
+        "注射用甲磺酸普依司他"
+      ],
+      "interventions": [
+        {
+          "name": "注射用甲磺酸普依司他",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项注射用甲磺酸普依司他联合用药的Ib/II期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264272",
+      "plainSummary": "NMPA 公开登记：注射用甲磺酸普依司他；适应症：复发/难治性弥漫大B细胞淋巴瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264271",
+      "identifiers": {
+        "nmpa": "CTR20264271"
+      },
+      "briefTitle": "一项旨在了解那米司特在活动性特发性炎性肌病患者中作用机制的研究",
+      "officialTitle": "一项旨在了解那米司特在活动性特发性炎性肌病患者中作用机制的研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "活动性特发性炎性肌病"
+      ],
+      "keywords": [
+        "那米司特"
+      ],
+      "interventions": [
+        {
+          "name": "那米司特",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项旨在了解那米司特在活动性特发性炎性肌病患者中作用机制的研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264271",
+      "plainSummary": "NMPA 公开登记：那米司特；适应症：活动性特发性炎性肌病。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264270",
+      "identifiers": {
+        "nmpa": "CTR20264270"
+      },
+      "briefTitle": "维生素K1注射液注射给药生物等效性试验",
+      "officialTitle": "维生素K1注射液注射给药生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于治疗维生素K缺乏性出血和预防无法通过营养补充的维生素K缺乏症"
+      ],
+      "keywords": [
+        "维生素K1注射液"
+      ],
+      "interventions": [
+        {
+          "name": "维生素K1注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "维生素K1注射液注射给药生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264270",
+      "plainSummary": "NMPA 公开登记：维生素K1注射液；适应症：用于治疗维生素K缺乏性出血和预防无法通过营养补充的维生素K缺乏症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264263",
+      "identifiers": {
+        "nmpa": "CTR20264263"
+      },
+      "briefTitle": "西诺氨酯片在空腹条件下的人体生物等效性试验",
+      "officialTitle": "西诺氨酯片在空腹条件下的人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品用于成人癫痫患者伴或不伴继发性全面性发作的局灶性发作的辅助治疗，这些患者既往已使用至少2种抗癫痫药物治疗但仍未得到充分控制。"
+      ],
+      "keywords": [
+        "西诺氨酯片"
+      ],
+      "interventions": [
+        {
+          "name": "西诺氨酯片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "西诺氨酯片在空腹条件下的人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264263",
+      "plainSummary": "NMPA 公开登记：西诺氨酯片；适应症：本品用于成人癫痫患者伴或不伴继发性全面性发作的局灶性发作的辅助治疗，这些患者既往已使用至少2种抗癫痫药物治疗但仍未得到充分控制。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264262",
+      "identifiers": {
+        "nmpa": "CTR20264262"
+      },
+      "briefTitle": "TTYP01片预防急性高山病II期项目",
+      "officialTitle": "TTYP01片预防急性高山病II期项目",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "急性高山病"
+      ],
+      "keywords": [
+        "TTYP01片剂18mg"
+      ],
+      "interventions": [
+        {
+          "name": "TTYP01片剂18mg",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "TTYP01片预防急性高山病II期项目"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264262",
+      "plainSummary": "NMPA 公开登记：TTYP01片剂18mg；适应症：急性高山病。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264257",
+      "identifiers": {
+        "nmpa": "CTR20264257"
+      },
+      "briefTitle": "HSK47388（I）片用于治疗中重度斑块状银屑病患者的Ⅲ期临床研究",
+      "officialTitle": "HSK47388（I）片用于治疗中重度斑块状银屑病患者的Ⅲ期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "中重度斑块状银屑病"
+      ],
+      "keywords": [
+        "HSK47388片(I)"
+      ],
+      "interventions": [
+        {
+          "name": "HSK47388片(I)",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "HSK47388（I）片用于治疗中重度斑块状银屑病患者的Ⅲ期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE3",
+      "developmentStageLabel": "Ⅲ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264257",
+      "plainSummary": "NMPA 公开登记：HSK47388片(I)；适应症：中重度斑块状银屑病。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264252",
+      "identifiers": {
+        "nmpa": "CTR20264252"
+      },
+      "briefTitle": "一项在晚期或转移性实体瘤患者中的I期临床研究",
+      "officialTitle": "一项在晚期或转移性实体瘤患者中的I期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "晚期实体瘤"
+      ],
+      "keywords": [
+        "CUG279"
+      ],
+      "interventions": [
+        {
+          "name": "CUG279",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在晚期或转移性实体瘤患者中的I期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264252",
+      "plainSummary": "NMPA 公开登记：CUG279；适应症：晚期实体瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264248",
+      "identifiers": {
+        "nmpa": "CTR20264248"
+      },
+      "briefTitle": "一项在晚期或转移性实体瘤试验参与者中评估PT199与免疫检查点抑制剂和/或化疗联合治疗的安全性、耐受性、药代动力学和抗肿瘤活性的临床研究",
+      "officialTitle": "一项在晚期或转移性实体瘤试验参与者中评估PT199与免疫检查点抑制剂和/或化疗联合治疗的安全性、耐受性、药代动力学和抗肿瘤活性的临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "晚期或转移性实体瘤"
+      ],
+      "keywords": [
+        "PT199"
+      ],
+      "interventions": [
+        {
+          "name": "PT199",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在晚期或转移性实体瘤试验参与者中评估PT199与免疫检查点抑制剂和/或化疗联合治疗的安全性、耐受性、药代动力学和抗肿瘤活性的临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264248",
+      "plainSummary": "NMPA 公开登记：PT199；适应症：晚期或转移性实体瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264246",
+      "identifiers": {
+        "nmpa": "CTR20264246"
+      },
+      "briefTitle": "HRS-8046在实体瘤参与者中的安全性、耐受性、药代动力学的I期临床研究",
+      "officialTitle": "HRS-8046在实体瘤参与者中的安全性、耐受性、药代动力学的I期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "携带KRAS G12D突变的实体瘤"
+      ],
+      "keywords": [
+        "HRS-8046片"
+      ],
+      "interventions": [
+        {
+          "name": "HRS-8046片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "HRS-8046在实体瘤参与者中的安全性、耐受性、药代动力学的I期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264246",
+      "plainSummary": "NMPA 公开登记：HRS-8046片；适应症：携带KRAS G12D突变的实体瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264242",
+      "identifiers": {
+        "nmpa": "CTR20264242"
+      },
+      "briefTitle": "[14C]HS-10370在中国男性健康参与者体内的物质平衡研究",
+      "officialTitle": "[14C]HS-10370在中国男性健康参与者体内的物质平衡研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "非小细胞肺癌、直肠腺癌、胰腺癌"
+      ],
+      "keywords": [
+        "HS-10370片"
+      ],
+      "interventions": [
+        {
+          "name": "HS-10370片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "[14C]HS-10370在中国男性健康参与者体内的物质平衡研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264242",
+      "plainSummary": "NMPA 公开登记：HS-10370片；适应症：非小细胞肺癌、直肠腺癌、胰腺癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264241",
+      "identifiers": {
+        "nmpa": "CTR20264241"
+      },
+      "briefTitle": "一项在中国中度至重度化脓性汗腺炎成人研究参与者中评价比奇珠单抗有效性和安全性的研究",
+      "officialTitle": "一项在中国中度至重度化脓性汗腺炎成人研究参与者中评价比奇珠单抗有效性和安全性的研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "中度至重度化脓性汗腺炎"
+      ],
+      "keywords": [
+        "比奇珠单抗注射液"
+      ],
+      "interventions": [
+        {
+          "name": "比奇珠单抗注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在中国中度至重度化脓性汗腺炎成人研究参与者中评价比奇珠单抗有效性和安全性的研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264241",
+      "plainSummary": "NMPA 公开登记：比奇珠单抗注射液；适应症：中度至重度化脓性汗腺炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264238",
+      "identifiers": {
+        "nmpa": "CTR20264238"
+      },
+      "briefTitle": "一项 BG-92505 单药治疗或与其他抗肿瘤药物联合治疗用于晚期实体瘤患者的首次人体研究",
+      "officialTitle": "一项 BG-92505 单药治疗或与其他抗肿瘤药物联合治疗用于晚期实体瘤患者的首次人体研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "晚期实体瘤"
+      ],
+      "keywords": [
+        "BG-92505"
+      ],
+      "interventions": [
+        {
+          "name": "BG-92505",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项 BG-92505 单药治疗或与其他抗肿瘤药物联合治疗用于晚期实体瘤患者的首次人体研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264238",
+      "plainSummary": "NMPA 公开登记：BG-92505；适应症：晚期实体瘤。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
