@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-11T11:17:13Z",
-  "sourceProcessedAt": "2026-11-11T11:17:13Z",
+  "generatedAt": "2026-11-12T11:35:11Z",
+  "sourceProcessedAt": "2026-11-12T11:35:11Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 327,
+  "recordCount": 338,
   "records": [
     {
       "id": "CTR20260083",
@@ -11772,6 +11772,402 @@
       "developmentStageLabel": "阶段未公开",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264238",
       "plainSummary": "NMPA 公开登记：BG-92505；适应症：晚期实体瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264326",
+      "identifiers": {
+        "nmpa": "CTR20264326"
+      },
+      "briefTitle": "一项在原发性IgA肾病成人患者中评估zigakibart + 阿曲生坦的疗效和安全性的研究",
+      "officialTitle": "一项在原发性IgA肾病成人患者中评估zigakibart + 阿曲生坦的疗效和安全性的研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "原发性IgA肾病（IgAN）"
+      ],
+      "keywords": [
+        "FUB523注射液"
+      ],
+      "interventions": [
+        {
+          "name": "FUB523注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在原发性IgA肾病成人患者中评估zigakibart + 阿曲生坦的疗效和安全性的研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264326",
+      "plainSummary": "NMPA 公开登记：FUB523注射液；适应症：原发性IgA肾病（IgAN）。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264323",
+      "identifiers": {
+        "nmpa": "CTR20264323"
+      },
+      "briefTitle": "KT502 治疗成年类风湿关节炎的 I 期临床研究",
+      "officialTitle": "KT502 治疗成年类风湿关节炎的 I 期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "类风湿关节炎"
+      ],
+      "keywords": [
+        "KT502 注射液"
+      ],
+      "interventions": [
+        {
+          "name": "KT502 注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "KT502 治疗成年类风湿关节炎的 I 期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264323",
+      "plainSummary": "NMPA 公开登记：KT502 注射液；适应症：类风湿关节炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264317",
+      "identifiers": {
+        "nmpa": "CTR20264317"
+      },
+      "briefTitle": "一项在不合并2型糖尿病的肥胖成人参与者中评价LY900043的有效性和安全性的3期研究（AMPLIFY-1）",
+      "officialTitle": "一项在不合并2型糖尿病的肥胖成人参与者中评价LY900043的有效性和安全性的3期研究（AMPLIFY-1）",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "肥胖"
+      ],
+      "keywords": [
+        "LY900043注射液"
+      ],
+      "interventions": [
+        {
+          "name": "LY900043注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在不合并2型糖尿病的肥胖成人参与者中评价LY900043的有效性和安全性的3期研究（AMPLIFY-1）"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE3",
+      "developmentStageLabel": "Ⅲ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264317",
+      "plainSummary": "NMPA 公开登记：LY900043注射液；适应症：肥胖。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264315",
+      "identifiers": {
+        "nmpa": "CTR20264315"
+      },
+      "briefTitle": "多替诺雷片生物等效性试验",
+      "officialTitle": "多替诺雷片生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "适用于痛风伴高尿酸血症患者"
+      ],
+      "keywords": [
+        "多替诺雷片"
+      ],
+      "interventions": [
+        {
+          "name": "多替诺雷片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "多替诺雷片生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264315",
+      "plainSummary": "NMPA 公开登记：多替诺雷片；适应症：适用于痛风伴高尿酸血症患者。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264312",
+      "identifiers": {
+        "nmpa": "CTR20264312"
+      },
+      "briefTitle": "评估SIM0725注射液在健康试验参与者中皮下注射给药安全性、耐受性和药代动力学的单中心、随机、双盲、安慰剂对照、剂量递增I期临床试验",
+      "officialTitle": "评估SIM0725注射液在健康试验参与者中皮下注射给药安全性、耐受性和药代动力学的单中心、随机、双盲、安慰剂对照、剂量递增I期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "白癜风"
+      ],
+      "keywords": [
+        "SIM0725注射液"
+      ],
+      "interventions": [
+        {
+          "name": "SIM0725注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评估SIM0725注射液在健康试验参与者中皮下注射给药安全性、耐受性和药代动力学的单中心、随机、双盲、安慰剂对照、剂量递增I期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264312",
+      "plainSummary": "NMPA 公开登记：SIM0725注射液；适应症：白癜风。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264307",
+      "identifiers": {
+        "nmpa": "CTR20264307"
+      },
+      "briefTitle": "玛巴洛沙韦片空腹人体生物等效性试验",
+      "officialTitle": "玛巴洛沙韦片空腹人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品适用于既往健康的成人和5岁及以上儿童单纯性甲型和乙型流感患者，或存在流感相关并发症高风险的成人和12岁及以上儿童流感患者。"
+      ],
+      "keywords": [
+        "玛巴洛沙韦片"
+      ],
+      "interventions": [
+        {
+          "name": "玛巴洛沙韦片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "玛巴洛沙韦片空腹人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264307",
+      "plainSummary": "NMPA 公开登记：玛巴洛沙韦片；适应症：本品适用于既往健康的成人和5岁及以上儿童单纯性甲型和乙型流感患者，或存在流感相关并发症高风险的成人和12岁及以上儿童流感患者。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264289",
+      "identifiers": {
+        "nmpa": "CTR20264289"
+      },
+      "briefTitle": "一项在健康试验参与者中评价HW281171片单/多次口服给药的I期临床试验",
+      "officialTitle": "一项在健康试验参与者中评价HW281171片单/多次口服给药的I期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "拟用于慢性荨麻疹的治疗"
+      ],
+      "keywords": [
+        "HW281171片"
+      ],
+      "interventions": [
+        {
+          "name": "HW281171片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在健康试验参与者中评价HW281171片单/多次口服给药的I期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264289",
+      "plainSummary": "NMPA 公开登记：HW281171片；适应症：拟用于慢性荨麻疹的治疗。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264287",
+      "identifiers": {
+        "nmpa": "CTR20264287"
+      },
+      "briefTitle": "考察冻干鼻喷流感减毒活疫苗在3周岁及以上健康人群中接种安全性和有效性的随机对照的Ⅰ期临床试验",
+      "officialTitle": "考察冻干鼻喷流感减毒活疫苗在3周岁及以上健康人群中接种安全性和有效性的随机对照的Ⅰ期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "接种本疫苗后，可刺激机体产生流感病毒的免疫力，用于预防由疫苗相关型别的流感病毒引起的流行性感冒"
+      ],
+      "keywords": [
+        "冻干鼻喷流感减毒活疫苗"
+      ],
+      "interventions": [
+        {
+          "name": "冻干鼻喷流感减毒活疫苗",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "考察冻干鼻喷流感减毒活疫苗在3周岁及以上健康人群中接种安全性和有效性的随机对照的Ⅰ期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE1",
+      "developmentStageLabel": "Ⅰ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264287",
+      "plainSummary": "NMPA 公开登记：冻干鼻喷流感减毒活疫苗；适应症：接种本疫苗后，可刺激机体产生流感病毒的免疫力，用于预防由疫苗相关型别的流感病毒引起的流行性感冒。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264277",
+      "identifiers": {
+        "nmpa": "CTR20264277"
+      },
+      "briefTitle": "评估受试制剂塞来昔布胶囊（规格：0.2 g）与参比制剂塞来昔布胶囊（西乐葆®，规格：0.2 g）在健康成年试验参与者空腹状态下的单中心、开放、随机、单剂量、两周期、两序列、交叉生物等效性试验",
+      "officialTitle": "评估受试制剂塞来昔布胶囊（规格：0.2 g）与参比制剂塞来昔布胶囊（西乐葆®，规格：0.2 g）在健康成年试验参与者空腹状态下的单中心、开放、随机、单剂量、两周期、两序列、交叉生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "1） 用于缓解骨关节炎（OA）的症状和体征。 2） 用于缓解成人类风湿关节炎（RA）的症状和体征。 3） 用于治疗成人急性疼痛（AP）。 4） 用于缓解强直性脊柱炎的症状和体征。"
+      ],
+      "keywords": [
+        "塞来昔布胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "塞来昔布胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评估受试制剂塞来昔布胶囊（规格：0.2 g）与参比制剂塞来昔布胶囊（西乐葆®，规格：0.2 g）在健康成年试验参与者空腹状态下的单中心、开放、随机、单剂量、两周期、两序列、交叉生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264277",
+      "plainSummary": "NMPA 公开登记：塞来昔布胶囊；适应症：1） 用于缓解骨关节炎（OA）的症状和体征。 2） 用于缓解成人类风湿关节炎（RA）的症状和体征。 3） 用于治疗成人急性疼痛（AP）。 4） 用于缓解强直性脊柱炎的症状和体征。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264268",
+      "identifiers": {
+        "nmpa": "CTR20264268"
+      },
+      "briefTitle": "HW201877胶囊治疗中重度活动性炎症性肠病IIa期临床研究",
+      "officialTitle": "HW201877胶囊治疗中重度活动性炎症性肠病IIa期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "中重度活动性炎症性肠病"
+      ],
+      "keywords": [
+        "HW201877胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "HW201877胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "HW201877胶囊治疗中重度活动性炎症性肠病IIa期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264268",
+      "plainSummary": "NMPA 公开登记：HW201877胶囊；适应症：中重度活动性炎症性肠病。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264266",
+      "identifiers": {
+        "nmpa": "CTR20264266"
+      },
+      "briefTitle": "AND017胶囊单次给药在中度肝功能不全和肝功能正常试验参与者中的药代动力学研究",
+      "officialTitle": "AND017胶囊单次给药在中度肝功能不全和肝功能正常试验参与者中的药代动力学研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "贫血"
+      ],
+      "keywords": [
+        "AND017胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "AND017胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "AND017胶囊单次给药在中度肝功能不全和肝功能正常试验参与者中的药代动力学研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264266",
+      "plainSummary": "NMPA 公开登记：AND017胶囊；适应症：贫血。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
