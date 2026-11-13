@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-12T11:35:11Z",
-  "sourceProcessedAt": "2026-11-12T11:35:11Z",
+  "generatedAt": "2026-11-13T11:19:55Z",
+  "sourceProcessedAt": "2026-11-13T11:19:55Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 338,
+  "recordCount": 346,
   "records": [
     {
       "id": "CTR20260083",
@@ -12168,6 +12168,294 @@
       "developmentStageLabel": "PK 药代动力学试验",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264266",
       "plainSummary": "NMPA 公开登记：AND017胶囊；适应症：贫血。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264353",
+      "identifiers": {
+        "nmpa": "CTR20264353"
+      },
+      "briefTitle": "醋酸甲地孕酮口服混悬液人体生物等效性研究",
+      "officialTitle": "醋酸甲地孕酮口服混悬液人体生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于治疗获得性免疫缺陷综合征患者的厌食症，及获得性免疫缺陷综合征患者及癌症患者恶病质引起的体重明显减轻"
+      ],
+      "keywords": [
+        "醋酸甲地孕酮口服混悬液"
+      ],
+      "interventions": [
+        {
+          "name": "醋酸甲地孕酮口服混悬液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "醋酸甲地孕酮口服混悬液人体生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264353",
+      "plainSummary": "NMPA 公开登记：醋酸甲地孕酮口服混悬液；适应症：用于治疗获得性免疫缺陷综合征患者的厌食症，及获得性免疫缺陷综合征患者及癌症患者恶病质引起的体重明显减轻。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264349",
+      "identifiers": {
+        "nmpa": "CTR20264349"
+      },
+      "briefTitle": "注射用HCRB001在健康成年受试者中的I期临床研究",
+      "officialTitle": "注射用HCRB001在健康成年受试者中的I期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "拟用于预防甲型和乙型流行性感冒"
+      ],
+      "keywords": [
+        "注射用HCRB001"
+      ],
+      "interventions": [
+        {
+          "name": "注射用HCRB001",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "注射用HCRB001在健康成年受试者中的I期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264349",
+      "plainSummary": "NMPA 公开登记：注射用HCRB001；适应症：拟用于预防甲型和乙型流行性感冒。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264343",
+      "identifiers": {
+        "nmpa": "CTR20264343"
+      },
+      "briefTitle": "在FAP阳性实体瘤成人患者中评价LY4337713放射性配体治疗的1a/1b期研究（FiREBOLT）",
+      "officialTitle": "在FAP阳性实体瘤成人患者中评价LY4337713放射性配体治疗的1a/1b期研究（FiREBOLT）",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "FAP阳性实体瘤"
+      ],
+      "keywords": [
+        "NA"
+      ],
+      "interventions": [
+        {
+          "name": "NA",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "在FAP阳性实体瘤成人患者中评价LY4337713放射性配体治疗的1a/1b期研究（FiREBOLT）"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264343",
+      "plainSummary": "NMPA 公开登记：NA；适应症：FAP阳性实体瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264342",
+      "identifiers": {
+        "nmpa": "CTR20264342"
+      },
+      "briefTitle": "HBW-3220胶囊治疗中枢神经系统淋巴瘤的IIa期研究",
+      "officialTitle": "HBW-3220胶囊治疗中枢神经系统淋巴瘤的IIa期研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "中枢神经系统淋巴瘤"
+      ],
+      "keywords": [
+        "HBW-3220胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "HBW-3220胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "HBW-3220胶囊治疗中枢神经系统淋巴瘤的IIa期研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264342",
+      "plainSummary": "NMPA 公开登记：HBW-3220胶囊；适应症：中枢神经系统淋巴瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264337",
+      "identifiers": {
+        "nmpa": "CTR20264337"
+      },
+      "briefTitle": "富马酸比索洛尔片在餐后条件下的人体生物等效性试验",
+      "officialTitle": "富马酸比索洛尔片在餐后条件下的人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "高血压、冠心病（心绞痛）。 伴有左心室收缩功能减退（射血分数≤35%）的慢性稳定性心力衰竭。使用本品时需遵医嘱接受ACE抑制剂、利尿剂和选择性使用强心甙类药物治疗。"
+      ],
+      "keywords": [
+        "富马酸比索洛尔片"
+      ],
+      "interventions": [
+        {
+          "name": "富马酸比索洛尔片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "富马酸比索洛尔片在餐后条件下的人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264337",
+      "plainSummary": "NMPA 公开登记：富马酸比索洛尔片；适应症：高血压、冠心病（心绞痛）。 伴有左心室收缩功能减退（射血分数≤35%）的慢性稳定性心力衰竭。使用本品时需遵医嘱接受ACE抑制剂、利尿剂和选择性使用强心甙类药物治疗。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264314",
+      "identifiers": {
+        "nmpa": "CTR20264314"
+      },
+      "briefTitle": "缬沙坦氨氯地平片(Ⅱ)在健康试验参与者中的生物等效性试验",
+      "officialTitle": "缬沙坦氨氯地平片(Ⅱ)在健康试验参与者中的生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "适用于治疗高血压： 单一疗法不能充分控制血压的患者； 作为初始疗法，用于可能需要多种药物才能达到降压目标的患者。"
+      ],
+      "keywords": [
+        "缬沙坦氨氯地平片（II）"
+      ],
+      "interventions": [
+        {
+          "name": "缬沙坦氨氯地平片（II）",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "缬沙坦氨氯地平片(Ⅱ)在健康试验参与者中的生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264314",
+      "plainSummary": "NMPA 公开登记：缬沙坦氨氯地平片（II）；适应症：适用于治疗高血压： 单一疗法不能充分控制血压的患者； 作为初始疗法，用于可能需要多种药物才能达到降压目标的患者。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264309",
+      "identifiers": {
+        "nmpa": "CTR20264309"
+      },
+      "briefTitle": "WYH-049片（18 mg）健康人体生物等效性研究",
+      "officialTitle": "WYH-049片（18 mg）健康人体生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于治疗6岁及以上发作性睡病患者的日间过度嗜睡（EDS）或猝倒。"
+      ],
+      "keywords": [
+        "WYH-049片"
+      ],
+      "interventions": [
+        {
+          "name": "WYH-049片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "WYH-049片（18 mg）健康人体生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264309",
+      "plainSummary": "NMPA 公开登记：WYH-049片；适应症：用于治疗6岁及以上发作性睡病患者的日间过度嗜睡（EDS）或猝倒。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264291",
+      "identifiers": {
+        "nmpa": "CTR20264291"
+      },
+      "briefTitle": "呫诺美林曲司氯铵胶囊空腹人体生物等效性研究",
+      "officialTitle": "呫诺美林曲司氯铵胶囊空腹人体生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "适用于治疗成人精神分裂症。"
+      ],
+      "keywords": [
+        "呫诺美林曲司氯铵胶囊（Ⅰ）"
+      ],
+      "interventions": [
+        {
+          "name": "呫诺美林曲司氯铵胶囊（Ⅰ）",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "呫诺美林曲司氯铵胶囊空腹人体生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264291",
+      "plainSummary": "NMPA 公开登记：呫诺美林曲司氯铵胶囊（Ⅰ）；适应症：适用于治疗成人精神分裂症。。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
