@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-15T11:18:42Z",
-  "sourceProcessedAt": "2026-11-15T11:18:42Z",
+  "generatedAt": "2026-11-16T11:50:53Z",
+  "sourceProcessedAt": "2026-11-16T11:50:53Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 346,
+  "recordCount": 353,
   "records": [
     {
       "id": "CTR20260083",
@@ -12456,6 +12456,258 @@
       "developmentStageLabel": "BE 生物等效性试验",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264291",
       "plainSummary": "NMPA 公开登记：呫诺美林曲司氯铵胶囊（Ⅰ）；适应症：适用于治疗成人精神分裂症。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264366",
+      "identifiers": {
+        "nmpa": "CTR20264366"
+      },
+      "briefTitle": "苯磺酸美洛加巴林片生物等效性试验",
+      "officialTitle": "苯磺酸美洛加巴林片生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于治疗成人糖尿病性周围神经病理性疼痛"
+      ],
+      "keywords": [
+        "苯磺酸美洛加巴林片"
+      ],
+      "interventions": [
+        {
+          "name": "苯磺酸美洛加巴林片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "苯磺酸美洛加巴林片生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264366",
+      "plainSummary": "NMPA 公开登记：苯磺酸美洛加巴林片；适应症：用于治疗成人糖尿病性周围神经病理性疼痛。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264362",
+      "identifiers": {
+        "nmpa": "CTR20264362"
+      },
+      "briefTitle": "评估RBD4059在中国健康参与者中的药代动力学、药效学、安全性和耐受性的I期临床研究",
+      "officialTitle": "评估RBD4059在中国健康参与者中的药代动力学、药效学、安全性和耐受性的I期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "心房颤动患者的卒中预防"
+      ],
+      "keywords": [
+        "RBD4059注射液"
+      ],
+      "interventions": [
+        {
+          "name": "RBD4059注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评估RBD4059在中国健康参与者中的药代动力学、药效学、安全性和耐受性的I期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264362",
+      "plainSummary": "NMPA 公开登记：RBD4059注射液；适应症：心房颤动患者的卒中预防。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264356",
+      "identifiers": {
+        "nmpa": "CTR20264356"
+      },
+      "briefTitle": "一项在晚期肝癌患者中评估自体肿瘤浸润淋巴细胞注射液的安全性、耐受性、有效性的单臂、开放、单次给药剂量递增及扩展队列的I/IIa期临床研究",
+      "officialTitle": "一项在晚期肝癌患者中评估自体肿瘤浸润淋巴细胞注射液的安全性、耐受性、有效性的单臂、开放、单次给药剂量递增及扩展队列的I/IIa期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "肝细胞癌"
+      ],
+      "keywords": [
+        "自体肿瘤浸润淋巴细胞注射液"
+      ],
+      "interventions": [
+        {
+          "name": "自体肿瘤浸润淋巴细胞注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在晚期肝癌患者中评估自体肿瘤浸润淋巴细胞注射液的安全性、耐受性、有效性的单臂、开放、单次给药剂量递增及扩展队列的I/IIa期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE1_PHASE2",
+      "developmentStageLabel": "Ⅰ/Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264356",
+      "plainSummary": "NMPA 公开登记：自体肿瘤浸润淋巴细胞注射液；适应症：肝细胞癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264339",
+      "identifiers": {
+        "nmpa": "CTR20264339"
+      },
+      "briefTitle": "散热止咳颗粒Ⅱ期临床试验",
+      "officialTitle": "散热止咳颗粒Ⅱ期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "急性支气管炎（热性乃孜来型）"
+      ],
+      "keywords": [
+        "散热止咳颗粒"
+      ],
+      "interventions": [
+        {
+          "name": "散热止咳颗粒",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "散热止咳颗粒Ⅱ期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264339",
+      "plainSummary": "NMPA 公开登记：散热止咳颗粒；适应症：急性支气管炎（热性乃孜来型）。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264334",
+      "identifiers": {
+        "nmpa": "CTR20264334"
+      },
+      "briefTitle": "一项评价KH607片在健康老年和非老年试验参与者中的药代动力学和安全性的开放、平行、单次给药的I期临床研究",
+      "officialTitle": "一项评价KH607片在健康老年和非老年试验参与者中的药代动力学和安全性的开放、平行、单次给药的I期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "抑郁症"
+      ],
+      "keywords": [
+        "KH607片"
+      ],
+      "interventions": [
+        {
+          "name": "KH607片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项评价KH607片在健康老年和非老年试验参与者中的药代动力学和安全性的开放、平行、单次给药的I期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264334",
+      "plainSummary": "NMPA 公开登记：KH607片；适应症：抑郁症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264331",
+      "identifiers": {
+        "nmpa": "CTR20264331"
+      },
+      "briefTitle": "安健宁 ®（阿达木单抗注射液）治疗非感染性葡萄膜炎的上市后研究",
+      "officialTitle": "安健宁 ®（阿达木单抗注射液）治疗非感染性葡萄膜炎的上市后研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "非感染性葡萄膜炎"
+      ],
+      "keywords": [
+        "阿达木单抗注射液"
+      ],
+      "interventions": [
+        {
+          "name": "阿达木单抗注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "安健宁 ®（阿达木单抗注射液）治疗非感染性葡萄膜炎的上市后研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264331",
+      "plainSummary": "NMPA 公开登记：阿达木单抗注射液；适应症：非感染性葡萄膜炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264311",
+      "identifiers": {
+        "nmpa": "CTR20264311"
+      },
+      "briefTitle": "评价重组B群脑膜炎球菌疫苗（大肠杆菌）在3月龄及以上人群接种的安全性、耐受 性及初步免疫原性的随机、盲法、安慰剂对照的Ⅰ期临床试验",
+      "officialTitle": "评价重组B群脑膜炎球菌疫苗（大肠杆菌）在3月龄及以上人群接种的安全性、耐受 性及初步免疫原性的随机、盲法、安慰剂对照的Ⅰ期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于预防B群脑膜炎球菌引起的流行性脑脊髓膜炎"
+      ],
+      "keywords": [
+        "重组B群脑膜炎球菌疫苗（大肠杆菌）"
+      ],
+      "interventions": [
+        {
+          "name": "重组B群脑膜炎球菌疫苗（大肠杆菌）",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价重组B群脑膜炎球菌疫苗（大肠杆菌）在3月龄及以上人群接种的安全性、耐受 性及初步免疫原性的随机、盲法、安慰剂对照的Ⅰ期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE1",
+      "developmentStageLabel": "Ⅰ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264311",
+      "plainSummary": "NMPA 公开登记：重组B群脑膜炎球菌疫苗（大肠杆菌）；适应症：用于预防B群脑膜炎球菌引起的流行性脑脊髓膜炎。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
