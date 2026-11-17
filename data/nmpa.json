@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-16T11:50:53Z",
-  "sourceProcessedAt": "2026-11-16T11:50:53Z",
+  "generatedAt": "2026-11-17T12:11:57Z",
+  "sourceProcessedAt": "2026-11-17T12:11:57Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 353,
+  "recordCount": 357,
   "records": [
     {
       "id": "CTR20260083",
@@ -12708,6 +12708,150 @@
       "developmentStageLabel": "Ⅰ期",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264311",
       "plainSummary": "NMPA 公开登记：重组B群脑膜炎球菌疫苗（大肠杆菌）；适应症：用于预防B群脑膜炎球菌引起的流行性脑脊髓膜炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264372",
+      "identifiers": {
+        "nmpa": "CTR20264372"
+      },
+      "briefTitle": "布洛芬缓释胶囊人体生物等效性研究",
+      "officialTitle": "布洛芬缓释胶囊人体生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "适用于缓解轻至中度疼痛如头痛、关节痛、偏头痛、牙痛、肌肉痛、神经痛、痛经。也用于普通感冒或流行性感冒引起的发热"
+      ],
+      "keywords": [
+        "布洛芬缓释胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "布洛芬缓释胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "布洛芬缓释胶囊人体生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264372",
+      "plainSummary": "NMPA 公开登记：布洛芬缓释胶囊；适应症：适用于缓解轻至中度疼痛如头痛、关节痛、偏头痛、牙痛、肌肉痛、神经痛、痛经。也用于普通感冒或流行性感冒引起的发热。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264340",
+      "identifiers": {
+        "nmpa": "CTR20264340"
+      },
+      "briefTitle": "艾托格列净片人体生物等效性研究",
+      "officialTitle": "艾托格列净片人体生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "在单独使用盐酸二甲双胍血糖控制不佳时，本品可与盐酸二甲双胍联合使用，配合饮食和运动改善成人2型糖尿病患者的血糖控制。 用药限制：本品不建议用于1型糖尿病患者或者糖尿病酮症酸中毒的治疗。"
+      ],
+      "keywords": [
+        "艾托格列净片"
+      ],
+      "interventions": [
+        {
+          "name": "艾托格列净片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "艾托格列净片人体生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264340",
+      "plainSummary": "NMPA 公开登记：艾托格列净片；适应症：在单独使用盐酸二甲双胍血糖控制不佳时，本品可与盐酸二甲双胍联合使用，配合饮食和运动改善成人2型糖尿病患者的血糖控制。 用药限制：本品不建议用于1型糖尿病患者或者糖尿病酮症酸中毒的治疗。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264330",
+      "identifiers": {
+        "nmpa": "CTR20264330"
+      },
+      "briefTitle": "HSK55879片在超重/肥胖试验参与者中的II期临床研究",
+      "officialTitle": "HSK55879片在超重/肥胖试验参与者中的II期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "超重和肥胖患者的长期体重管理"
+      ],
+      "keywords": [
+        "HSK55879片"
+      ],
+      "interventions": [
+        {
+          "name": "HSK55879片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "HSK55879片在超重/肥胖试验参与者中的II期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264330",
+      "plainSummary": "NMPA 公开登记：HSK55879片；适应症：超重和肥胖患者的长期体重管理。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264319",
+      "identifiers": {
+        "nmpa": "CTR20264319"
+      },
+      "briefTitle": "评价FXS6837胶囊在不同程度肝功能不全和肝功能正常参与者中的研究",
+      "officialTitle": "评价FXS6837胶囊在不同程度肝功能不全和肝功能正常参与者中的研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "IgA肾病等补体异常激活相关的肾小球疾病"
+      ],
+      "keywords": [
+        "FXS6837胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "FXS6837胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价FXS6837胶囊在不同程度肝功能不全和肝功能正常参与者中的研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264319",
+      "plainSummary": "NMPA 公开登记：FXS6837胶囊；适应症：IgA肾病等补体异常激活相关的肾小球疾病。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
