@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-17T12:11:57Z",
-  "sourceProcessedAt": "2026-11-17T12:11:57Z",
+  "generatedAt": "2026-11-18T12:00:15Z",
+  "sourceProcessedAt": "2026-11-18T12:00:15Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 357,
+  "recordCount": 366,
   "records": [
     {
       "id": "CTR20260083",
@@ -12852,6 +12852,330 @@
       "developmentStageLabel": "阶段未公开",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264319",
       "plainSummary": "NMPA 公开登记：FXS6837胶囊；适应症：IgA肾病等补体异常激活相关的肾小球疾病。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264395",
+      "identifiers": {
+        "nmpa": "CTR20264395"
+      },
+      "briefTitle": "注射用WE010人体安全性、耐受性和药代动力学比较研究",
+      "officialTitle": "注射用WE010人体安全性、耐受性和药代动力学比较研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "预防和治疗动脉瘤性蛛网膜下腔出血后脑血管痉挛引起的缺血性神经损伤。"
+      ],
+      "keywords": [
+        "注射用WE010"
+      ],
+      "interventions": [
+        {
+          "name": "注射用WE010",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "注射用WE010人体安全性、耐受性和药代动力学比较研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264395",
+      "plainSummary": "NMPA 公开登记：注射用WE010；适应症：预防和治疗动脉瘤性蛛网膜下腔出血后脑血管痉挛引起的缺血性神经损伤。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264390",
+      "identifiers": {
+        "nmpa": "CTR20264390"
+      },
+      "briefTitle": "健康成年男性试验参与者单次口服[14C]LPM526000133富马酸盐的物质平衡研究",
+      "officialTitle": "健康成年男性试验参与者单次口服[14C]LPM526000133富马酸盐的物质平衡研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于阿尔茨海默病精神病性障碍（ADP）相关的幻觉和妄想的治疗。"
+      ],
+      "keywords": [
+        "[14C]LPM526000133富马酸盐"
+      ],
+      "interventions": [
+        {
+          "name": "[14C]LPM526000133富马酸盐",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "健康成年男性试验参与者单次口服[14C]LPM526000133富马酸盐的物质平衡研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264390",
+      "plainSummary": "NMPA 公开登记：[14C]LPM526000133富马酸盐；适应症：用于阿尔茨海默病精神病性障碍（ADP）相关的幻觉和妄想的治疗。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264389",
+      "identifiers": {
+        "nmpa": "CTR20264389"
+      },
+      "briefTitle": "健康成年男性试验参与者单次口服[14C]LPM526000133富马酸盐的物质平衡研究",
+      "officialTitle": "健康成年男性试验参与者单次口服[14C]LPM526000133富马酸盐的物质平衡研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "抑郁症"
+      ],
+      "keywords": [
+        "[14C]LPM526000133富马酸盐"
+      ],
+      "interventions": [
+        {
+          "name": "[14C]LPM526000133富马酸盐",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "健康成年男性试验参与者单次口服[14C]LPM526000133富马酸盐的物质平衡研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264389",
+      "plainSummary": "NMPA 公开登记：[14C]LPM526000133富马酸盐；适应症：抑郁症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264387",
+      "identifiers": {
+        "nmpa": "CTR20264387"
+      },
+      "briefTitle": "健康成年男性试验参与者单次口服[14C]LPM526000133富马酸盐的物质平衡研究",
+      "officialTitle": "健康成年男性试验参与者单次口服[14C]LPM526000133富马酸盐的物质平衡研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于精神分裂症阴性症状（NSS）症状的治疗。"
+      ],
+      "keywords": [
+        "[14C]LPM526000133富马酸盐"
+      ],
+      "interventions": [
+        {
+          "name": "[14C]LPM526000133富马酸盐",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "健康成年男性试验参与者单次口服[14C]LPM526000133富马酸盐的物质平衡研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264387",
+      "plainSummary": "NMPA 公开登记：[14C]LPM526000133富马酸盐；适应症：用于精神分裂症阴性症状（NSS）症状的治疗。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264385",
+      "identifiers": {
+        "nmpa": "CTR20264385"
+      },
+      "briefTitle": "柑橘黄酮片人体生物等效性试验",
+      "officialTitle": "柑橘黄酮片人体生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "治疗静脉淋巴功能不全相关的各种症状（腿部沉重，疼痛，晨起酸胀不适感）；治疗急性痔发作有关的各种症状。"
+      ],
+      "keywords": [
+        "柑橘黄酮片"
+      ],
+      "interventions": [
+        {
+          "name": "柑橘黄酮片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "柑橘黄酮片人体生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264385",
+      "plainSummary": "NMPA 公开登记：柑橘黄酮片；适应症：治疗静脉淋巴功能不全相关的各种症状（腿部沉重，疼痛，晨起酸胀不适感）；治疗急性痔发作有关的各种症状。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264384",
+      "identifiers": {
+        "nmpa": "CTR20264384"
+      },
+      "briefTitle": "阿莫西林颗粒在健康试验参与者中的生物等效性试验",
+      "officialTitle": "阿莫西林颗粒在健康试验参与者中的生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于敏感菌（不产β-内酰胺酶菌株）所致的成人与儿童的下列感染： 溶血链球菌、肺炎链球菌、葡萄球菌或流感嗜血杆菌所致中耳炎、鼻窦炎、咽炎、扁桃体炎等上呼吸道感染。大肠埃希菌、奇异变形杆菌或粪肠球菌所致的泌尿生殖道感染。 溶血链球菌、葡萄球菌或大肠埃希菌所致的皮肤软组织感染。 溶血链球菌、肺炎链球菌、葡萄球菌或流感嗜血杆菌所致急性支气管炎、肺炎等下呼吸道感染。急性单纯性淋病。本品尚可用于治疗伤寒、伤寒带菌者及钩端螺旋体病；阿莫西林亦可与克拉霉素、兰索拉唑三联用药根除胃、十二指肠幽门螺杆菌，降低消化道溃疡复发率。"
+      ],
+      "keywords": [
+        "阿莫西林颗粒"
+      ],
+      "interventions": [
+        {
+          "name": "阿莫西林颗粒",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "阿莫西林颗粒在健康试验参与者中的生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264384",
+      "plainSummary": "NMPA 公开登记：阿莫西林颗粒；适应症：用于敏感菌（不产β-内酰胺酶菌株）所致的成人与儿童的下列感染： 溶血链球菌、肺炎链球菌、葡萄球菌或流感嗜血杆菌所致中耳炎、鼻窦炎、咽炎、扁桃体炎等上呼吸道感染。大肠埃希菌、奇异变形杆菌或粪肠球菌所致的泌尿生殖道感染。 溶血链球菌、葡萄球菌或大肠埃希菌所致的皮肤软组织感染。 溶血链球菌、肺炎链球菌、葡萄球菌或流感嗜血杆菌所致急性支气管炎、肺炎等下呼吸道感染。急性单纯性淋病。本品尚可用于治疗伤寒、伤寒带菌者及钩端螺旋体病；阿莫西林亦可与克拉霉素、兰索拉唑三联用药根除胃、十二指肠幽门螺杆菌，降低消化道溃疡复发率。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264381",
+      "identifiers": {
+        "nmpa": "CTR20264381"
+      },
+      "briefTitle": "赛罗司群联合哌柏西利对比氟维司群联合哌柏西利在内分泌治疗后复发的雌激素受体阳性/人表皮生长因子受体2阴性的局部晚期或转移性乳腺癌的随机、开放、多中心III期试验",
+      "officialTitle": "赛罗司群联合哌柏西利对比氟维司群联合哌柏西利在内分泌治疗后复发的雌激素受体阳性/人表皮生长因子受体2阴性的局部晚期或转移性乳腺癌的随机、开放、多中心III期试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "ER+/Her2-局部晚期或转移性乳腺癌"
+      ],
+      "keywords": [
+        "SIM0270胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "SIM0270胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "赛罗司群联合哌柏西利对比氟维司群联合哌柏西利在内分泌治疗后复发的雌激素受体阳性/人表皮生长因子受体2阴性的局部晚期或转移性乳腺癌的随机、开放、多中心III期试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE3",
+      "developmentStageLabel": "Ⅲ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264381",
+      "plainSummary": "NMPA 公开登记：SIM0270胶囊；适应症：ER+/Her2-局部晚期或转移性乳腺癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264377",
+      "identifiers": {
+        "nmpa": "CTR20264377"
+      },
+      "briefTitle": "评价SYS6043单药或SYS6043联合PD-1/VEGF双抗±化疗治疗晚期实体瘤患者的I/II期临床研究",
+      "officialTitle": "评价SYS6043单药或SYS6043联合PD-1/VEGF双抗±化疗治疗晚期实体瘤患者的I/II期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "晚期实体瘤"
+      ],
+      "keywords": [
+        "SYS6043"
+      ],
+      "interventions": [
+        {
+          "name": "SYS6043",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价SYS6043单药或SYS6043联合PD-1/VEGF双抗±化疗治疗晚期实体瘤患者的I/II期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE1_PHASE2",
+      "developmentStageLabel": "Ⅰ/Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264377",
+      "plainSummary": "NMPA 公开登记：SYS6043；适应症：晚期实体瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264352",
+      "identifiers": {
+        "nmpa": "CTR20264352"
+      },
+      "briefTitle": "一项评估 ARGX-121 皮下给药用于治疗原发性 IgA 肾病的II 期研究",
+      "officialTitle": "一项评估 ARGX-121 皮下给药用于治疗原发性 IgA 肾病的II 期研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "原发性 IgA 肾病"
+      ],
+      "keywords": [
+        "ARGX-121注射液"
+      ],
+      "interventions": [
+        {
+          "name": "ARGX-121注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项评估 ARGX-121 皮下给药用于治疗原发性 IgA 肾病的II 期研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264352",
+      "plainSummary": "NMPA 公开登记：ARGX-121注射液；适应症：原发性 IgA 肾病。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
