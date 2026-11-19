@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-18T12:00:15Z",
-  "sourceProcessedAt": "2026-11-18T12:00:15Z",
+  "generatedAt": "2026-11-19T11:57:02Z",
+  "sourceProcessedAt": "2026-11-19T11:57:02Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 366,
+  "recordCount": 373,
   "records": [
     {
       "id": "CTR20260083",
@@ -13176,6 +13176,258 @@
       "developmentStageLabel": "阶段未公开",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264352",
       "plainSummary": "NMPA 公开登记：ARGX-121注射液；适应症：原发性 IgA 肾病。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264412",
+      "identifiers": {
+        "nmpa": "CTR20264412"
+      },
+      "briefTitle": "一项在常年性过敏性鼻炎成人和青少年参与者中评估lebrikizumab的有效性和安全性的研究",
+      "officialTitle": "一项在常年性过敏性鼻炎成人和青少年参与者中评估lebrikizumab的有效性和安全性的研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "常年性过敏性鼻炎"
+      ],
+      "keywords": [
+        "Lebrikizumab注射液"
+      ],
+      "interventions": [
+        {
+          "name": "Lebrikizumab注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在常年性过敏性鼻炎成人和青少年参与者中评估lebrikizumab的有效性和安全性的研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264412",
+      "plainSummary": "NMPA 公开登记：Lebrikizumab注射液；适应症：常年性过敏性鼻炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264398",
+      "identifiers": {
+        "nmpa": "CTR20264398"
+      },
+      "briefTitle": "评价AST-001治疗局部晚期或转移性胆道恶性肿瘤的有效性和安全性的单臂、开放、多中心2期临床研究",
+      "officialTitle": "评价AST-001治疗局部晚期或转移性胆道恶性肿瘤的有效性和安全性的单臂、开放、多中心2期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "局部晚期或转移性胆道恶性肿瘤"
+      ],
+      "keywords": [
+        "AST-001 注射液"
+      ],
+      "interventions": [
+        {
+          "name": "AST-001 注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价AST-001治疗局部晚期或转移性胆道恶性肿瘤的有效性和安全性的单臂、开放、多中心2期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264398",
+      "plainSummary": "NMPA 公开登记：AST-001 注射液；适应症：局部晚期或转移性胆道恶性肿瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264397",
+      "identifiers": {
+        "nmpa": "CTR20264397"
+      },
+      "briefTitle": "STC007注射液的药代动力学特征及对QT/QTc间期影响的I期临床研究",
+      "officialTitle": "STC007注射液的药代动力学特征及对QT/QTc间期影响的I期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "术后疼痛；接受血液透析（HD）的成人慢性肾病（CKD-aP）相关的中至重度瘙痒"
+      ],
+      "keywords": [
+        "STC007注射液"
+      ],
+      "interventions": [
+        {
+          "name": "STC007注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "STC007注射液的药代动力学特征及对QT/QTc间期影响的I期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264397",
+      "plainSummary": "NMPA 公开登记：STC007注射液；适应症：术后疼痛；接受血液透析（HD）的成人慢性肾病（CKD-aP）相关的中至重度瘙痒。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264396",
+      "identifiers": {
+        "nmpa": "CTR20264396"
+      },
+      "briefTitle": "CM336联合CM313治疗复发或难治性多发性骨髓瘤III期研究(仅开展第一阶段研究)",
+      "officialTitle": "CM336联合CM313治疗复发或难治性多发性骨髓瘤III期研究(仅开展第一阶段研究)",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "复发或难治性多发性骨髓瘤"
+      ],
+      "keywords": [
+        "CM336注射液"
+      ],
+      "interventions": [
+        {
+          "name": "CM336注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "CM336联合CM313治疗复发或难治性多发性骨髓瘤III期研究(仅开展第一阶段研究)"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE3",
+      "developmentStageLabel": "Ⅲ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264396",
+      "plainSummary": "NMPA 公开登记：CM336注射液；适应症：复发或难治性多发性骨髓瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264391",
+      "identifiers": {
+        "nmpa": "CTR20264391"
+      },
+      "briefTitle": "[14C]ACC017 在健康成年男性参与者中的物质平衡研究",
+      "officialTitle": "[14C]ACC017 在健康成年男性参与者中的物质平衡研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "与其他抗逆转录药物联合，治疗成人人类免疫缺陷病毒1 型（HIV-1）感染。"
+      ],
+      "keywords": [
+        "[14C]ACC017"
+      ],
+      "interventions": [
+        {
+          "name": "[14C]ACC017",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "[14C]ACC017 在健康成年男性参与者中的物质平衡研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264391",
+      "plainSummary": "NMPA 公开登记：[14C]ACC017；适应症：与其他抗逆转录药物联合，治疗成人人类免疫缺陷病毒1 型（HIV-1）感染。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264357",
+      "identifiers": {
+        "nmpa": "CTR20264357"
+      },
+      "briefTitle": "蒿甲醚本芴醇片人体生物等效性研究",
+      "officialTitle": "蒿甲醚本芴醇片人体生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "蒿甲醚本芴醇片是两种抗疟药物蒿甲醚和本芴醇的混合物，用于治疗2个月及以上体重为5公斤及以上的恶性疟原虫引起的急性、无并发症疟疾感染。 蒿甲醚本芴醇片已被证明在已报告对氯喹耐药的地理区域有效。"
+      ],
+      "keywords": [
+        "蒿甲醚本芴醇片"
+      ],
+      "interventions": [
+        {
+          "name": "蒿甲醚本芴醇片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "蒿甲醚本芴醇片人体生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264357",
+      "plainSummary": "NMPA 公开登记：蒿甲醚本芴醇片；适应症：蒿甲醚本芴醇片是两种抗疟药物蒿甲醚和本芴醇的混合物，用于治疗2个月及以上体重为5公斤及以上的恶性疟原虫引起的急性、无并发症疟疾感染。 蒿甲醚本芴醇片已被证明在已报告对氯喹耐药的地理区域有效。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264354",
+      "identifiers": {
+        "nmpa": "CTR20264354"
+      },
+      "briefTitle": "雌二醇地屈孕酮片人体生物等效性预试验",
+      "officialTitle": "雌二醇地屈孕酮片人体生物等效性预试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品为激素替代治疗（HRT）药物，适用于治疗绝经后至少12个月的女性的雌激素缺乏症状。 本品在65岁以上女性中的治疗经验有限。"
+      ],
+      "keywords": [
+        "雌二醇地屈孕酮片"
+      ],
+      "interventions": [
+        {
+          "name": "雌二醇地屈孕酮片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "雌二醇地屈孕酮片人体生物等效性预试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264354",
+      "plainSummary": "NMPA 公开登记：雌二醇地屈孕酮片；适应症：本品为激素替代治疗（HRT）药物，适用于治疗绝经后至少12个月的女性的雌激素缺乏症状。 本品在65岁以上女性中的治疗经验有限。。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
