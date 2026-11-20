@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-19T11:57:02Z",
-  "sourceProcessedAt": "2026-11-19T11:57:02Z",
+  "generatedAt": "2026-11-20T11:57:59Z",
+  "sourceProcessedAt": "2026-11-20T11:57:59Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 373,
+  "recordCount": 380,
   "records": [
     {
       "id": "CTR20260083",
@@ -13428,6 +13428,258 @@
       "developmentStageLabel": "BE 生物等效性试验",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264354",
       "plainSummary": "NMPA 公开登记：雌二醇地屈孕酮片；适应症：本品为激素替代治疗（HRT）药物，适用于治疗绝经后至少12个月的女性的雌激素缺乏症状。 本品在65岁以上女性中的治疗经验有限。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264431",
+      "identifiers": {
+        "nmpa": "CTR20264431"
+      },
+      "briefTitle": "在多发性骨髓瘤参与者中评估QLS4131单药对比研究者选择的方案的有效性和安全性的III期研究",
+      "officialTitle": "在多发性骨髓瘤参与者中评估QLS4131单药对比研究者选择的方案的有效性和安全性的III期研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "多发性骨髓瘤"
+      ],
+      "keywords": [
+        "注射用QLS4131"
+      ],
+      "interventions": [
+        {
+          "name": "注射用QLS4131",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "在多发性骨髓瘤参与者中评估QLS4131单药对比研究者选择的方案的有效性和安全性的III期研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE3",
+      "developmentStageLabel": "Ⅲ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264431",
+      "plainSummary": "NMPA 公开登记：注射用QLS4131；适应症：多发性骨髓瘤。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264427",
+      "identifiers": {
+        "nmpa": "CTR20264427"
+      },
+      "briefTitle": "前列腺癌患者单次皮下给予注射用醋酸亮丙瑞林微球的随机、开放、平行设计的生物等效性试验",
+      "officialTitle": "前列腺癌患者单次皮下给予注射用醋酸亮丙瑞林微球的随机、开放、平行设计的生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "子宫内膜异位症、子宫肌瘤、中枢性性早熟、绝经前乳腺癌、前列腺癌。"
+      ],
+      "keywords": [
+        "注射用醋酸亮丙瑞林微球"
+      ],
+      "interventions": [
+        {
+          "name": "注射用醋酸亮丙瑞林微球",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "前列腺癌患者单次皮下给予注射用醋酸亮丙瑞林微球的随机、开放、平行设计的生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264427",
+      "plainSummary": "NMPA 公开登记：注射用醋酸亮丙瑞林微球；适应症：子宫内膜异位症、子宫肌瘤、中枢性性早熟、绝经前乳腺癌、前列腺癌。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264424",
+      "identifiers": {
+        "nmpa": "CTR20264424"
+      },
+      "briefTitle": "ABP-671-肝损研究",
+      "officialTitle": "ABP-671-肝损研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "痛风"
+      ],
+      "keywords": [
+        "ABP-671片"
+      ],
+      "interventions": [
+        {
+          "name": "ABP-671片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "ABP-671-肝损研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264424",
+      "plainSummary": "NMPA 公开登记：ABP-671片；适应症：痛风。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264409",
+      "identifiers": {
+        "nmpa": "CTR20264409"
+      },
+      "briefTitle": "普罗布考片生物等效性试验",
+      "officialTitle": "普罗布考片生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于治疗高胆固醇血症。"
+      ],
+      "keywords": [
+        "普罗布考片"
+      ],
+      "interventions": [
+        {
+          "name": "普罗布考片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "普罗布考片生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264409",
+      "plainSummary": "NMPA 公开登记：普罗布考片；适应症：用于治疗高胆固醇血症。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264406",
+      "identifiers": {
+        "nmpa": "CTR20264406"
+      },
+      "briefTitle": "双氯芬酸二乙胺乳胶剂在中国成年健康试验参与者中的生物等效性研究",
+      "officialTitle": "双氯芬酸二乙胺乳胶剂在中国成年健康试验参与者中的生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于缓解肌肉、软组织和关节的轻至中度疼痛。如：缓解肌肉、软组织的扭伤、拉伤、挫伤、劳损、腰背部损伤引起的疼痛以及关节疼痛等。也可用于骨关节炎的对症治疗。"
+      ],
+      "keywords": [
+        "双氯芬酸二乙胺乳胶剂"
+      ],
+      "interventions": [
+        {
+          "name": "双氯芬酸二乙胺乳胶剂",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "双氯芬酸二乙胺乳胶剂在中国成年健康试验参与者中的生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264406",
+      "plainSummary": "NMPA 公开登记：双氯芬酸二乙胺乳胶剂；适应症：用于缓解肌肉、软组织和关节的轻至中度疼痛。如：缓解肌肉、软组织的扭伤、拉伤、挫伤、劳损、腰背部损伤引起的疼痛以及关节疼痛等。也可用于骨关节炎的对症治疗。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264400",
+      "identifiers": {
+        "nmpa": "CTR20264400"
+      },
+      "briefTitle": "一项BGB-B2033 对比索拉非尼或仑伐替尼治疗复发性肝细胞癌患者的研究",
+      "officialTitle": "一项BGB-B2033 对比索拉非尼或仑伐替尼治疗复发性肝细胞癌患者的研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "复发性肝细胞癌"
+      ],
+      "keywords": [
+        "BGB-B2033"
+      ],
+      "interventions": [
+        {
+          "name": "BGB-B2033",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项BGB-B2033 对比索拉非尼或仑伐替尼治疗复发性肝细胞癌患者的研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264400",
+      "plainSummary": "NMPA 公开登记：BGB-B2033；适应症：复发性肝细胞癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264392",
+      "identifiers": {
+        "nmpa": "CTR20264392"
+      },
+      "briefTitle": "LNK01004软膏治疗慢性手部湿疹的II期临床试验",
+      "officialTitle": "LNK01004软膏治疗慢性手部湿疹的II期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "慢性手部湿疹"
+      ],
+      "keywords": [
+        "LNK01004软膏"
+      ],
+      "interventions": [
+        {
+          "name": "LNK01004软膏",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "LNK01004软膏治疗慢性手部湿疹的II期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264392",
+      "plainSummary": "NMPA 公开登记：LNK01004软膏；适应症：慢性手部湿疹。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
