@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-22T11:44:59Z",
-  "sourceProcessedAt": "2026-11-22T11:44:59Z",
+  "generatedAt": "2026-11-23T13:22:44Z",
+  "sourceProcessedAt": "2026-11-23T13:22:44Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 380,
+  "recordCount": 383,
   "records": [
     {
       "id": "CTR20260083",
@@ -13680,6 +13680,114 @@
       "developmentStageLabel": "Ⅱ期",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264392",
       "plainSummary": "NMPA 公开登记：LNK01004软膏；适应症：慢性手部湿疹。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264448",
+      "identifiers": {
+        "nmpa": "CTR20264448"
+      },
+      "briefTitle": "评价艾考糊精腹膜透析液的等效性临床试验",
+      "officialTitle": "评价艾考糊精腹膜透析液的等效性临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "艾考糊精腹膜透析液用于终末期肾病（ESRD）患者的持续性不卧床腹膜透析（CAPD）每日单次长时间留腹（8小时至16小时）治疗。 艾考糊精腹膜透析液用于改善高平均转运或高转运（通过腹膜平衡试验PET诊断）患者的长时间留腹超滤作用以及肌酐和尿素氮清除率。"
+      ],
+      "keywords": [
+        "艾考糊精腹膜透析液"
+      ],
+      "interventions": [
+        {
+          "name": "艾考糊精腹膜透析液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价艾考糊精腹膜透析液的等效性临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264448",
+      "plainSummary": "NMPA 公开登记：艾考糊精腹膜透析液；适应症：艾考糊精腹膜透析液用于终末期肾病（ESRD）患者的持续性不卧床腹膜透析（CAPD）每日单次长时间留腹（8小时至16小时）治疗。 艾考糊精腹膜透析液用于改善高平均转运或高转运（通过腹膜平衡试验PET诊断）患者的长时间留腹超滤作用以及肌酐和尿素氮清除率。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264440",
+      "identifiers": {
+        "nmpa": "CTR20264440"
+      },
+      "briefTitle": "HRS-7172单药或联合抗肿瘤治疗在晚期肺癌参与者中的安全性、耐受性和有效性的II期临床研究",
+      "officialTitle": "HRS-7172单药或联合抗肿瘤治疗在晚期肺癌参与者中的安全性、耐受性和有效性的II期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "肺癌"
+      ],
+      "keywords": [
+        "HRS-7172片"
+      ],
+      "interventions": [
+        {
+          "name": "HRS-7172片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "HRS-7172单药或联合抗肿瘤治疗在晚期肺癌参与者中的安全性、耐受性和有效性的II期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264440",
+      "plainSummary": "NMPA 公开登记：HRS-7172片；适应症：肺癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264439",
+      "identifiers": {
+        "nmpa": "CTR20264439"
+      },
+      "briefTitle": "雌二醇左炔诺孕酮贴片人体生物等效性研究",
+      "officialTitle": "雌二醇左炔诺孕酮贴片人体生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "治疗绝经所致的中度至重度血管舒缩症状，预防绝经后骨质疏松症。"
+      ],
+      "keywords": [
+        "雌二醇左炔诺孕酮贴片"
+      ],
+      "interventions": [
+        {
+          "name": "雌二醇左炔诺孕酮贴片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "雌二醇左炔诺孕酮贴片人体生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264439",
+      "plainSummary": "NMPA 公开登记：雌二醇左炔诺孕酮贴片；适应症：治疗绝经所致的中度至重度血管舒缩症状，预防绝经后骨质疏松症。。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
