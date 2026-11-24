@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-23T13:22:44Z",
-  "sourceProcessedAt": "2026-11-23T13:22:44Z",
+  "generatedAt": "2026-11-24T14:02:10Z",
+  "sourceProcessedAt": "2026-11-24T14:02:10Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 383,
+  "recordCount": 391,
   "records": [
     {
       "id": "CTR20260083",
@@ -13788,6 +13788,294 @@
       "developmentStageLabel": "BE 生物等效性试验",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264439",
       "plainSummary": "NMPA 公开登记：雌二醇左炔诺孕酮贴片；适应症：治疗绝经所致的中度至重度血管舒缩症状，预防绝经后骨质疏松症。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264459",
+      "identifiers": {
+        "nmpa": "CTR20264459"
+      },
+      "briefTitle": "Raludotatug Deruxtecan联合或不联合贝伐珠单抗作为铂敏感复发性卵巢癌二线维持治疗的III期试验",
+      "officialTitle": "Raludotatug Deruxtecan联合或不联合贝伐珠单抗作为铂敏感复发性卵巢癌二线维持治疗的III期试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "卵巢癌"
+      ],
+      "keywords": [
+        "注射用DS-6000a"
+      ],
+      "interventions": [
+        {
+          "name": "注射用DS-6000a",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "Raludotatug Deruxtecan联合或不联合贝伐珠单抗作为铂敏感复发性卵巢癌二线维持治疗的III期试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE3",
+      "developmentStageLabel": "Ⅲ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264459",
+      "plainSummary": "NMPA 公开登记：注射用DS-6000a；适应症：卵巢癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264444",
+      "identifiers": {
+        "nmpa": "CTR20264444"
+      },
+      "briefTitle": "甲苯磺酸尼拉帕利胶囊生物等效性预试验",
+      "officialTitle": "甲苯磺酸尼拉帕利胶囊生物等效性预试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品适用于晚期上皮性卵巢癌、输卵管癌或原发性腹膜癌成人患者对一线含铂化疗达到完全缓解或部分缓解后的维持治疗。本品适用于铂敏感的复发性上皮性卵巢癌、输卵管癌或原发性腹膜癌成人患者在含铂化疗达到完全缓解或部分缓解后的维持治疗。"
+      ],
+      "keywords": [
+        "甲苯磺酸尼拉帕利胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "甲苯磺酸尼拉帕利胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "甲苯磺酸尼拉帕利胶囊生物等效性预试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264444",
+      "plainSummary": "NMPA 公开登记：甲苯磺酸尼拉帕利胶囊；适应症：本品适用于晚期上皮性卵巢癌、输卵管癌或原发性腹膜癌成人患者对一线含铂化疗达到完全缓解或部分缓解后的维持治疗。本品适用于铂敏感的复发性上皮性卵巢癌、输卵管癌或原发性腹膜癌成人患者在含铂化疗达到完全缓解或部分缓解后的维持治疗。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264441",
+      "identifiers": {
+        "nmpa": "CTR20264441"
+      },
+      "briefTitle": "吸入用丙酸倍氯米松混悬液生物等效性试验",
+      "officialTitle": "吸入用丙酸倍氯米松混悬液生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "治疗哮喘及改善支气管阻塞症状。"
+      ],
+      "keywords": [
+        "吸入用丙酸倍氯米松混悬液"
+      ],
+      "interventions": [
+        {
+          "name": "吸入用丙酸倍氯米松混悬液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "吸入用丙酸倍氯米松混悬液生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264441",
+      "plainSummary": "NMPA 公开登记：吸入用丙酸倍氯米松混悬液；适应症：治疗哮喘及改善支气管阻塞症状。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264438",
+      "identifiers": {
+        "nmpa": "CTR20264438"
+      },
+      "briefTitle": "在健康试验参与者中评价AND017对QT/QTc间期影响的随机、双盲、安慰剂对照的浓度-QTc研究",
+      "officialTitle": "在健康试验参与者中评价AND017对QT/QTc间期影响的随机、双盲、安慰剂对照的浓度-QTc研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "贫血"
+      ],
+      "keywords": [
+        "AND017胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "AND017胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "在健康试验参与者中评价AND017对QT/QTc间期影响的随机、双盲、安慰剂对照的浓度-QTc研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264438",
+      "plainSummary": "NMPA 公开登记：AND017胶囊；适应症：贫血。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264436",
+      "identifiers": {
+        "nmpa": "CTR20264436"
+      },
+      "briefTitle": "一项在健康试验参与者中评价氟康唑和利福平对AND017药代动力学影响，AND017对瑞舒伐他汀和多替拉韦药代动力学影响，以及碳酸司维拉姆对AND017药代动力学影响的I期、单中心、开放研究",
+      "officialTitle": "一项在健康试验参与者中评价氟康唑和利福平对AND017药代动力学影响，AND017对瑞舒伐他汀和多替拉韦药代动力学影响，以及碳酸司维拉姆对AND017药代动力学影响的I期、单中心、开放研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "贫血"
+      ],
+      "keywords": [
+        "AND017胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "AND017胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项在健康试验参与者中评价氟康唑和利福平对AND017药代动力学影响，AND017对瑞舒伐他汀和多替拉韦药代动力学影响，以及碳酸司维拉姆对AND017药代动力学影响的I期、单中心、开放研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264436",
+      "plainSummary": "NMPA 公开登记：AND017胶囊；适应症：贫血。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264423",
+      "identifiers": {
+        "nmpa": "CTR20264423"
+      },
+      "briefTitle": "KHN707片Ib/II期临床试验",
+      "officialTitle": "KHN707片Ib/II期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "失眠症"
+      ],
+      "keywords": [
+        "KHN707片"
+      ],
+      "interventions": [
+        {
+          "name": "KHN707片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "KHN707片Ib/II期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264423",
+      "plainSummary": "NMPA 公开登记：KHN707片；适应症：失眠症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264420",
+      "identifiers": {
+        "nmpa": "CTR20264420"
+      },
+      "briefTitle": "一项评价口服ZN-F-6418胶囊联合其他抗肿瘤药物在KRAS G12D突变的晚期实体瘤参与者中的安全性、耐受性、药代动力学与初步有效性的Ic期临床研究",
+      "officialTitle": "一项评价口服ZN-F-6418胶囊联合其他抗肿瘤药物在KRAS G12D突变的晚期实体瘤参与者中的安全性、耐受性、药代动力学与初步有效性的Ic期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "晚期结直肠癌、胰腺癌"
+      ],
+      "keywords": [
+        "ZN-F-6418胶囊"
+      ],
+      "interventions": [
+        {
+          "name": "ZN-F-6418胶囊",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "一项评价口服ZN-F-6418胶囊联合其他抗肿瘤药物在KRAS G12D突变的晚期实体瘤参与者中的安全性、耐受性、药代动力学与初步有效性的Ic期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264420",
+      "plainSummary": "NMPA 公开登记：ZN-F-6418胶囊；适应症：晚期结直肠癌、胰腺癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264399",
+      "identifiers": {
+        "nmpa": "CTR20264399"
+      },
+      "briefTitle": "评价AP026在成年健康参与者中单次/多次给药的随机、双盲、安慰剂对照的Ⅰ期临床试验",
+      "officialTitle": "评价AP026在成年健康参与者中单次/多次给药的随机、双盲、安慰剂对照的Ⅰ期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "非酒精性脂肪性肝炎、高脂血症、超重/肥胖"
+      ],
+      "keywords": [
+        "注射用AP026"
+      ],
+      "interventions": [
+        {
+          "name": "注射用AP026",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价AP026在成年健康参与者中单次/多次给药的随机、双盲、安慰剂对照的Ⅰ期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE1",
+      "developmentStageLabel": "Ⅰ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264399",
+      "plainSummary": "NMPA 公开登记：注射用AP026；适应症：非酒精性脂肪性肝炎、高脂血症、超重/肥胖。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
