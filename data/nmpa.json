@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-24T14:02:10Z",
-  "sourceProcessedAt": "2026-11-24T14:02:10Z",
+  "generatedAt": "2026-11-25T13:16:18Z",
+  "sourceProcessedAt": "2026-11-25T13:16:18Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 391,
+  "recordCount": 395,
   "records": [
     {
       "id": "CTR20260083",
@@ -14076,6 +14076,150 @@
       "developmentStageLabel": "Ⅰ期",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264399",
       "plainSummary": "NMPA 公开登记：注射用AP026；适应症：非酒精性脂肪性肝炎、高脂血症、超重/肥胖。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264467",
+      "identifiers": {
+        "nmpa": "CTR20264467"
+      },
+      "briefTitle": "JNJ-98768111治疗晚期前列腺癌",
+      "officialTitle": "JNJ-98768111治疗晚期前列腺癌",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "前列腺癌"
+      ],
+      "keywords": [
+        "注射用JNJ-98768111"
+      ],
+      "interventions": [
+        {
+          "name": "注射用JNJ-98768111",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "JNJ-98768111治疗晚期前列腺癌"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264467",
+      "plainSummary": "NMPA 公开登记：注射用JNJ-98768111；适应症：前列腺癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264460",
+      "identifiers": {
+        "nmpa": "CTR20264460"
+      },
+      "briefTitle": "硫酸羟氯喹片在中国健康试验参与者中的随机、开放、两制剂、单剂量、单周期、平行、餐后状态下的生物等效性试验",
+      "officialTitle": "硫酸羟氯喹片在中国健康试验参与者中的随机、开放、两制剂、单剂量、单周期、平行、餐后状态下的生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "类风湿关节炎，青少年慢性关节炎，盘状和系统性红斑狼疮，以及由阳光引发或加剧的皮肤疾病。"
+      ],
+      "keywords": [
+        "硫酸羟氯喹片"
+      ],
+      "interventions": [
+        {
+          "name": "硫酸羟氯喹片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "硫酸羟氯喹片在中国健康试验参与者中的随机、开放、两制剂、单剂量、单周期、平行、餐后状态下的生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264460",
+      "plainSummary": "NMPA 公开登记：硫酸羟氯喹片；适应症：类风湿关节炎，青少年慢性关节炎，盘状和系统性红斑狼疮，以及由阳光引发或加剧的皮肤疾病。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264445",
+      "identifiers": {
+        "nmpa": "CTR20264445"
+      },
+      "briefTitle": "在成年健康试验参与者中评价单次和多次口服LS205口崩片的安全性与药代动力学特征的I期临床试验",
+      "officialTitle": "在成年健康试验参与者中评价单次和多次口服LS205口崩片的安全性与药代动力学特征的I期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "适用于因手术禁忌或患者拒绝而无法实施脑脊液分流术的正常压力脑积水患者。"
+      ],
+      "keywords": [
+        "LS205口崩片"
+      ],
+      "interventions": [
+        {
+          "name": "LS205口崩片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "在成年健康试验参与者中评价单次和多次口服LS205口崩片的安全性与药代动力学特征的I期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264445",
+      "plainSummary": "NMPA 公开登记：LS205口崩片；适应症：适用于因手术禁忌或患者拒绝而无法实施脑脊液分流术的正常压力脑积水患者。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264413",
+      "identifiers": {
+        "nmpa": "CTR20264413"
+      },
+      "briefTitle": "HB0043在中度至重度化脓性汗腺炎参与者中的有效性和安全性的多中心、随机、双盲、安慰剂对照II期临床试验",
+      "officialTitle": "HB0043在中度至重度化脓性汗腺炎参与者中的有效性和安全性的多中心、随机、双盲、安慰剂对照II期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "化脓性汗腺炎"
+      ],
+      "keywords": [
+        "注射用HB0043（皮下注射）"
+      ],
+      "interventions": [
+        {
+          "name": "注射用HB0043（皮下注射）",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "HB0043在中度至重度化脓性汗腺炎参与者中的有效性和安全性的多中心、随机、双盲、安慰剂对照II期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264413",
+      "plainSummary": "NMPA 公开登记：注射用HB0043（皮下注射）；适应症：化脓性汗腺炎。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
