@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-25T13:16:18Z",
-  "sourceProcessedAt": "2026-11-25T13:16:18Z",
+  "generatedAt": "2026-11-26T12:57:05Z",
+  "sourceProcessedAt": "2026-11-26T12:57:05Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 395,
+  "recordCount": 400,
   "records": [
     {
       "id": "CTR20260083",
@@ -14220,6 +14220,186 @@
       "developmentStageLabel": "Ⅱ期",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264413",
       "plainSummary": "NMPA 公开登记：注射用HB0043（皮下注射）；适应症：化脓性汗腺炎。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264498",
+      "identifiers": {
+        "nmpa": "CTR20264498"
+      },
+      "briefTitle": "评估SKB500联合SKB118治疗广泛期小细胞肺癌参与者的Ⅱ期临床研究",
+      "officialTitle": "评估SKB500联合SKB118治疗广泛期小细胞肺癌参与者的Ⅱ期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "小细胞肺癌"
+      ],
+      "keywords": [
+        "注射用SKB500"
+      ],
+      "interventions": [
+        {
+          "name": "注射用SKB500",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评估SKB500联合SKB118治疗广泛期小细胞肺癌参与者的Ⅱ期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264498",
+      "plainSummary": "NMPA 公开登记：注射用SKB500；适应症：小细胞肺癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264487",
+      "identifiers": {
+        "nmpa": "CTR20264487"
+      },
+      "briefTitle": "AMBITION 1：一项在接受饮食和运动治疗的 2 型糖尿病患者中探究 Zenagamtide 相比安慰剂在降低血糖和体重方面效果的试验性研究",
+      "officialTitle": "AMBITION 1：一项在接受饮食和运动治疗的 2 型糖尿病患者中探究 Zenagamtide 相比安慰剂在降低血糖和体重方面效果的试验性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "2型糖尿病"
+      ],
+      "keywords": [
+        "N/A"
+      ],
+      "interventions": [
+        {
+          "name": "N/A",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "AMBITION 1：一项在接受饮食和运动治疗的 2 型糖尿病患者中探究 Zenagamtide 相比安慰剂在降低血糖和体重方面效果的试验性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264487",
+      "plainSummary": "NMPA 公开登记：N/A；适应症：2型糖尿病。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264453",
+      "identifiers": {
+        "nmpa": "CTR20264453"
+      },
+      "briefTitle": "[14C]MT200605的物质平衡临床研究",
+      "officialTitle": "[14C]MT200605的物质平衡临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "治疗脑缺血再灌注后的脑组织损伤及缺血性脑卒中后神经修复"
+      ],
+      "keywords": [
+        "[14C]MT200605"
+      ],
+      "interventions": [
+        {
+          "name": "[14C]MT200605",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "[14C]MT200605的物质平衡临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264453",
+      "plainSummary": "NMPA 公开登记：[14C]MT200605；适应症：治疗脑缺血再灌注后的脑组织损伤及缺血性脑卒中后神经修复。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264435",
+      "identifiers": {
+        "nmpa": "CTR20264435"
+      },
+      "briefTitle": "在健康参与者中评价HS-10506对咪达唑仑药代动力学影响的临床试验",
+      "officialTitle": "在健康参与者中评价HS-10506对咪达唑仑药代动力学影响的临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "拟用于抑郁症和失眠"
+      ],
+      "keywords": [
+        "HS-10506片"
+      ],
+      "interventions": [
+        {
+          "name": "HS-10506片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "在健康参与者中评价HS-10506对咪达唑仑药代动力学影响的临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264435",
+      "plainSummary": "NMPA 公开登记：HS-10506片；适应症：拟用于抑郁症和失眠。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264430",
+      "identifiers": {
+        "nmpa": "CTR20264430"
+      },
+      "briefTitle": "阿贝西利片（150 mg）在健康成年试验参与者中的生物等效性试验",
+      "officialTitle": "阿贝西利片（150 mg）在健康成年试验参与者中的生物等效性试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "早期乳腺癌及局部晚期或转移性乳腺癌"
+      ],
+      "keywords": [
+        "阿贝西利片"
+      ],
+      "interventions": [
+        {
+          "name": "阿贝西利片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "阿贝西利片（150 mg）在健康成年试验参与者中的生物等效性试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264430",
+      "plainSummary": "NMPA 公开登记：阿贝西利片；适应症：早期乳腺癌及局部晚期或转移性乳腺癌。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
