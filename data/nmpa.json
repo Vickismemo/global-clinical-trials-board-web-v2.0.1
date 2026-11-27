@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-26T12:57:05Z",
-  "sourceProcessedAt": "2026-11-26T12:57:05Z",
+  "generatedAt": "2026-11-27T12:53:06Z",
+  "sourceProcessedAt": "2026-11-27T12:53:06Z",
   "note": "自动同步公开查询结果；包含公开列表、年度 CTR 前缀回填和交叉注册种子。不会绕过验证码、登录或访问控制。",
   "sourceName": "NMPA Drug Clinical Trial Registry",
-  "recordCount": 400,
+  "recordCount": 407,
   "records": [
     {
       "id": "CTR20260083",
@@ -14400,6 +14400,258 @@
       "developmentStageLabel": "BE 生物等效性试验",
       "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264430",
       "plainSummary": "NMPA 公开登记：阿贝西利片；适应症：早期乳腺癌及局部晚期或转移性乳腺癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264492",
+      "identifiers": {
+        "nmpa": "CTR20264492"
+      },
+      "briefTitle": "盐酸羟考酮片在空腹状态下的药代动力学试验研究",
+      "officialTitle": "盐酸羟考酮片在空腹状态下的药代动力学试验研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于缓解中度至重度癌症疼痛"
+      ],
+      "keywords": [
+        "盐酸羟考酮片"
+      ],
+      "interventions": [
+        {
+          "name": "盐酸羟考酮片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "盐酸羟考酮片在空腹状态下的药代动力学试验研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264492",
+      "plainSummary": "NMPA 公开登记：盐酸羟考酮片；适应症：用于缓解中度至重度癌症疼痛。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264474",
+      "identifiers": {
+        "nmpa": "CTR20264474"
+      },
+      "briefTitle": "HY3003注射液在健康和超重或肥胖试验参与者中单次和多次给药的I期临床试验",
+      "officialTitle": "HY3003注射液在健康和超重或肥胖试验参与者中单次和多次给药的I期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "本品拟开发用于在控制饮食和增加体力活动的基础上，用于初始体重指数（BMI） 符合以下要求的成人的长期体重管理：≥28 kg/m2（肥胖），或 ≥24 kg/m（超重）并伴有至少一种体重相关合并症，例如高血压、血脂异常等。"
+      ],
+      "keywords": [
+        "HY3003注射液"
+      ],
+      "interventions": [
+        {
+          "name": "HY3003注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "HY3003注射液在健康和超重或肥胖试验参与者中单次和多次给药的I期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264474",
+      "plainSummary": "NMPA 公开登记：HY3003注射液；适应症：本品拟开发用于在控制饮食和增加体力活动的基础上，用于初始体重指数（BMI） 符合以下要求的成人的长期体重管理：≥28 kg/m2（肥胖），或 ≥24 kg/m（超重）并伴有至少一种体重相关合并症，例如高血压、血脂异常等。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264473",
+      "identifiers": {
+        "nmpa": "CTR20264473"
+      },
+      "briefTitle": "盐酸哌罗匹隆片空腹生物等效性研究",
+      "officialTitle": "盐酸哌罗匹隆片空腹生物等效性研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "治疗精神分裂症"
+      ],
+      "keywords": [
+        "盐酸哌罗匹隆片"
+      ],
+      "interventions": [
+        {
+          "name": "盐酸哌罗匹隆片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "盐酸哌罗匹隆片空腹生物等效性研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "BE",
+      "developmentStageLabel": "BE 生物等效性试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264473",
+      "plainSummary": "NMPA 公开登记：盐酸哌罗匹隆片；适应症：治疗精神分裂症。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264472",
+      "identifiers": {
+        "nmpa": "CTR20264472"
+      },
+      "briefTitle": "评估HDM4002在健康受试者中安全性、耐受性、药代动力学及药效学的I期临床研究",
+      "officialTitle": "评估HDM4002在健康受试者中安全性、耐受性、药代动力学及药效学的I期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "用于治疗具有疾病进展风险的原发性免疫球蛋白A（IgA）肾病成人患者，以减少肾功能损失。"
+      ],
+      "keywords": [
+        "HDM4002注射液"
+      ],
+      "interventions": [
+        {
+          "name": "HDM4002注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评估HDM4002在健康受试者中安全性、耐受性、药代动力学及药效学的I期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PK",
+      "developmentStageLabel": "PK 药代动力学试验",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264472",
+      "plainSummary": "NMPA 公开登记：HDM4002注射液；适应症：用于治疗具有疾病进展风险的原发性免疫球蛋白A（IgA）肾病成人患者，以减少肾功能损失。。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264471",
+      "identifiers": {
+        "nmpa": "CTR20264471"
+      },
+      "briefTitle": "评价复方果糖电解质注射液用于骨创伤术后患者均衡补液的Ⅱ期临床试验",
+      "officialTitle": "评价复方果糖电解质注射液用于骨创伤术后患者均衡补液的Ⅱ期临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "骨创伤术后患者均衡补液"
+      ],
+      "keywords": [
+        "复方果糖电解质注射液"
+      ],
+      "interventions": [
+        {
+          "name": "复方果糖电解质注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "评价复方果糖电解质注射液用于骨创伤术后患者均衡补液的Ⅱ期临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE2",
+      "developmentStageLabel": "Ⅱ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264471",
+      "plainSummary": "NMPA 公开登记：复方果糖电解质注射液；适应症：骨创伤术后患者均衡补液。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264468",
+      "identifiers": {
+        "nmpa": "CTR20264468"
+      },
+      "briefTitle": "HRS-1738注射液PET/CT在拟接受前列腺癌根治术的前列腺癌参与者中检测盆腔淋巴结转移诊断的III期临床研究",
+      "officialTitle": "HRS-1738注射液PET/CT在拟接受前列腺癌根治术的前列腺癌参与者中检测盆腔淋巴结转移诊断的III期临床研究",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "前列腺癌"
+      ],
+      "keywords": [
+        "HRS-1738注射液"
+      ],
+      "interventions": [
+        {
+          "name": "HRS-1738注射液",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "HRS-1738注射液PET/CT在拟接受前列腺癌根治术的前列腺癌参与者中检测盆腔淋巴结转移诊断的III期临床研究"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "PHASE3",
+      "developmentStageLabel": "Ⅲ期",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264468",
+      "plainSummary": "NMPA 公开登记：HRS-1738注射液；适应症：前列腺癌。",
+      "sponsor": {
+        "name": "未公开",
+        "classLabel": "企业/申办方"
+      }
+    },
+    {
+      "id": "CTR20264465",
+      "identifiers": {
+        "nmpa": "CTR20264465"
+      },
+      "briefTitle": "盐酸吉卡昔替尼片治疗血小板计数 50-100×10^9 /L的骨髓纤维化患者的安全性和有效性的临床试验",
+      "officialTitle": "盐酸吉卡昔替尼片治疗血小板计数 50-100×10^9 /L的骨髓纤维化患者的安全性和有效性的临床试验",
+      "statusCode": "NOT_YET_RECRUITING",
+      "statusLabel": "尚未招募",
+      "conditions": [
+        "血小板 50-100×10^9 /L 的骨髓纤维化"
+      ],
+      "keywords": [
+        "盐酸吉卡昔替尼片"
+      ],
+      "interventions": [
+        {
+          "name": "盐酸吉卡昔替尼片",
+          "type": "DRUG",
+          "typeLabel": "药物",
+          "description": "盐酸吉卡昔替尼片治疗血小板计数 50-100×10^9 /L的骨髓纤维化患者的安全性和有效性的临床试验"
+        }
+      ],
+      "registrationPathCode": "REGULATORY_DRUG",
+      "registrationPathNote": "记录来自国家药监局药物临床试验登记与信息公示平台，作为药品注册性临床试验路径证据展示。",
+      "researchTypeCode": "INTERVENTIONAL",
+      "researchTypeLabel": "干预性研究",
+      "developmentStageCode": "UNKNOWN",
+      "developmentStageLabel": "阶段未公开",
+      "sourceRecordUrl": "https://www.chinadrugtrials.org.cn/clinicaltrials.searchlist.dhtml?keywords=CTR20264465",
+      "plainSummary": "NMPA 公开登记：盐酸吉卡昔替尼片；适应症：血小板 50-100×10^9 /L 的骨髓纤维化。",
       "sponsor": {
         "name": "未公开",
         "classLabel": "企业/申办方"
